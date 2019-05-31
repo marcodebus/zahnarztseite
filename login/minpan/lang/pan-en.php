@@ -1,0 +1,48 @@
+<?php
+define('minipan_action','Aktionen');
+define('minipan_all_files_will_be_d_eleted','Alle Dateinen werden gel&ouml;scht');
+define('minipan_are_you_sure_to_d_elete_this_folder','Sind Sie Sicher, dass Sie alle Dateien l&ouml;schen m&ouml;chten');
+define('minipan_browse','Suchen');
+define('minipan_cancel','Abbrechen');
+define('minipan_create_folder','Ordner Erstellen');
+define('minipan_date','Datum');
+define('minipan_d_elete_folder','Ordner L&ouml;schen');
+define('minipan_d_rop_here','Hier her ziehen');
+define('minipan_file_already_exists','Die Datei existiert bereits.');
+define('minipan_file_exists_in_the_destination_folder','Es gibt bereits eine gleichnamige Datei im Ordner');
+define('minipan_file_name_successfully_changed','Dateiname erfolgreich ge&auml;ndert');
+define('minipan_file_successfully_moved','Datei erfolgreich verschoben');
+define('minipan_folders','Ordner');
+define('minipan_folder_name','Orner Name');
+define('minipan_go','Los');
+define('minipan_move','Bewegen');
+define('minipan_move_file','Datei bewegen');
+define('minipan_name','Name');
+define('minipan_no','Nein');
+define('minipan_path_error','Pfad Fehler');
+define('minipan_please_enter_a_file_name','Bitte gebe Sie ein g&uuml;ltigen Dateinamen an.');
+define('minipan_please_enter_a_folder_name','Bitte geben Sie einen g&uuml;ltigen Ordnernamen an.');
+define('minipan_remove','Entfernen');
+define('minipan_removed_successfully','Erfolgreich verschoben');
+define('minipan_remove_file','Datei entfernt.');
+define('minipan_rename','Umbenennen');
+define('minipan_rename_file','Datei Umbenennen');
+define('minipan_rename_folder','Ordner Umbenennen');
+define('minipan_size','Gr&ouml;sse');
+define('minipan_sort','Sortierung');
+define('minipan_system_cannot_catch_of_your_s_elected_file_details','Fehler:, Das System konnte Ihre datei nicht finden.');
+define('minipan_total_file','Anzahl Dateien');
+define('minipan_total_size','Gesamte Datei-Gr&ouml;sse');
+define('minipan_type','Typ');
+define('minipan_unable_to_open','Datei konnte nicht gee&ouml;fnet werden.');
+define('minipan_upload','Hochladen');
+define('minipan_yes','Ja');
+define('minipan_you_cannot_d_elete_main_folder','Sie k&ouml;nnen Diesen Ordner nicht l&ouml;schen.');
+define('minipan_you_cannot_rename_main_folder','Sie k&ouml;nnen diesen Ordner nicht umbenennen.');
+
+define('minipan_error_occured','Fehler erkannt');
+define('minipan_folder_already_exists','Ordner exiistiert bereits.');
+define('minipan_folder_created_success','Ordner erfolgreich angelegt.');
+define('minipan_are_you_sure_to_delete','Sind Sie Sicher, dass Sie diesen Ordner L&ouml;schen m&ouml;chten');
+define('minipan_uploaded_success','Up To Date!');
+?>

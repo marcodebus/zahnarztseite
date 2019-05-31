@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'icomoon-the7-microwidgets-16x16';
+  src:  url('fonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo');
+  src:  url('fonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo#iefix') format('embedded-opentype'),
+    url('fonts/icomoon-the7-microwidgets-16x16.ttf?dqeoeo') format('truetype'),
+    url('fonts/icomoon-the7-microwidgets-16x16.woff?dqeoeo') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="the7-mw-"], [class*="the7-mw-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon-the7-microwidgets-16x16' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+[class^="the7-mw-"]:before,
+[class*="the7-mw-"]:before {
+  font-family: inherit !important;
+  margin: 0 !important;
+}
+
+.the7-mw-icon-address-bold:before {
+  content: "\e900";
+}
+.the7-mw-icon-address:before {
+  content: "\e901";
+}
+.the7-mw-icon-cart-bold:before {
+  content: "\e902";
+}
+.the7-mw-icon-cart:before {
+  content: "\e903";
+}
+.the7-mw-icon-clock-bold:before {
+  content: "\e904";
+}
+.the7-mw-icon-clock:before {
+  content: "\e905";
+}
+.the7-mw-icon-dropdown-menu-bold:before {
+  content: "\e906";
+}
+.the7-mw-icon-dropdown-menu:before {
+  content: "\e907";
+}
+.the7-mw-icon-login-bold:before {
+  content: "\e908";
+}
+.the7-mw-icon-login:before {
+  content: "\e909";
+}
+.the7-mw-icon-mail-bold:before {
+  content: "\e90a";
+}
+.the7-mw-icon-mail:before {
+  content: "\e90b";
+}
+.the7-mw-icon-phone-bold:before {
+  content: "\e90c";
+}
+.the7-mw-icon-phone:before {
+  content: "\e90d";
+}
+.the7-mw-icon-search-bold:before {
+  content: "\e90e";
+}
+.the7-mw-icon-search:before {
+  content: "\e90f";
+}
+.the7-mw-icon-skype-bold:before {
+  content: "\e910";
+}
+.the7-mw-icon-skype:before {
+  content: "\e911";
+}

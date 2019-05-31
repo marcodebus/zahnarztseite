@@ -1,0 +1,62 @@
+
+
+/* Header */
+
+.header
+{
+	position:fixed;
+	left:0;
+	top:0;
+	width:100%;
+	z-index:999;
+	background:#fff;
+	height:60px;
+	box-shadow:0 10px 50px rgba(80,80,140,0.1);
+}
+
+.header .logo
+{
+	position:absolute;
+	top:15px;
+	height:30px;
+	width:auto;
+	cursor:pointer;
+	line-height:30px;
+	font-size:20px;
+	font-weight:500;
+	background:url('../img/logo.png') left center no-repeat;
+	background-size:30px auto;
+	padding-left:35px;
+}
+
+.header .menubutton
+{
+	position:absolute;
+	left:15px;
+	top:15px;
+	width:80px;
+	height:30px; 
+	line-height:30px; 
+	background-image:linear-gradient(to right,#a3cc00 0%, #36b37f 100%);
+	color:#fff; 
+	font-size:12px;
+	text-transform:uppercase;
+	text-align:center;
+	cursor:pointer;
+	transition:all 0.1s ease-in-out;
+	-webkit-transition:all 0.1s ease-in-out;
+	font-weight:700;
+	border-radius:15px;
+	box-shadow:0 5px 20px rgba(80,80,140,0.2);
+}
+
+.header .menubutton:hover
+{
+	transform:translate(0,-2px);
+	box-shadow:0 7px 20px rgba(80,80,140,0.3) !important;
+}
+
+.header .metrics_menu
+{
+	margin-right:15px;
+}

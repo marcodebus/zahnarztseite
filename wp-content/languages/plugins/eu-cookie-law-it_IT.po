@@ -1,0 +1,285 @@
+# Translation of Plugins - EU Cookie Law - Development (trunk) in Italian
+# This file is distributed under the same license as the Plugins - EU Cookie Law - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-18 18:18:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - EU Cookie Law - Development (trunk)\n"
+
+#: class-admin.php:82
+msgid "Exclude Scripts"
+msgstr "Escludi script."
+
+#: class-admin.php:84
+msgid "Check this if you don't want scripts to be blocked."
+msgstr "Seleziona se vuoi che gli script non vengano bloccati."
+
+#: class-frontend.php:256
+msgid "Value"
+msgstr "Valore"
+
+#: class-frontend.php:255
+msgid "Name"
+msgstr "Nome"
+
+#: class-admin.php:42
+msgid "Translate"
+msgstr "Traduci"
+
+#: class-admin.php:136
+msgid "Top Center"
+msgstr "Alto Centrato"
+
+#: class-admin.php:142
+msgid "Bottom Center"
+msgstr "Basso Centrato"
+
+#: class-admin.php:182
+msgid "Custom Message"
+msgstr "Messaggio Personalizzato"
+
+#: class-admin.php:36
+msgid "Changelog"
+msgstr "Changelog"
+
+#: class-admin.php:39
+msgid "Rate us"
+msgstr "Votaci"
+
+#: class-admin.php:45
+msgid "Support"
+msgstr "Supporto"
+
+#: class-admin.php:75
+msgid "Activate"
+msgstr "Attiva"
+
+#: class-admin.php:78
+msgid "Auto Block"
+msgstr "Blocco Automatico"
+
+#: class-admin.php:80
+msgid "This function will automatically block iframes, embeds and scripts in your post, pages and widgets."
+msgstr "Questa funzione bloccherà in automatico iframe, embed e script in articoli, pagine e widget."
+
+#: class-admin.php:90
+msgid "Enable TinyMCE Button"
+msgstr "Abilita pulsante TinyMce"
+
+#: class-admin.php:95
+msgid "Cookie acceptance length"
+msgstr "Durata accettazione cookie"
+
+#: class-admin.php:99
+msgid "days"
+msgstr "giorni"
+
+#: class-admin.php:101
+msgid "weeks"
+msgstr "settimane"
+
+#: class-admin.php:103
+msgid "months"
+msgstr "mesi"
+
+#: class-admin.php:105
+msgid "Once the user clicks accept the bar will disappear. You can set how long this will apply for before the bar reappears to the user."
+msgstr "Quando l'utente clicca accetta la barra scompare. Puoi impostare quanto tempo trascorra prima che la barra riappaia all'utente."
+
+#: class-admin.php:108
+msgid "Scroll Consent"
+msgstr "Consenso su Scroll"
+
+#: class-admin.php:110
+msgid "Click here if you want to consider scrolling as cookie acceptation. Users should be informed about this..."
+msgstr "Clicca qui se vuoi considerare lo scroll come accettazione. Gli utenti dovrebbero essere informati..."
+
+#: class-admin.php:112
+msgid "Navigation Consent"
+msgstr "Consenso su Navigazione"
+
+#: class-admin.php:114
+msgid "Click here if you want to consider continuing navigation as cookie acceptation. Users should be informed about this..."
+msgstr "Clicca qui se vuoi considerare la continuazione della navigazione come accettazione. Gli utenti dovrebbero essere informati..."
+
+#: class-admin.php:116
+msgid "Share Cookie across Network"
+msgstr "Condividi Cookie nella Rete"
+
+#: class-admin.php:118
+msgid "Click here if you want to share euCookie across your network (subdomains or multisite)"
+msgstr "Clicca qui se vuoi abilitare euCookie nella tua rete (sottodomini o multisito)"
+
+#: class-admin.php:121
+msgid "Network Domain"
+msgstr "Dominio Rete"
+
+#: class-admin.php:126
+msgid "Appearance"
+msgstr "Aspetto"
+
+#: class-admin.php:128
+msgid "Position"
+msgstr "Posizione"
+
+#: class-admin.php:132
+msgid "Bottom Right"
+msgstr "Basso Destra"
+
+#: class-admin.php:134
+msgid "Top Right"
+msgstr "Alto Destra"
+
+#: class-admin.php:138
+msgid "Bottom Left"
+msgstr "Basso Sinistra"
+
+#: class-admin.php:140
+msgid "Top Left"
+msgstr "Alto Sinistra"
+
+#: class-admin.php:151
+msgid "Font Color"
+msgstr "Colore del Testo"
+
+#: class-admin.php:156
+msgid "Content"
+msgstr "Contenuto"
+
+#: class-admin.php:159
+msgid "Bar Message"
+msgstr "Messaggio Banner"
+
+#: class-admin.php:163
+msgid "More Info Text"
+msgstr "Testo Maggiori Informazioni"
+
+#: class-admin.php:167
+msgid "Accept Text"
+msgstr "Testo Accettazione"
+
+#: class-admin.php:171
+msgid "Bar Link"
+msgstr "Link Banner"
+
+#: class-admin.php:172
+msgid "Use this field if you want to link a page instead of showing the popup"
+msgstr "Usa questo campo se vuoi collegarti a una pagina anziché mostrare il popup"
+
+#: class-admin.php:204
+msgid "\"Close Popup\" Text"
+msgstr "Testo \"Chiudi Popup\""
+
+#: class-admin.php:208
+msgid "Popup Box Content"
+msgstr "Contenuto del Popup"
+
+#: class-admin.php:209
+msgid "Use this to add a popup that informs your users about your cookie policy"
+msgstr "Utilizza questo campo per aggiungere un popup esteso che informa i tuoi utenti sulla cookie policy"
+
+#: class-admin.php:215
+msgid "Blocked code message"
+msgstr "Messaggio nel codice bloccato"
+
+#: class-admin.php:216
+msgid "This is the message that will be displayed for locked-code areas"
+msgstr "Questo è il messaggio che sarà mostrato nelle area in cui hai bloccato il codice"
+
+#: class-admin.php:228
+msgid "Cookie enabled message"
+msgstr "Messaggio cookie abilitati"
+
+#: class-admin.php:233
+msgid "\"Disable Cookie\" Text"
+msgstr "Testo \"Disabilita Cookie\""
+
+#: class-admin.php:238
+msgid "Cookie disabled message"
+msgstr "Messaggio cookie disabilitati"
+
+#: class-admin.php:246
+msgid "Save Changes"
+msgstr "Salva Impostazioni"
+
+#: defaults.php:25
+msgid "Cookies are enabled"
+msgstr "I Cookie sono abilitati"
+
+#: defaults.php:24
+msgid "Revoke cookie consent"
+msgstr "Revoca consenso cookie"
+
+#: defaults.php:8
+msgid "By continuing to use the site, you agree to the use of cookies."
+msgstr "Utilizzando il sito, accetti l'utilizzo dei cookie da parte nostra."
+
+#: defaults.php:9
+msgid "more information"
+msgstr "maggiori informazioni"
+
+#: defaults.php:10
+msgid "Accept"
+msgstr "Accetto"
+
+#: defaults.php:11
+msgid "Close"
+msgstr "Chiudi"
+
+#: defaults.php:13
+msgid "<b>Content not available.</b><br><small>Please allow cookies by clicking Accept on the banner</small>"
+msgstr "<b>Contenuto non disponibile</b><br><small>Consenti i cookie cliccando su \"Accetta\" nel banner\"</small>"
+
+#: defaults.php:26
+msgid "Cookies are disabled<br>Accept Cookies by clicking \"%s\" in the banner."
+msgstr "I cookie sono disabilitati<br>Consenti al loro utilizzo cliccando \"%s\" nel banner."
+
+#. #-#-#-#-#  eu-cookie-law-code.pot (EU Cookie Law 3.0.5)  #-#-#-#-#
+#. Description of the plugin/theme
+#: eu-cookie-law.php:37
+msgid "EU Cookie Law informs users that your site uses cookies, with option to lock scripts before consent. Light + Customizable style."
+msgstr "EU Cookie Law informa gli utenti che il tuo sito utilizza i cookie, con opzione di blocco preventivo prima del consenso. Leggero + Aspetto personalizzabile."
+
+#: class-admin.php:105
+msgid "Set \"0\" for SESSION cookie."
+msgstr "Imposta \"0\" per i cookie di SESSIONE."
+
+#: class-admin.php:201
+msgid "Enter the destination URL"
+msgstr "Inserisci la URL di destinazione"
+
+#: class-admin.php:191 class-admin.php:199
+msgid "Custom URL"
+msgstr "URL Personalizzata"
+
+#. Plugin Name of the plugin/theme
+msgid "EU Cookie Law"
+msgstr "EU Cookie Law"
+
+#. #-#-#-#-#  eu-cookie-law-code.pot (EU Cookie Law 3.0.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  eu-cookie-law-code.pot (EU Cookie Law 3.0.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/plugins/eu-cookie-law/"
+msgstr "https://wordpress.org/plugins/eu-cookie-law/"
+
+#. Author of the plugin/theme
+msgid "Alex Moss, Marco Milesi, Peadig, Shane Jones"
+msgstr "Alex Moss, Marco Milesi, Peadig, Shane Jones"
+
+#: class-admin.php:92
+msgid "Click here if you want to turn on the TinyMCE button for manual insertion of EU Cookie Law shortcodes while editing contents."
+msgstr "Fai clic qui se vuoi abilitare il pulsante tinymce per l'inserimento manuale degli shortcode di EU Cookie Law nelle pagine di modifica dei contenuti"
+
+#: defaults.php:12
+msgid "The cookie settings on this website are set to \"allow cookies\" to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click \"Accept\" below then you are consenting to this."
+msgstr "Questo sito utilizza i cookie per fornire la migliore esperienza di navigazione possibile. Continuando a utilizzare questo sito senza modificare le impostazioni dei cookie o cliccando su \"Accetta\" permetti il loro utilizzo."
+
+#: class-admin.php:147
+msgid "Background Color"
+msgstr "Colore di sfondo"

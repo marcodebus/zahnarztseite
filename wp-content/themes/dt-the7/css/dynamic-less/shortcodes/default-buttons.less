@@ -1,0 +1,74 @@
+/* #Buttons
+================================================== */
+
+/*vars*/
+@dt-btn-bg-color-darken: darken(@dt-btn-hover-bg-color, 5%);
+@dt-btn-bg-color-2-darken: darken(@dt-btn-hover-bg-color-2, 5%);
+.custom-mixin-bg (@customColor) when (iscolor(@customColor)) {
+  background: @customColor !important;
+}
+
+.custom-mixin-color (@customColor) when (iscolor(@customColor)) {
+  color: @customColor;
+}
+
+.custom-mixin-border-color (@customColor) when (iscolor(@customColor)) {
+  border-bottom-color: desaturate(darken(@customColor, 12%), 20%);
+}
+
+.custom-mixin-custom-button-size() when (ispixel(@default-btn-border-radius)) {
+  border-radius: @default-btn-border-radius;
+  padding: @default-btn-padding-top @default-btn-padding-right @default-btn-padding-bottom @default-btn-padding-left;
+  font-size: @default-btn-font-size;
+
+  &.ico-right-side > i {
+    margin-right: 0px;
+    margin-left: 8px;
+  }
+
+  & > i {
+    margin-right: 8px;
+  }
+}
+
+#@{unique-shortcode-class-name}:not(:hover) {
+  .custom-mixin-bg (@default-btn-bg);
+  .custom-mixin-color (@default-btn-color);
+
+  & * {
+    .custom-mixin-color (@default-btn-color);
+  }
+
+  .btn-3d & {
+    .custom-mixin-border-color (@default-btn-bg);
+  }
+}
+
+#@{unique-shortcode-class-name} {
+  .custom-mixin-custom-button-size();
+
+  &:hover {
+    .custom-mixin-bg (@default-btn-bg-hover);
+    .custom-mixin-color (@default-btn-color-hover);
+
+
+    & * {
+      .custom-mixin-color (@default-btn-color-hover);
+    }
+  }
+
+  &:hover {
+    .btn-3d & {
+      .custom-mixin-border-color (@default-btn-bg-hover);
+    }
+  }
+
+  & > i {
+    font-size: @default-btn-icon-size;
+  }
+
+  & * {
+    vertical-align: middle;
+  }
+}
+

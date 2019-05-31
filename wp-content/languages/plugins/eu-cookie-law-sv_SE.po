@@ -1,0 +1,285 @@
+# Translation of Plugins - EU Cookie Law - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - EU Cookie Law - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-25 14:19:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - EU Cookie Law - Development (trunk)\n"
+
+#: class-admin.php:82
+msgid "Exclude Scripts"
+msgstr "Exkludera skript"
+
+#: class-admin.php:84
+msgid "Check this if you don't want scripts to be blocked."
+msgstr "Kryssa i detta om du inte vill att skript ska blockeras."
+
+#: class-frontend.php:255
+msgid "Name"
+msgstr "Namn"
+
+#: class-frontend.php:256
+msgid "Value"
+msgstr "Värde"
+
+#: class-admin.php:42
+msgid "Translate"
+msgstr "Översätt"
+
+#: class-admin.php:182
+msgid "Custom Message"
+msgstr "Anpassat meddelande"
+
+#: class-admin.php:136
+msgid "Top Center"
+msgstr "Uppe centrerat"
+
+#: class-admin.php:142
+msgid "Bottom Center"
+msgstr "Nere centrerat"
+
+#: defaults.php:11
+msgid "Close"
+msgstr "Stäng"
+
+#: class-admin.php:36
+msgid "Changelog"
+msgstr "Ändringslogg"
+
+#: class-admin.php:39
+msgid "Rate us"
+msgstr "Betygsätt oss"
+
+#: class-admin.php:45
+msgid "Support"
+msgstr "Support"
+
+#: class-admin.php:75
+msgid "Activate"
+msgstr "Aktivera"
+
+#: class-admin.php:99
+msgid "days"
+msgstr "dagar"
+
+#: class-admin.php:101
+msgid "weeks"
+msgstr "veckor"
+
+#: class-admin.php:147
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: class-admin.php:156
+msgid "Content"
+msgstr "Innehåll"
+
+#: class-admin.php:171
+msgid "Bar Link"
+msgstr "Bannerlänk"
+
+#: class-admin.php:172
+msgid "Use this field if you want to link a page instead of showing the popup"
+msgstr "Använd detta fält om du vill länka till en sida istället för pop-up ruta."
+
+#: class-admin.php:191 class-admin.php:199
+msgid "Custom URL"
+msgstr "Anpassad URL"
+
+#. #-#-#-#-#  eu-cookie-law-code.pot (EU Cookie Law 3.0.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  eu-cookie-law-code.pot (EU Cookie Law 3.0.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/plugins/eu-cookie-law/"
+msgstr "https://wordpress.org/plugins/eu-cookie-law/"
+
+#. Author of the plugin/theme
+msgid "Alex Moss, Marco Milesi, Peadig, Shane Jones"
+msgstr "Alex Moss, Marco Milesi, Peadig, Shane Jones"
+
+#: class-admin.php:103
+msgid "months"
+msgstr "månader"
+
+#: class-admin.php:90
+msgid "Enable TinyMCE Button"
+msgstr "Aktivera TinyMCE-knapp"
+
+#: class-admin.php:92
+msgid "Click here if you want to turn on the TinyMCE button for manual insertion of EU Cookie Law shortcodes while editing contents."
+msgstr "Klicka här om du vill aktivera TinyMCE-knappen för att manuellt infoga EU Cookie Law med hjälp av snabbkoder i redigering av innehåll (sidor osv)."
+
+#: class-admin.php:151
+msgid "Font Color"
+msgstr "Textfärg"
+
+#: class-admin.php:159
+msgid "Bar Message"
+msgstr "Bannermeddelande"
+
+#: class-admin.php:163
+msgid "More Info Text"
+msgstr "Text för mer information"
+
+#. Plugin Name of the plugin/theme
+msgid "EU Cookie Law"
+msgstr "EU Cookie Law"
+
+#: class-admin.php:126
+msgid "Appearance"
+msgstr "Utseende"
+
+#: class-admin.php:128
+msgid "Position"
+msgstr "Position"
+
+#: class-admin.php:246
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: defaults.php:9
+msgid "more information"
+msgstr "mer information"
+
+#: class-admin.php:78
+msgid "Auto Block"
+msgstr "Blockera automatiskt"
+
+#: class-admin.php:121
+msgid "Network Domain"
+msgstr "Nätverksdomän"
+
+#: class-admin.php:201
+msgid "Enter the destination URL"
+msgstr "Ange måladress"
+
+#: class-admin.php:204
+msgid "\"Close Popup\" Text"
+msgstr "Text för att stänga popup"
+
+#: class-admin.php:215
+msgid "Blocked code message"
+msgstr "Meddelande för blockerad kod"
+
+#: class-admin.php:216
+msgid "This is the message that will be displayed for locked-code areas"
+msgstr "Detta är meddelandet som visas för blockerade kodområden"
+
+#: class-admin.php:140
+msgid "Top Left"
+msgstr "Uppe till vänster"
+
+#: class-admin.php:132
+msgid "Bottom Right"
+msgstr "Nere till höger"
+
+#: class-admin.php:134
+msgid "Top Right"
+msgstr "Uppe till höger"
+
+#: class-admin.php:138
+msgid "Bottom Left"
+msgstr "Nere till vänster"
+
+#: class-admin.php:112
+msgid "Navigation Consent"
+msgstr "Samtycke genom navigering"
+
+#: class-admin.php:105
+msgid "Once the user clicks accept the bar will disappear. You can set how long this will apply for before the bar reappears to the user."
+msgstr "När användaren klickat och samtyckt så döljs bannern. Du kan ange hur länge detta samtycke ska gälla innan bannern visas för användaren på nytt."
+
+#: class-admin.php:114
+msgid "Click here if you want to consider continuing navigation as cookie acceptation. Users should be informed about this..."
+msgstr "Markera detta alternativ om du vill ange navigering som ett sätt att samtycka till kakor. Besökare bör informeras om detta..."
+
+#: class-admin.php:118
+msgid "Click here if you want to share euCookie across your network (subdomains or multisite)"
+msgstr "Markera detta alternativ om du vill dela euCookie över ditt nätverk (subdomän eller multisite)"
+
+#. #-#-#-#-#  eu-cookie-law-code.pot (EU Cookie Law 3.0.5)  #-#-#-#-#
+#. Description of the plugin/theme
+#: eu-cookie-law.php:37
+msgid "EU Cookie Law informs users that your site uses cookies, with option to lock scripts before consent. Light + Customizable style."
+msgstr "EU Cookie Law informerar besökare att er webbplats använder sig av cookies, med möjlighet att låsa skript före samtycke. Ljus + anpassad stil."
+
+#: defaults.php:26
+msgid "Cookies are disabled<br>Accept Cookies by clicking \"%s\" in the banner."
+msgstr "Cookies är inaktiverade<br>Godkänn gookies genom att klicka ”%s” i bannern."
+
+#: defaults.php:25
+msgid "Cookies are enabled"
+msgstr "Cookies är aktiverade"
+
+#: defaults.php:24
+msgid "Revoke cookie consent"
+msgstr "Återkalla samtycke för cookies"
+
+#: defaults.php:13
+msgid "<b>Content not available.</b><br><small>Please allow cookies by clicking Accept on the banner</small>"
+msgstr "<b>Innehållet är inte tillgängligt.</b><br><small>Vänligen tillåt cookies genom att klicka på ”Godkänn” i bannern</small>"
+
+#: defaults.php:12
+msgid "The cookie settings on this website are set to \"allow cookies\" to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click \"Accept\" below then you are consenting to this."
+msgstr "Dina cookie-inställningar för denna webbplats är satt till ”tillåt cookies” för att ge dig den bästa upplevelsen. Om du fortsätter använda webbplatsen utan att ändra dina inställningar för cookies eller om du klickar ”Godkänn” nedan så samtycker du till detta."
+
+#: defaults.php:10
+msgid "Accept"
+msgstr "Godkänn"
+
+#: defaults.php:8
+msgid "By continuing to use the site, you agree to the use of cookies."
+msgstr "Genom att fortsätta använda denna webbplats godkänner du användandet av cookies."
+
+#: class-admin.php:238
+msgid "Cookie disabled message"
+msgstr "Meddelande för inaktiverade cookies"
+
+#: class-admin.php:233
+msgid "\"Disable Cookie\" Text"
+msgstr "Text för inaktiverade cookies"
+
+#: class-admin.php:228
+msgid "Cookie enabled message"
+msgstr "Meddelande för aktiverade cookies"
+
+#: class-admin.php:209
+msgid "Use this to add a popup that informs your users about your cookie policy"
+msgstr "Använd detta för att lägga till en popup som informerar besökare om er policy för cookies."
+
+#: class-admin.php:208
+msgid "Popup Box Content"
+msgstr "Innehåll popup-banner"
+
+#: class-admin.php:167
+msgid "Accept Text"
+msgstr "Text för att godkänna"
+
+#: class-admin.php:116
+msgid "Share Cookie across Network"
+msgstr "Dela cookies över nätverk"
+
+#: class-admin.php:108
+msgid "Scroll Consent"
+msgstr "Samtycke genom rullning"
+
+#: class-admin.php:110
+msgid "Click here if you want to consider scrolling as cookie acceptation. Users should be informed about this..."
+msgstr "Markera detta alternativ om du vill ange rullning som ett sätt att samtycka till cookies. Besökare bör informeras om detta&hellip;"
+
+#: class-admin.php:105
+msgid "Set \"0\" for SESSION cookie."
+msgstr "Ange ”0” för SESSION-cookie."
+
+#: class-admin.php:95
+msgid "Cookie acceptance length"
+msgstr "Längd för acceptans av cookies."
+
+#: class-admin.php:80
+msgid "This function will automatically block iframes, embeds and scripts in your post, pages and widgets."
+msgstr "Denna funktion kommer automatiskt att blockera iframes, inbäddningar och skript i dina inlägg, sidor och widgetar."

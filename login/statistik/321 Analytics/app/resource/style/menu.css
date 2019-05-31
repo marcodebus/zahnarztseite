@@ -1,0 +1,180 @@
+/* Menu CSS */
+
+.menu
+{
+	position:fixed;
+	left:0;
+	top:0;
+	width:250px;
+	height:100%;
+	z-index:888;
+	background-image:linear-gradient(to bottom,#353B5C 0%,#2A2D43 100%);
+	display:none;
+	box-shadow:0 10px 50px rgba(80,80,140,0.1);
+}
+
+.menu .scroll
+{
+	position:absolute;
+	width:100%;
+	height:auto;
+	max-height:100vh;
+	overflow:auto;
+	padding:100px 0 50px 0;
+	overflow-x:hidden;
+}
+
+
+/* Buttons */
+
+.menu_title
+{
+	line-height:20px;
+	font-size:14px;
+	text-transform:uppercase;
+	text-align:center;
+	font-weight:700;
+	color:#fff;
+	letter-spacing:1px;
+}
+
+.analytics_menu
+{
+	width:100%;
+}
+
+.analytics_metric
+{
+	width:calc(100% - 15px);
+	left:15px;
+	height:30px;
+	cursor:pointer;
+	transition:0.1s all ease-in-out;
+	-webkit-transition:0.1s all ease-in-out;
+	border-radius:15px 0 0 15px;
+	margin:5px 0 5px 0;
+}
+
+.analytics_metric:hover
+{
+	background:rgba(255,255,255,0.2);
+}
+
+.analytics_metric .label
+{
+	position:absolute;
+	width:100%;
+	height:30px;
+	line-height:30px;
+	font-size:12px;
+	color:#fff;
+	font-weight:700; 
+	text-align:left;
+	padding-left:40px;
+}
+
+.analytics_metric .label .icon
+{
+	position:absolute;
+	width:30px;
+	height:30px;
+	top:0;
+	left:0;
+}
+ 
+.analytics_metric .label .icon .image
+{
+	position:absolute;
+	width:30px;
+	height:30px;
+	left:0;
+	top:0;
+	background-position:center center !important;
+	background-repeat:no-repeat !important;
+	background-size:50% auto !important;
+}
+
+
+/* Buttons */
+
+.analytics_filters
+{
+
+}
+
+.analytics_filters_box
+{
+	width:calc(100% - 30px);
+	left:15px;
+	margin:10px 0 10px 0;
+}
+
+.analytics_filter
+{
+	height:30px;
+	line-height:30px;
+	background:rgba(255,255,255,0.1) url('../img/select.png') left 15px center no-repeat !important;
+	background-size:8px auto !important; 
+	border-radius:15px;
+	-webkit-border-radius:15px;
+	padding:0 15px 0 40px;
+	font-weight:700;
+	font-size:12px;
+	margin:5px 0 5px 0;
+	color:#fff;
+}
+
+
+
+/* Button */
+
+.analytics_button
+{
+	width:calc(100% - 15px);
+	left:15px;
+	height:30px;
+	cursor:pointer;
+	transition:0.1s all ease-in-out;
+	-webkit-transition:0.1s all ease-in-out;
+	border-radius:15px 0 0 15px;
+	margin:5px 0 5px 0;
+}
+
+.analytics_button:hover
+{
+	background:rgba(255,255,255,0.2);
+}
+
+.analytics_button .label
+{
+	position:absolute;
+	width:100%;
+	height:30px;
+	line-height:30px;
+	font-size:12px;
+	color:#fff;
+	font-weight:700; 
+	text-align:left;
+	padding-left:40px;
+}
+
+.analytics_button .label .icon
+{
+	position:absolute;
+	width:30px;
+	height:30px;
+	top:0;
+	left:0;
+}
+ 
+.analytics_button .label .icon .image
+{
+	position:absolute;
+	width:30px;
+	height:30px;
+	left:0;
+	top:0;
+	background-position:center center !important;
+	background-repeat:no-repeat !important;
+	background-size:50% auto !important;
+}

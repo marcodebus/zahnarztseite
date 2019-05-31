@@ -1,0 +1,27 @@
+RewriteEngine On
+
+RewriteBase /login/statistik/321%20Analytics
+
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule \.([^/]*)$ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule "^([^/]*)$" "index.php?lang=$1&content=index" [NC,QSA]
+RewriteRule "^([^/]*)/$" "index.php?lang=$1&content=index" [NC,QSA]
+
+RewriteRule "^([^/]*)/([^/]*)$" "index.php?lang=$1&content=$2" [NC,QSA]
+RewriteRule "^([^/]*)/([^/]*)/$" "index.php?lang=$1&content=$2" [NC,QSA]
+
+RewriteRule "^([^/]*)/([^/]*)/([^/]*)$" "index.php?lang=$1&content=$2&subcontent=$3" [NC,QSA]
+RewriteRule "^([^/]*)/([^/]*)/([^/]*)/$" "index.php?lang=$1&content=$2&subcontent=$3" [NC,QSA]
+
+RewriteRule "^([^/]*)/([^/]*)/([^/]*)/([^/]*)$" "index.php?lang=$1&content=$2&subcontent=$3&subsubcontent=$4" [NC,QSA]
+RewriteRule "^([^/]*)/([^/]*)/([^/]*)/([^/]*)/$" "index.php?lang=$1&content=$2&subcontent=$3&subsubcontent=$4" [NC,QSA]
+
+RewriteRule "^([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)$" "index.php?lang=$1&content=$2&subcontent=$3&subsubcontent=$4&subsubsubcontent=$5" [NC,QSA]
+RewriteRule "^([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)/$" "index.php?lang=$1&content=$2&subcontent=$3&subsubcontent=$4&subsubsubcontent=$5" [NC,QSA]
+
+RewriteRule "^([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)$" "index.php?lang=$1&content=$2&subcontent=$3&subsubcontent=$4&subsubsubcontent=$5&subsubsubsubcontent=$6" [NC,QSA]
+RewriteRule "^([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)/([^/]*)/$" "index.php?lang=$1&content=$2&subcontent=$3&subsubcontent=$4&subsubsubcontent=$5&subsubsubsubcontent=$6" [NC,QSA]

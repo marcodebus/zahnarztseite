@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+	<title>miniPAN PHP File Management System</title>
+ 	<meta name="description" content="">
+	<meta name="author" content="thunderfury">
+	<meta name="copyright" content="thunderfury">
+	<meta name="generator" content="Documenter v2.0 http://rxa.li/documenter">
+	<meta name="date" content="2014-03-10T00:00:00+01:00">
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="assets/css/documenter_style.css" rel="stylesheet">
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    
+	
+	<style>
+		html, body{background-color:#EEEEEE;color:#383838;}
+		h1,h2,h3,h4,h5,h6{color:#383838;}
+		section table{background-color:#EEEEEE;}
+		::-moz-selection{background:#333636;color:#00DFFC;}
+		::selection{background:#333636;color:#00DFFC;}
+		a.brand{background-image:url();}
+		a, a:hover, a:active{color:#008C9E;}
+		hr{border-top:1px solid #D4D4D4;border-bottom:1px solid #FFFFFF;}
+		div.navbar-inner, .navbar .nav li ul{background:#343838;color:#FFFFFF;}
+		a.btn-navbar{background:#343838;color:#FFFFFF;}
+		.navbar .nav li a{color:#FFFFFF;text-shadow:1px 1px 0px #494F4F;}
+		.navbar .nav li a:hover, .navbar .nav li.active a{text-shadow:none;}
+		div.navbar-inner ul{}
+		.marketing-byline{color:#FFFFFF;}
+		.navbar .nav > li a{color:#FFFFFF;}
+		.navbar .nav > li a:hover, a.btn-navbar:hover{background:#333636;color:#00DFFC;}
+		.navbar .nav .active > a, .navbar .nav .active > a:hover, a.btn-navbar:active{background-color:#333636;color:#00DFFC;}
+		.navbar .nav li ul li a:hover{background:#333636;color:#00DFFC;}
+		.navbar .nav li ul li a:active{background:#333636;color:#00DFFC;}
+		.btn-primary {
+			  background-image: -moz-linear-gradient(top, #008C9E, #006673);
+			  background-image: -ms-linear-gradient(top, #008C9E, #006673);
+			  background-image: -webkit-gradient(linear, 0 0, 0 008C9E%, from(#343838), to(#006673));
+			  background-image: -webkit-linear-gradient(top, #008C9E, #006673);
+			  background-image: -o-linear-gradient(top, #008C9E, #006673);
+			  background-image: linear-gradient(top, #008C9E, #006673);
+			  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#008C9E', endColorstr='#006673', GradientType=0);
+			  border-color: #006673 #006673 #bfbfbf;
+			  color:#FFFFFF;
+		}
+		.btn-primary:hover,
+		.btn-primary:active,
+		.btn-primary.active,
+		.btn-primary.disabled,
+		.btn-primary[disabled] {
+		  background-color: #006673;
+		}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+	</style>
+	
+	
+	
+    </head>
+    
+<body class="documenter-project-minipan-php-file-management-system" data-spy="scroll" id="top">
+
+<!-- Documentation Navbar -->
+
+<div class="navbar navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container"> 
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> 
+			<a class="brand" href="#">miniPAN PHP File Management System</a>
+			<div class="nav-collapse">
+			<ul class="nav">
+					
+			<li><a href="#what_is_this" title="What is This?">What is This?</a></li>
+			<li><a href="#features" title="Features">Features</a></li>
+			<li><a href="#installation" title="Installation">Installation</a></li>
+			<li><a href="#configuration" title="Configuration">Configuration</a></li>
+			<li><a href="#integration" title="Integration">Integration</a></li>
+			<li><a href="#advanced_settings" title="Advanced Settings">Advanced Settings</a></li>
+			<li><a href="#credits" title="Credits">Credits</a></li>
+
+			</ul>
+			</div>
+		</div>
+	</div>
+</div> <!-- End of Navbar -->
+
+<!-- Main Container Beginning -->			
+			
+<div class="container" id="documenter_content">
+    
+	<div id="documenter-cover">
+	<div class="masthead">
+	    <h1>miniPAN PHP File Management System</h1>
+	    <p></p>
+	    <ul class="marketing-byline">
+			<li>created: 03/10/2011</li>
+			<li>latest update: 03/10/2014</li>
+			<li>by: thunderfury</li>
+			<li><a href="http://www.artlantis.net/">www.artlantis.net/</a></li>
+		</ul>
+	    <p class="download-info">
+			<a href="http://dev.artlantis.net/admin/minipan/demos/" class="btn btn-primary btn-large">Live Demo</a> 
+		</p>
+		
+	</div> <!-- masthead -->
+	
+   <div id="intro">
+    <p class="highlight hero-unit">Thank you</p>
+   </div> <!-- intro -->
+   
+	</div>
+      
+  <section id="what_is_this">
+	<div class="page-header"><h3>What is This?</h3><hr class="notop"></div>
+<p>
+	<strong>The miniPAN</strong> is a PHP based file management script, that is seamlessly integrated with TinyMCE, CKEditor. This script can also be used standalone and it&#39;s easy to integrate with your backend system.</p>
+</section>
+<section id="features">
+	<div class="page-header"><h3>Features</h3><hr class="notop"></div>
+<ul>
+	<li>
+		Easy to integrate, seamless integration with WYSIWYG editors (TinyMCE, CKEditor)</li>
+	<li>
+		Create directories, rename, delete instantly</li>
+	<li>
+		Upload files, allow/deny file types</li>
+	<li>
+		Ajax based interface using a JSON bridge.</li>
+	<li>
+		Multiple Upload</li>
+	<li>
+		Browse or Dropable Upload option</li>
+	<li>
+		Rename, Delete, Move File Function</li>
+	<li>
+		Linkage Different Platforms, WYSIWYG editors or Your Own Form Fields</li>
+	<li>
+		Linkage HTML link or image view and text url</li>
+	<li>
+		28 File Icons</li>
+	<li>
+		Folder Statistics (File Count &amp; Size)</li>
+	<li>
+		Sorting &amp; Listing Module</li>
+	<li>
+		Customizable Bootstarp Theme</li>
+	<li>
+		Language support</li>
+</ul>
+</section>
+<section id="installation">
+	<div class="page-header"><h3>Installation</h3><hr class="notop"></div>
+<p>
+	<strong>The miniPAN</strong> is a ready to use system. It is no required database connection.</p>
+<p>
+	Basically <strong>miniPAN</strong>; if you don&#39;t use existing main storage folder, it&#39;s create main folder <strong>resources</strong> named to your root directory.</p>
+<p>
+	Please check out <strong>Configuration</strong> area for folder, allowed files settings.</p>
+</section>
+<section id="configuration">
+	<div class="page-header"><h3>Configuration</h3><hr class="notop"></div>
+<h3>
+	Define Main Folder</h3>
+<p>
+	<strong>open: [miniPan]/configs.php</strong></p>
+<pre class="prettyprint lang-php linenums">
+$pan_stock_folder = &quot;resources&quot;;</pre>
+<p>
+	This variable will define of your main storage folder, if it&#39;s not exists on your web server, it&#39;s will be created automatically.</p>
+<h3>
+	Uploading Settings</h3>
+<p>
+	<strong>open: [miniPan]/configs.php</strong></p>
+<h4 id="configuration_safe_name">Safe Name</h4>
+<pre class="prettyprint lang-php linenums">
+define(&#39;pan_set_safename&#39;,1);</pre>
+<p>
+	Uploaded file names is contain invalid characters, it&#39;s will be replaced with _ character.</p>
+<p>
+	If you wanna close this option, change variable value to &quot;0&quot;</p>
+<h4 id="configuration_mime_check">Mime Check</h4>
+<pre class="prettyprint lang-php linenums">
+define(&#39;pan_set_mimecheck&#39;,1);</pre>
+<p>
+	If the class check the MIME against the allowed list. Allowed file type list linked below.</p>
+<p>
+	If you wanna close this option, change variable value to &quot;0&quot;</p>
+<h4 id="configuration_overwrite">Overwrite</h4>
+<pre class="prettyprint lang-php linenums">
+define(&#39;pan_set_overwrite&#39;,0);</pre>
+<p>
+	If uploaded file already exists on your selected directory, uploading event will give you an error. (if auto rename option is true, it&#39;s will rename uploaded file name)</p>
+<p>
+	If you wanna allow overwrite new file on existing file, change variable value to &quot;1&quot;</p>
+<h4 id="configuration_auto_rename">Auto Rename</h4>
+<pre class="prettyprint lang-php linenums">
+define(&#39;pan_set_autorename&#39;,1);</pre>
+<p>
+	If uploaded file already exists on your selected directory,&nbsp; it&#39;s will rename uploaded file name. (e.g. file.jpg, file_1.jpg, file_2.jpg)</p>
+<p>
+	If you wanna close this option, change variable value to &quot;0&quot;</p>
+<h4 id="configuration_maximum_uploaded_file_size">Maximum Uploaded File Size</h4>
+<pre class="prettyprint lang-php linenums">
+define(&#39;pan_set_max_file_size&#39;,&#39;2097152&#39;);</pre>
+<p>
+	This variable define maximum uploaded file size. It is must be byte value. Default is defined for 2 MB.</p>
+<p>
+	If you do not know to calculate storage sizes, you can visit Google&#39;s unit converter solution: <a href="http://bit.ly/1kbiRBI" target="_blank">http://bit.ly/1kbiRBI</a></p>
+<h4 id="configuration_allowed_file_types">Allowed File Types</h4>
+<pre class="prettyprint lang-php linenums">
+$upl_allow_files = array(&#39;image/gif&#39;,&#39;image/jpeg&#39;,&#39;image/jpeg&#39;,&#39;image/png&#39;);</pre>
+<p>
+	If you use multi-user system, this will give you administrate of uploaded file types. This variables contain <a href="http://en.wikipedia.org/wiki/Internet_media_type" target="_blank">MIME TYPES</a> of your allowed files.</p>
+<p>
+	image/gif = GIF file<br>
+	image/jpeg = JPEG file</p>
+<p>
+	You can check all file mime-types on this site: <a href="http://www.iana.org/assignments/media-types/" target="_blank">http://www.iana.org/assignments/media-types/</a></p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="integration">
+	<div class="page-header"><h3>Integration</h3><hr class="notop"></div>
+<h3>
+	Call miniPAN Function</h3>
+<p>
+	You will found this files in demos folder, also if you wanna use use fancybox style, you must copy <strong>images/fancybox</strong> folder in your workplace.</p>
+<pre class="prettyprint lang-html linenums">
+&lt;!doctype html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;!-- Jquery --&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;Scripts/jquery-1.8.1.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- Fancybox --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;css/jquery.fancybox.css?v=2.1.5&quot; type=&quot;text/css&quot; media=&quot;screen&quot; /&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;Scripts/jquery.fancybox.pack.js?v=2.1.5&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+...
+
+&lt;!-- miniPAN --&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;Scripts/pan.min.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+<h3>
+	Basic Form</h3>
+<p>
+	<strong>miniPAN</strong> uses HTML5 <strong>data-</strong> attributes;</p>
+<p>
+	<strong>data-pan-model</strong> - (normal / fancybox) This define miniPAN opener.<br>
+	<strong>data-pan-field</strong> - This define of your link field<br>
+	<strong>data-pan-link</strong> - (default / link) This is define link type. default callback to HTML codes, links callback to only text file url.<br>
+	<strong>data-pan-platform</strong> - (normal / tinymce / ckeditor) If you use different form fields, this will generate platform script.</p>
+<pre class="prettyprint lang-html linenums">
+&lt;input name=&quot;text_field&quot; type=&quot;text&quot; id=&quot;<strong>text_field</strong>&quot; size=&quot;40&quot;&gt;
+
+&lt;button data-pan-model=&quot;normal&quot; data-pan-field=&quot;<strong>text_field</strong>&quot; data-pan-link=&quot;link&quot; data-pan-platform=&quot;normal&quot; class=&quot;minipan&quot; type=&quot;button&quot;&gt;miniPan&lt;/button&gt;</pre>
+<h3>
+	TinyMCE</h3>
+<p>
+	Add these configs on your TinyMCE config file. Fancybox opener URL can be change with your miniPAN source.</p>
+<p>
+	<strong>IMPORTANT: Don&#39;t forget to change selector ID on miniPAN URL.</strong></p>
+<pre class="prettyprint lang-html linenums">
+            &lt;textarea name=&quot;text_area&quot; id=&quot;<strong>text_area</strong>&quot;&gt;&lt;/textarea&gt;
+            &lt;!-- CALL TINYMCE CONFIGS --&gt;
+            &lt;script src=&quot;tinymce/js/tinymce/tinymce.min.js&quot;&gt;&lt;/script&gt;
+            &lt;script&gt;
+                    tinymce.init({
+                            selector:&#39;#<strong>text_area</strong>&#39;,
+                            height : 500,
+                            menubar:false,
+                            relative_urls: false,
+                            remove_script_host: false,
+                            plugins: &#39;textcolor,link,image,charmap,code,table,emoticons&#39;,
+                            toolbar1: &#39;formatselect fontselect fontsizeselect forecolor backcolor&#39;,
+                            toolbar2: &#39;bold italic underline strikethrough alignleft aligncenter alignright alignjustify bullist numlist outdent indent blockquote&#39;,
+                            toolbar3: &#39;link unlink image charmap | table | code | minipan&#39;,
+                            setup: function(editor) {
+                                editor.addButton(&#39;minipan&#39;, {
+                                    addClass: &#39;minipan&#39;,
+                                    text: &#39;miniPAN&#39;,
+                                    icon: false,
+                                    onclick: function(e) {
+                                        // Fancybox Example
+                                        $.fancybox({
+                                            autoSize : true,
+                                            type     : &#39;iframe&#39;,
+                                            href     : &#39;../index.php?pf=&#39; + editor.id + &#39;&amp;pm=default&amp;pp=tinymce&amp;o=fancybox&#39;
+                                        });
+                                        // ******
+                                    }
+                                });
+                            }                        
+                        });
+            &lt;/script&gt;
+            &lt;!-- CALL TINYMCE CONFIGS --&gt;</pre>
+<h3>
+	CKEditor</h3>
+<p>
+	CKEditor uses own fileBrowser settings, change browser URL to your own miniPAN source.</p>
+<p>
+	<strong>IMPORTANT: Don&#39;t forget to change selector ID on miniPAN URL.</strong></p>
+<pre class="prettyprint lang-html linenums">
+            &lt;textarea name=&quot;text_area&quot; id=&quot;<strong>text_area</strong>&quot;&gt;&lt;/textarea&gt;
+            &lt;!-- CALL CKEDITOR CONFIGS --&gt;
+            &lt;script src=&quot;ckeditor/ckeditor.js&quot;&gt;&lt;/script&gt;
+            &lt;script&gt;
+                CKEDITOR.replace( &#39;text_area&#39; ,{
+                    filebrowserBrowseUrl: &#39;../index.php?pf=<strong>text_area</strong>&amp;pm=default&amp;pp=ckeditor&amp;o=normal&#39;,
+                    filebrowserImageBrowseUrl: &#39;../index.php?pf=<strong>text_area</strong>&amp;pm=default&amp;pp=ckeditor&amp;o=normal&amp;type=Images&#39;,
+                    filebrowserWindowWidth: &#39;820&#39;,
+                    filebrowserWindowHeight: &#39;590&#39;
+                    });
+            &lt;/script&gt;
+            &lt;!-- CALL CKEDITOR CONFIGS --&gt;</pre>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</section>
+<section id="advanced_settings">
+	<div class="page-header"><h3>Advanced Settings</h3><hr class="notop"></div>
+<h3>
+	Multiple Language</h3>
+<p>
+	miniPAN contain only English language. If you wanna add more language, it is can modify on;</p>
+<p>
+	<strong>[miniPAN]/lang/pan-en.php</strong></p>
+<p>
+	Languages calling inside of config.php</p>
+<h4 id="advanced_settings_change_default_language">Change Default Language;</h4>
+<p>
+	<strong>open: [miniPAN]/lang/pan-en.php</strong></p>
+<p>
+	Replace values with your own language, like;</p>
+<pre class="prettyprint lang-php linenums">
+define(&#39;minipan_browse&#39;,&#39;Browse&#39;);</pre>
+<p>
+	to</p>
+<pre class="prettyprint lang-php linenums">
+define(&#39;minipan_browse&#39;,&#39;<span class="short_text" id="result_box" lang="es" tabindex="-1"><span class="hps">Navegar</span></span>&#39;);</pre>
+<h4 id="advanced_settings_add_more_language">Add More Language</h4>
+<p>
+	Languages calling inside of config.php</p>
+<p>
+	You can use Cookie/Session system on language files;</p>
+<pre class="prettyprint lang-php linenums">
+$default_lang = &quot;en&quot;;
+
+if(!isset($_COOKIE[&#39;panLang&#39;])){$lang=$default_lang;}else{$lang=$_COOKIE[&#39;panLang&#39;];}
+
+include_once(&#39;lang/pan-&#39;. $lang .&#39;.php&#39;); # Language variables</pre>
+<h3>
+	User Authorization</h3>
+<p>
+	If you have membership/moderator function you can check it on <strong>config.php</strong> top line;</p>
+<pre class="prettyprint lang-php linenums">
+&lt;?php
+error_reporting(E_ALL);
+ob_start();
+header(&#39;Content-Type: text/html; charset=utf-8&#39;);
+
+if(!isset($_SESSION[&#39;userLog&#39;]) || $_SESSION[&#39;userLog&#39;]!=false){die(&#39;You cannot view this page!&#39;);}
+
+...
+
+?&gt;</pre>
+</section>
+<section id="credits">
+	<div class="page-header"><h3>Credits</h3><hr class="notop"></div>
+<p>
+	<a href="http://jquery.com/" target="_blank">JQuery</a><br>
+	<a href="http://www.verot.net/php_class_upload.htm" target="_blank">Verot Upload Class</a><br>
+	<a href="http://fancyapps.com/fancybox/" target="_blank">Fancybox</a><br>
+	<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a><br>
+	<a href="http://www.tinymce.com/" target="_blank">TinyMCE</a><br>
+	<a href="http://ckeditor.com/" target="_blank">CKEditor</a><br>
+	<a href="http://www.artlantis.net" target="_blank">Artlantis Design Studio</a></p>
+</section>
+
+
+
+    <hr />
+
+<footer>
+    <p>Copyright thunderfury 2014 made with the <a href="http://rxa.li/documenter">Documenter v2.0</a></p>
+</footer>
+
+</div><!-- /container --> 
+
+<!-- Le javascript
+    ================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<script>document.createElement('section');var duration='500',easing='swing';</script>
+<script src="assets/js/jquery.js"></script> 
+<script src="assets/js/jquery.scrollTo.js"></script>
+<script src="assets/js/jquery.easing.js"></script>
+<script src="assets/js/scripts.js"></script> 
+<script src="assets/js/google-code-prettify/prettify.js"></script> 
+<script src="assets/js/bootstrap-min.js"></script> 
+</body>
+</html>

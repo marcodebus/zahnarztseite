@@ -1,0 +1,95 @@
+/* Menu CSS */
+
+.loader
+{
+	position:fixed;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	z-index:888;
+	background:#fff;
+	display:none;
+}
+
+.loader .animation
+{
+	position:absolute;
+	width:50px;
+	height:35px;
+}
+
+.loader .animation .bar 
+{
+    position:absolute;
+    width:6px;
+    bottom:0;
+    border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+.loader .animation .bar .background
+{
+    position:absolute;
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+    border-radius:3px;
+    -webkit-border-radius:3px; 
+    background-image:linear-gradient(to bottom, #36b37f 0%, #a3cc00 100%);
+    opacity:0.5;
+}
+
+.loader .animation .bar .dot
+{
+    position:absolute;
+    width:6px;
+    height:6px;
+    border-radius:3px;
+    -webkit-border-radius:3px;
+    left:0;
+    top:0;
+    background:#36b37f;
+    box-shadow:0 0 0 1px #fff;
+    -webkit-box-shadow:0 0 0 1px #fff;
+}
+
+.loader .animation .bar_1 
+{
+    left:2px;
+    -webkit-animation: loader 0.5s ease alternate infinite;
+    animation: loader 0.5s ease alternate infinite;
+}
+
+.loader .animation .bar_2 
+{
+    left:22px;
+    -webkit-animation: loader 0.5s 0.2s ease alternate infinite;
+    animation: loader 0.5s 0.2s ease alternate infinite;
+}
+
+.loader .animation .bar_3 
+{
+    left:42px;
+    -webkit-animation: loader 0.5s 0.4s ease alternate infinite;
+    animation: loader 0.5s 0.4s ease alternate infinite;
+}
+
+@-webkit-keyframes loader {
+    0% {
+        height: 6px;
+    }
+    100% {
+        height: 100%;
+    }
+}
+
+@keyframes loader {
+    0% {
+        height: 6px;
+    }
+    100% {
+        height: 100%;
+    }
+}

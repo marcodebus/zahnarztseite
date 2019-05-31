@@ -1,0 +1,59 @@
+.icon_list ul li {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+}
+
+.icon_list ul li a {
+    font-weight: 700;
+}
+
+.megamenu {
+    padding: 10px;
+}
+.znav-container .megamenu .icon_list a {
+    font-weight: 700;
+}
+
+.icon_list ul li span {
+    margin-right: 5px;
+}
+.sticky-top {
+    background: #fff;
+}
+@media (min-width: 62em){
+    .znav-container .navbar a.navbar-brand {
+        max-width: 270px;
+    }
+    
+    ul.navbar-nav {
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
+}
+@media (max-width: 61.99em){
+
+    .icon_list {
+        margin: 10px 0 5px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

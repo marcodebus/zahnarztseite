@@ -1,0 +1,6 @@
+/.idea
+/vendor
+.DS_Store
+ASEngine/ASConfig.php
+documentation
+.php_cs.cache
