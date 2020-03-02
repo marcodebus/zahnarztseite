@@ -1,3 +1,3 @@
 <?php
-    header('Location: ./zahnarztalzenau/')
+    header('Location: ./zahnarzt-alzenau/')
 ?>
