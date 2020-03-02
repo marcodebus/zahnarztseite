@@ -1,4 +1,7 @@
 <?PHP
+// Turn off all error reporting
+error_reporting(0);
+
 function lang($phrase){
     static $lang = array(
 		'headersliderBehandlung' => './assets/bilder/headerBehandlung.png',
