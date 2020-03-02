@@ -1,5 +1,6 @@
-	<?php
-	session_start();
+<?php
+error_reporting(0);
+session_start();
 include('./inc/config.php');
 $Title = lang('PraxisTitle');
 $Ueber =  lang('PraxisUeber');
