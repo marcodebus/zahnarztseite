@@ -1,4 +1,8 @@
 <?php
+// Turn off all error reporting
+error_reporting(0);
+
+
 
 	if ($Behandlung == true){
 		//include('./inc/config.php');
