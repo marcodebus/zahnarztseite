@@ -164,7 +164,7 @@ function lang($phrase){
 		'Telefon' => 'Telefon 06023 31433',
 		'TelefonLink' => 'tel:0602331433',
         'Fax' => 'Telefax 06023 - 31866',
-		'Email' => '<a title=”Zahnarzt Alzenau Dr. Bernhard Fuchs Email” href="mailto:willkommen@zahnarzt-fuchs-alzenau.de">willkommen@<small>zahnarzt-fuchs-alzenau.de</small></a>',
+		'Email' => '<a title=”Zahnarzt Alzenau Dr. Bernhard Fuchs Email” href="mailto:info@zahnarztalzenau.com">info@zahnarztalzenau.com</small></a>',
 
 		//Adresse
 		'Strasse' => 'Roter Rain 9,  ',
