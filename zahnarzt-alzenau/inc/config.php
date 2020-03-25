@@ -305,7 +305,7 @@ function lang($phrase){
 		'PraxisGalerieUeber' => 'Praxis - Fotos<small class="fs-1"><br>Zahnarzt Alzenau</small>',
 		'PraxisGalerieOrdner' => '',
         'PraxisText1' => 'Unsere Zahnarztpraxis in Alzenau-Hörstein besteht seit 1992. Wir decken alle Bereiche der modernen Zahnmedizin ab. Unser Tätigkeitsschwerpunkt liegt in 						  der Ästhetischen Zahnheilkunde. Wir legen stets höchsten Wert auf eine gute Beratung ,eine ruhige Atmosphäre und eine herzliche, zuvorkommende Behandlung
-                                 unserer Patienten mit möglichst kurzen Wartezeiten. Regelmäßige Fortbildungen sind für das Praxispersonal ihrer Zahnarztpraxis Alzenau selbstverständlich.
+                                 unserer Patienten mit möglichst kurzen Wartezeiten. Regelmäßige Fortbildungen sind für uns selbstverständlich.
 	   					 <br><br></p>
 						 <div class="col-lg-12 px-5 py-6 my-lg-0 radius-tr-lg-secondary  .color-9" style="background-color:#4590e7; border-radius:20px; ">
 
@@ -395,7 +395,7 @@ function lang($phrase){
 
 		'BlauerBalkenPraxisUeber' => 'Neupatienten',
 		'BlauerBalkenPraxisBild' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_empfang1-1200x1200.jpg',
-		'BlauerBalkenPraxisText' => 'Sie sind neu bei uns? Wir heissen Sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für Sie hier ein paar Informationen zusammengestellt:
+		'BlauerBalkenPraxisText' => 'Sie sind neu bei uns? Wir heissen Sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für Sie hier ein paar <br>Informationen zusammengestellt:
 									 <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neupatienten.php"> Informationen für Neupatienten</a>',
 
 
