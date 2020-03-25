@@ -28,7 +28,7 @@ function lang($phrase){
 
 		//Meta Description (Seo Beschreibung)
 		'IndexMETADescr' => 'Ihr Zahnarzt in Hörstein bei Alzenau Dr. Bernhard Fuchs begrüßt Sie herzlich.  Unsere Schwerpunkte: ästhetische Zahnmedizin hochwertiger Zahnersatz.',
-        'PraxisMETADescr' => 'Praxis von Zahnarzt Fuchs in Alzenau Stadtteil Hörstein. Unser Team der Zahnarztpraxis Fuchs in Alzenau Hörstein freut sich auf sie',
+        'PraxisMETADescr' => 'Praxis von Zahnarzt Fuchs in Alzenau Stadtteil Hörstein. Unser Team der Zahnarztpraxis Fuchs in Alzenau Hörstein freut sich auf Sie',
 		'BehandlungMETADescr' => 'Gerne verenbaren wir, das Team der Zahnarztpraxis Fuchs in Alzenau einen Termin mit ihnen, für Ästhetische Zahnheilkunde, Parodontitis oder Implantate.',
 			'AEZMETADescr' => 'Aestetische Zahnheilkunde unser Tätigkeitsschwerpunkt - Zahnarzt Fuchs Alzenbau der Zahnarzt in Alzenau Hörstein',
 			'PuZMETADescr' => 'Vorbeugung ist der einfachste weg.... Zahnarzt Fuchs Alzenbau der Zahnarzt in Alzenau Hörstein',
@@ -203,44 +203,44 @@ function lang($phrase){
 		'8GUeber' => '8 Gründe für unsere Praxis in Alzenau Hörstein',
 
         '1Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'1Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'1Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '1Bild8Gr' => '',
 
 		'2Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'2Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'2Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '2Bild8Gr' => '',
 
 		'3Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'3Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'3Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '3Bild8Gr' => '',
 
 
 		'4Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'4Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'4Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '4Bild8Gr' => '',
 
 
 		'4Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'4Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'4Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '4Bild8Gr' => '',
 
 
 		'5Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'5Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'5Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '5Bild8Gr' => '',
 
 
 		'6Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'6Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'6Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '6Bild8Gr' => '',
 
 
 		'7Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'7Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'7Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '7Bild8Gr' => '',
 
 		'8Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
-		'8Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
+		'8Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
         '8Bild8Gr' => '',
 
 
@@ -281,7 +281,7 @@ function lang($phrase){
 								<br><br>Hier können Sie sich über unsere Praxis, unser Behandlungsspektrum und unsere Schwerpunkte informieren.<br>
 								Und natürlich über uns!<br><br>
 								Schließlich ist die Entscheidung für einen Zahnarzt eine Frage des Vertrauens.<br>
-								In unserer Praxis werden sie von einem erfahrenen Zahnarzt und freundlichen, hilfsbereiten Mitarbeiterinnen kompetent betreut. Die Wünsche unserer Patienten liegen dem gesamten Team am Herzen, denn:<br><br>
+								In unserer Praxis werden Sie von einem erfahrenen Zahnarzt und freundlichen, hilfsbereiten Mitarbeiterinnen kompetent betreut. Die Wünsche unserer Patienten liegen dem gesamten Team am Herzen, denn:<br><br>
                 				<h2><small><strong>WIR LIEBEN IHR LÄCHELN!</strong> </small></h2><br>
                					<br><br></p>
 
@@ -359,7 +359,7 @@ function lang($phrase){
         'OeffnungszeitenSubUeber' => 'Ab sofort bieten wir Ihnen eine Früh- und Abendsprechstunde an:',
 		'OeffnungszeitenText' => '
 					Bitte beachten Sie, dass wir donnerstags erst ab 10:00 Uhr erreichbar sind!',
-		'NotdienstText' => 'Die aktuelle Ansage zum Zahnärztlichen Notdienst erhalten Sie unter der Telefonnummer: <a title=”Telefon Nr. Zahnarztpraxis Alzenau” href="tel:0602180700">06021 80700</a> oder Sie tragen 								einfach Ihre Postleitzahl unterhalb ein. <br><br><!-- <a title=”Weitere Infos Zahnarzt Alzenau Dr. Fuchs” href="weitereinfos.php">Informationen zum Weiterlesen</a>-->',
+		'NotdienstText' => 'Die aktuelle Ansage zum Zahnärztlichen Notdienst erhalten Sie unter der Telefonnummer: <a title=”Telefon Nr. Zahnarztpraxis Alzenau” href="tel:0602180700">06021 80700</a> oder besuchen Sie die Webseite des Zahnärztlichen Notdienstes. Auf dieser müssen Sie Ihre Postleitzahl eintragen und erhalten sofortige Hilfe. <br><br><!-- <a title=”Weitere Infos Zahnarzt Alzenau Dr. Fuchs” href="weitereinfos.php">Informationen zum Weiterlesen</a>-->',
 
 
 
@@ -395,7 +395,7 @@ function lang($phrase){
 
 		'BlauerBalkenPraxisUeber' => 'Neupatienten',
 		'BlauerBalkenPraxisBild' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_empfang1-1200x1200.jpg',
-		'BlauerBalkenPraxisText' => 'Sie sind neu bei uns? Wir heissen sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für sie hier ein paar Informationen zusammengestellt:
+		'BlauerBalkenPraxisText' => 'Sie sind neu bei uns? Wir heissen Sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für Sie hier ein paar Informationen zusammengestellt:
 									 <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neupatienten.php"> Informationen für Neupatienten</a>',
 
 
@@ -453,7 +453,7 @@ function lang($phrase){
 		'LGUeber3' =>'Tiefschlaf <br>',
         'LGText2' => '<p>(Analgosedierung, Dämmerschlaf):Medikamentöse Schmerzausschaltung bei gleichzeitiger Beruhigung und 						  Dämpfung des Bewusstseins. Im Gegensatz zur Vollnarkose atmet der Patient selbst und reagiert (schwach) auf 						äußere Reize.</p>',
 		'LGUeber3' => 'Vollnarkose',
-        'LGText3' => ' <p>	Bei der Vollnarkose werden Bewusstsein und Schmerzempfindung des Patienten völlig ausgeschaltet , um  optimale Voraussetzungen für therapeutische Eingriffe zu schaffen. <br>Für Vollnarkose und Tiefschlaf kommen Narkoseärzte(Anästhesisten) zu uns in die Praxis, die sie im Zweierteam während der gesamten Zeit betreuen und überwachen. Anschließend bleiben sie noch bei uns, bis sie sich wieder fit fühlen und werden dann von Ihrer Begleitperson nach Hause gebracht.</p>',
+        'LGText3' => ' <p>	Bei der Vollnarkose werden Bewusstsein und Schmerzempfindung des Patienten völlig ausgeschaltet , um  optimale Voraussetzungen für therapeutische Eingriffe zu schaffen. <br>Für Vollnarkose und Tiefschlaf kommen Narkoseärzte(Anästhesisten) zu uns in die Praxis, die Sie im Zweierteam während der gesamten Zeit betreuen und überwachen. Anschließend bleiben sie noch bei uns, bis sie sich wieder fit fühlen und werden dann von Ihrer Begleitperson nach Hause gebracht.</p>',
 
 	'LGBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/lachgas-1600x1000.jpg',
 	'LGBlau' => '<b>In unserer Praxis werden nicht nur chirurgische Eingriffe in Vollnarkose durchgeführt.</b><br><br> Auch zahnerhaltende Maßnahmen, wie Füllungstherapie oder Wurzelkanalbehandlungen und Versorgungen mit Kronen und Zahnersatz können in Vollnarkose bei uns erfolgen. <br><br><strong>Darin haben wir Erfahrung seit 1997.</strong>',
