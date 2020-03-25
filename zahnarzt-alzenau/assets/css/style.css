@@ -1396,7 +1396,7 @@ h5, .h5 {
 }
 
 p, .p {
-	
+
   font-size: 1rem;
 }
 
@@ -1422,6 +1422,12 @@ small, .small {
 
 .test {
   background-color: red;
+}
+
+
+.fs--2 {
+  font-size: 0.75019rem !important;
+  color: white;
 }
 
 .fs--1 {
@@ -8492,7 +8498,7 @@ p {
   }
   .znav-container ul.navbar-nav > li.has-megamenu.z-active .megamenu{
     display: block !important;
-    
+
   }
   .znav-container ul.navbar-nav > li.has-megamenu .megamenu{
     position: relative;
