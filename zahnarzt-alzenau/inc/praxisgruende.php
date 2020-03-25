@@ -24,7 +24,7 @@
                             <h3 class="mt-4 fs-1" data-zanim="{&quot;delay&quot;:0.1}" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">Sanfte und angstfreie Zahnheilkunde</h3>
      <p class="mb-0 mt-3 px-3" data-zanim="{&quot;delay&quot;:0.2}" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
 
-    Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie angst vor der Zahnbehandlung haben, können wir Ihnen helfen.
+    Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.
                                            <a class="btn btn-icon btn-outline-primary btn-icon-left " href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/angstpatient-lachgas-tiefschlaf-vollnarkose.php">
 												<span class="icon-Tooth "></span>Mehr Erfahren</a></p>
                         </div>
