@@ -276,7 +276,7 @@ function lang($phrase){
         //            Zahnarztpraxis Dr. Bernhard Fuchs</b><br>
         //            in Alzenau- Hörstein.<br><br>
 		//Startseite Index
-		'IndexUeber1' => 'Herzlich Willkommen<small><br>auf den Seiten der <b>Zahnarztpraxis Dr. Fuchs</b> in Alzenau- Hörstein.</small>',
+		'IndexUeber1' => 'Herzlich Willkommen<small><br>auf den Seiten der <b>Zahnarztpraxis Dr. Bernhard Fuchs</b> in Alzenau- Hörstein.</small>',
 		'IndexText1' => '
 								<br><br>Hier können Sie sich über unsere Praxis, unser Behandlungsspektrum und unsere Schwerpunkte informieren.<br>
 								Und natürlich über uns!<br><br>
@@ -558,7 +558,7 @@ function lang($phrase){
 
 
 		//Vollkeramik
-        'VKUeber1' => 'Vollkeramik',
+    'VKUeber1' => 'Vollkeramik',
 		'VKText1' => '<p>Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen. Vollkeramische Kronen und Brücken haben kein Metallgerüst. Sie bestehen komplett aus zahnfarbenem Material. Deshalb ist bei der Vollkeramik die optische Wirkung wesentlich brillanter, als bei der herkömmlichen Metallkeramik.
 Mit Vollkeramik erreichen wir ein besonders natürliches Aussehen Ihrer Zähne und erfüllen höchste Ansprüche in Funktion und Ästhetik. Denn der Lichtdurchtritt ist bei Vollkeramik nahezu identisch dem bei natürlichen Zähnen. Dadurch sind vollkeramische Restaurationen auch bei genauer Betrachtung kaum von den natürlichen Zähnen zu unterscheiden.</p>',
         'VKBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_Zahnersatz-1600x1000.jpg',
@@ -608,26 +608,26 @@ Mit Vollkeramik erreichen wir ein besonders natürliches Aussehen Ihrer Zähne u
 
 
 		'BL1' => 'aestetische-zahnheilkunde.php',
-        'BL2' => 'prophylaxe-zahnreinigung.php',
+    'BL2' => 'prophylaxe-zahnreinigung.php',
 		'BL3' => 'weisse-fuellungen.php',
-        'BL4' => 'parodontitis-zahnfleischentzuendung.php',
+    'BL4' => 'parodontitis-zahnfleischentzuendung.php',
 		'BL5' => 'kinderbehandlung.php',
-        'BL6' => 'angstpatient-lachgas-tiefschlaf-vollnarkose.php',
+    'BL6' => 'angstpatient-lachgas-tiefschlaf-vollnarkose.php',
 		'BL7' => 'moderne-endodontie-wurzelkanalbehandlung.php',
-        'BL8' => 'vollkeramik.php',
+    'BL8' => 'vollkeramik.php',
 		'BL9' => 'hochwertiger-zahnersatz.php',
-        'BL10' => 'implantate.php',
+    'BL10' => 'implantate.php',
 
 			//Texte
 		'BT1' => 'Ein schönes, strahlendes Lächeln macht jeden Menschen attraktiver. Die Zahnarztpraxis Dr. med. dent. Fuchs in Alzenau ist Ihr Ansprechpartner, wenn es um gesunde, schöne Zähne geht.',
-        'BT2' => '<span style="background-color: #408eea; border-radius:20px; color:white;">&nbsp;&nbsp;Prophylaxe – das Geheimnis gesunder Zähne:&nbsp;&nbsp;</span> <br>Bei der regelmäßigen  Kontrolluntersuchung  können Karies und Parodontose frühzeitig entdeckt werden. Durch Professionelle Zahnreinigung,  Politur, Fluoridierung und Tipps für gute Mundhygiene erhalten Sie die optimale Vorsorge für Ihre Zähne.',
+    'BT2' => '<span style="background-color: #408eea; border-radius:20px; color:white;">&nbsp;&nbsp;Prophylaxe – das Geheimnis gesunder Zähne:&nbsp;&nbsp;</span> <br>Bei der regelmäßigen  Kontrolluntersuchung  können Karies und Parodontose frühzeitig entdeckt werden. Durch Professionelle Zahnreinigung,  Politur, Fluoridierung und Tipps für gute Mundhygiene erhalten Sie die optimale Vorsorge für Ihre Zähne.',
 		'BT3' => 'Die meisten Patienten möchten keine Amalgamfüllungen mehr. Zum Glück stehen heute perfekte Alternativen zur Verfügung: Zahnfarbene Füllungen aus Kunststoff oder Keramik.',
     'BT4' => 'Bei der Parodontitis handelt es sich um eine oft schmerzlose Entzündung von Zahnfleisch und Kieferknochen, die langfristig zum Zahnverlust führt.
 			   	  Durch eine systematische Parodontalbehandlung kann ihnen unsere Zahnarztpraxis Dr. Fuchs in Alzenau helfen.',
 		'BT5' => 'Bereits die ersten Lebensjahre sind entscheidend für ein gesundes Gebiss und gute Zähne. Wenn hier die Weichen richtig gestellt werden, können ihre Kinder ein Leben lang gesunde Zähne behalten und unangenehme Erfahrungen mit Zahnärzten vermeiden',
     'BT6' => '<span style="background-color: #408eea; border-radius:20px; color:white;">&nbsp;&nbsp;Als Angstpatient müssen Sie sich bei uns nicht rechtfertigen! </span> <br>Wir ermitteln im Erstgespräch gemeinsam mit Ihnen Ausmaß und Gründe ihrer Angst, um dann gezielt dagegen vorzugehen. Je nach Notwendigkeit findet eine Schmerz- ausschaltung mit Lokalanästhesie, Lachgas, Tiefschlaf oder Vollnarkose 				  statt. So bringen sie die Zahnbehandlung bei uns angst- und schmerzfrei hinter sich.',
 		'BT7' => 'zur Erhaltung stark zerstörter Zähne mit entzündetem Nerv. Durch eine Wurzelkanalbehandlung mit dichter Wurzelfüllung lässt sich in sehr vielen 					  Fällen ein verloren geglaubter Zahn noch erhalten.',
-        'BT8' => 'Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen 							  unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen.',
+    'BT8' => 'Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen 							  unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen.',
 		'BT9' => 'zu günstigen Preisen mit Möglichkeit der Ratenzahlung. Bei Ihren Zahnarzt in Alzenau',
 		'BT10' => 'Ob Einzelzahnlücke, große Lücke oder zahnloser Kiefer – Implantate haben viele Vorteile und stellen jeweils die hochwertige und komfortable 						  Alternative zum konventionellen Zahnersatz dar.',
 
