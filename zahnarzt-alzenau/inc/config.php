@@ -300,7 +300,7 @@ function lang($phrase){
 
 
 		//Praxis
-		'PraxisUeber1' => 'Praxis <small class="fs--2 white"><br>Zahnarzt Dr. Fuchs Alzenau</small>',
+		'PraxisUeber1' => 'Praxis <small class="fs--2 white">Zahnarzt Dr. Fuchs Alzenau</small>',
 		'PraxisUeber2' => '',
 		'PraxisGalerieUeber' => 'Praxis - Fotos<small class="fs-1"><br>Zahnarzt Alzenau</small>',
 		'PraxisGalerieOrdner' => '',
