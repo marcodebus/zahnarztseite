@@ -156,8 +156,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "aestetische-zahnheilkunde.php";?>" ><?php echo lang('AEZMenu');?> </a></li>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "prophylaxe-zahnreinigung.php";?>"><?php echo lang('PuZMenu');?></a><br></li>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "parodontitis-zahnfleischentzuendung.php";?>"><?php echo lang('PuPMenu');?><br></a></li>
-																										<li><span class="icon-Tooth"></span> <a href="<?php echo "moderne-endodontie-wurzelkanalbehandlung.php";?>"><?php echo lang('MEMenu');?><br></a></li>
-
+                                                    <li><span class="icon-Tooth"></span> <a href="<?php echo "kinderbehandlung.php";?>"><?php echo lang('KBMenu');?></a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -168,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="col-lg-5">
                                             <div class="icon_list">
                                                 <ul class="fs-0">
-																									<li><span class="icon-Tooth"></span> <a href="<?php echo "kinderbehandlung.php";?>"><?php echo lang('KBMenu');?></a></li>
+                                                    <li><span class="icon-Tooth"></span> <a href="<?php echo "moderne-endodontie-wurzelkanalbehandlung.php";?>"><?php echo lang('MEMenu');?><br></a></li>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "angstpatient-lachgas-tiefschlaf-vollnarkose.php";?>"><?php echo lang('LGMenu');?></a></li>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "hochwertiger-zahnersatz.php";?>"><?php echo lang('HZMenu');?></a></li>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "implantate.php";?>"><?php echo lang('IMMenu');?></a></li>
