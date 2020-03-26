@@ -18,17 +18,18 @@ $FixContact = "";
 
 
      <section class="background-11">
-                <div class="container">
+      	<div class="container">
 
 					<?php include('./inc/grauerBalken.php'); ?>
 
-               <div class="row no-gutters">
+        		<div class="row no-gutters">
 					<!--<div class="col-lg-1 py-3 py-lg-0" style="min-height:400px; background-color:white; background-position: top;">
 
 					</div>-->
                <div class="col-lg-6 col-md-6 col-sm-12 py-3 py-lg-0" style="min-height:400px; background-color:white; background-position: top;">
                      <div class="d-flex align-items-center h-100">
                      	<div style="text-align:center;" data-zanim-timeline="{}"data-zanim-trigger="scroll">
+
 							<div align="center">
 								<img  style="background-color:white; margin:10px; border-radius:5%;"
 								 width="100%" src="<?php echo lang('WFBild1'); ?>">
