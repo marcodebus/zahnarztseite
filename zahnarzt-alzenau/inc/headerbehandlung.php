@@ -167,11 +167,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div class="col-lg-5">
                                             <div class="icon_list">
                                                 <ul class="fs-0">
-                                                    <li><span class="icon-Tooth"></span> <a href="<?php echo "moderne-endodontie-wurzelkanalbehandlung.php";?>"><?php echo lang('MEMenu');?><br></a></li>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "angstpatient-lachgas-tiefschlaf-vollnarkose.php";?>"><?php echo lang('LGMenu');?></a></li>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "hochwertiger-zahnersatz.php";?>"><?php echo lang('HZMenu');?></a></li>
                                                     <li><span class="icon-Tooth"></span> <a href="<?php echo "implantate.php";?>"><?php echo lang('IMMenu');?></a></li>
-                                                </ul>
+																										<li><span class="icon-Tooth"></span> <a href="<?php echo "moderne-endodontie-wurzelkanalbehandlung.php";?>"><?php echo lang('MEMenu');?><br></a></li>
+
+																								</ul>
                                             </div>
                                         </div>
                                     </div>
