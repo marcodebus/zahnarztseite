@@ -623,12 +623,12 @@ Mit Vollkeramik erreichen wir ein besonders natürliches Aussehen Ihrer Zähne u
     'BT2' => 'Prophylaxe – das Geheimnis gesunder Zähne: <br>Bei der regelmäßigen  Kontrolluntersuchung  können Karies und Parodontose frühzeitig entdeckt werden. Durch Professionelle Zahnreinigung,  Politur, Fluoridierung und Tipps für gute Mundhygiene erhalten Sie die optimale Vorsorge für Ihre Zähne.',
 		'BT3' => 'Bei der Parodontitis handelt es sich um eine oft schmerzlose Entzündung von Zahnfleisch und Kieferknochen, die langfristig zum Zahnverlust führt.
 			   	  Durch eine systematische Parodontalbehandlung können wir Ihnen helfen.',
-    'BT4' => 'Bereits die ersten Lebensjahre sind entscheidend für ein gesundes Gebiss und gute Zähne. Wenn hier die Weichen richtig gestellt werden, können ihre Kinder ein Leben lang gesunde Zähne behalten und unangenehme Erfahrungen mit Zahnärzten vermeiden',
+    'BT4' => 'Bereits die ersten Lebensjahre sind entscheidend für ein gesundes Gebiss und gute Zähne. Wenn hier die Weichen richtig gestellt werden, können ihre Kinder ein Leben lang gesunde Zähne behalten und unangenehme Erfahrungen mit Zahnärzten vermeiden.',
 		'BT5' => 'Als Angstpatient müssen Sie sich bei uns nicht rechtfertigen! <br>Wir ermitteln im Erstgespräch gemeinsam mit Ihnen Ausmaß und Gründe ihrer Angst, um dann gezielt dagegen vorzugehen. Je nach Notwendigkeit findet eine Schmerz- ausschaltung mit Lokalanästhesie, Lachgas, Tiefschlaf oder Vollnarkose 				  statt. So bringen sie die Zahnbehandlung bei uns angst- und schmerzfrei hinter sich.',
-    'BT6' => 'zur Erhaltung stark zerstörter Zähne mit entzündetem Nerv. Durch eine Wurzelkanalbehandlung mit dichter Wurzelfüllung lässt sich in sehr vielen 					  Fällen ein verloren geglaubter Zahn noch erhalten.',
+    'BT6' => 'zur Erhaltung stark zerstörter Zähne mit entzündetem Nerv. Durch eine Wurzelkanalbehandlung mit dichter Wurzelfüllung lässt sich in sehr vielen Fällen ein verloren geglaubter Zahn noch erhalten.',
 		'BT7' => 'zu günstigen Preisen mit Möglichkeit der Ratenzahlung.',
-    'BT8' => 'Ob Einzelzahnlücke, große Lücke oder zahnloser Kiefer – Implantate haben viele Vorteile und stellen jeweils die hochwertige und komfortable 						  Alternative zum konventionellen Zahnersatz dar.',
-		'BT9' => 'Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen 							  unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen.',
+    'BT8' => 'Ob Einzelzahnlücke, große Lücke oder zahnloser Kiefer – Implantate haben viele Vorteile und stellen jeweils die hochwertige und komfortable Alternative zum konventionellen Zahnersatz dar.',
+		'BT9' => 'Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen.',
 		'BT10' => 'Die meisten Patienten möchten keine Amalgamfüllungen mehr. Zum Glück stehen heute perfekte Alternativen zur Verfügung: Zahnfarbene Füllungen aus Kunststoff oder Keramik.',
 //
 
