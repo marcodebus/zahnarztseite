@@ -43,6 +43,7 @@ $Kontakttext = "Sie interessieren sich für Implantate? Rüfen Sie uns doch mal 
 
 
 
+					<img  style="background-color:white; margin:10px; border-radius:5%;"	width="100%" src="<?php echo lang('IMBild2');?>">
 
 
 
@@ -50,7 +51,6 @@ $Kontakttext = "Sie interessieren sich für Implantate? Rüfen Sie uns doch mal 
 						<?php echo lang('IMText2');?>
 					</div>
 
-	<img  style="background-color:white; margin:10px; border-radius:5%;"	width="100%" src="<?php echo lang('IMBild2');?>">
 
 		<?php echo lang('IMText3');?>
 
