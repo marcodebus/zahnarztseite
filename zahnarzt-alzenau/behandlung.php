@@ -63,7 +63,7 @@ $_SESSION["myvar"] = "1";
 			$text =	array("",);
 			$link = array("",);
 				$i =1;
-				while ($i < 11){
+				while ($i < 9){
 					$bildNr = "BB".$i;
 					$textNr = "BT".$i;
 					$ueberNr = "BU".$i;
@@ -79,7 +79,7 @@ $_SESSION["myvar"] = "1";
 
 			while ($i < count($bild)){
 
-				if ($i === 6){ // Da Beginnend Bei 1 und Wechsel nach dem 5.
+				if ($i === 4){ // Da Beginnend Bei 1 und Wechsel nach dem 5.
 					echo " </div>";
 					echo "<div class=\"
 				col-lg-12 col-md-12 col-xs-12 col-sm-12 col-xl-6 px-lg-12 mt-12 mt-lg-12\" data-zanim-timeline=\"{}\" data-zanim-trigger=\"scroll\">";
