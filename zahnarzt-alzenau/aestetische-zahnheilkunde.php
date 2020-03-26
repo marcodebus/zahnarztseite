@@ -95,9 +95,7 @@ $FixContact = "";
 						<?php echo lang('WFText1'); ?>
 
 
-												<div align="center">
-													<img  style="background-color:white; margin:10px; border-radius:5%;"	width="60%" src="<?php echo lang('WFBild2'); ?>">
-												</div>
+					
 
 
 						                        </div>
@@ -110,7 +108,7 @@ $FixContact = "";
 
 
 
-																
+
 
 
 
