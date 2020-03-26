@@ -6,7 +6,7 @@ $Title = lang('PraxisTitle');
 $Ueber =  lang('PraxisUeber');
 $Side = lang('PraxisSidebar');
 $Meta = lang('PraxisMETADescr');
-$Kontakttext = "Sie möchten einen Termin in unserer Praxis Vereinbaren? Rufen Sie uns bitte an!";
+$Kontakttext = "Sie möchten einen Termin in unserer Praxis vereinbaren? Rufen Sie uns bitte an!";
 $galerie = true;
 $FixContact = "";
 							include('./inc/head.php');

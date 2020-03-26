@@ -3,7 +3,7 @@ error_reporting(0);
 
 function lang($phrase){
     static $lang = array(
-		'headersliderBehandlung' => './assets/bilder/headerBehandlung.png',
+		'headersliderBehandlung' => './assets/bilder/behandlungen/zahnarzt_fuchs_alzenau_behandlung-1024x460.jpg',
 		//TITLE Pages (Seo Google Title)
 		'IndexTitle' => 'Zahnarzt Fuchs Alzenau -- Ihr Zahnarzt für Alzenau und Hörstein',
         'PraxisTitle' => 'Praxis Dr. Fuchs Der Zahnarzt in Alzenau und Hörstein',
@@ -386,7 +386,7 @@ function lang($phrase){
 		'NeupatientenDownloadUText1' => 'Den Anmeldebogen können Sie ausdrucken, bequem zu Hause ausfüllen und in die Praxis mitbringen. Vielen Dank!',
         'NeupatientenDownloadUUeber2' => 'Checkliste für Neu&shy;patienten',
         'NeupatientenDownloadUText2' => 'Um Ihnen die Vorbereitung auf ihren ersten Zahnarztbesuch so einfach wie möglich zu machen, haben wir eine Checkliste vorbereitet.
-											<br>Bitte schauen Sie sich diese an und nehmen Sie die Unterlagen mit in die Praxis ,soweit das für Sie zutrifft.',
+											<br>Bitte schauen Sie sich diese an und nehmen Sie die Unterlagen mit in die Praxis,soweit das für Sie zutrifft.',
 
 		'NeupatientenChecklistePfad' => './assets/bilder/downloads/Checkliste.pdf',
         'NeupatientenAnmeldebogenPfad' => './assets/bilder/downloads/Anamnesebogen.pdf',
@@ -453,7 +453,7 @@ function lang($phrase){
 		'LGUeber3' =>'Tiefschlaf <br>',
         'LGText2' => '<p>(Analgosedierung, Dämmerschlaf):Medikamentöse Schmerzausschaltung bei gleichzeitiger Beruhigung und 						  Dämpfung des Bewusstseins. Im Gegensatz zur Vollnarkose atmet der Patient selbst und reagiert (schwach) auf 						äußere Reize.</p>',
 		'LGUeber3' => 'Vollnarkose',
-        'LGText3' => ' <p>	Bei der Vollnarkose werden Bewusstsein und Schmerzempfindung des Patienten völlig ausgeschaltet , um  optimale Voraussetzungen für therapeutische Eingriffe zu schaffen. <br>Für Vollnarkose und Tiefschlaf kommen Narkoseärzte(Anästhesisten) zu uns in die Praxis, die Sie im Zweierteam während der gesamten Zeit betreuen und überwachen. Anschließend bleiben sie noch bei uns, bis sie sich wieder fit fühlen und werden dann von Ihrer Begleitperson nach Hause gebracht.</p>',
+        'LGText3' => ' <p>	Bei der Vollnarkose werden Bewusstsein und Schmerzempfindung des Patienten völlig ausgeschaltet, um  optimale Voraussetzungen für therapeutische Eingriffe zu schaffen. <br>Für Vollnarkose und Tiefschlaf kommen Narkoseärzte(Anästhesisten) zu uns in die Praxis, die Sie im Zweierteam während der gesamten Zeit betreuen und überwachen. Anschließend bleiben sie noch bei uns, bis sie sich wieder fit fühlen und werden dann von Ihrer Begleitperson nach Hause gebracht.</p>',
 
 	'LGBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/lachgas-1600x1000.jpg',
 	'LGBlau' => '<b>In unserer Praxis werden nicht nur chirurgische Eingriffe in Vollnarkose durchgeführt.</b><br><br> Auch zahnerhaltende Maßnahmen, wie Füllungstherapie oder Wurzelkanalbehandlungen und Versorgungen mit Kronen und Zahnersatz können in Vollnarkose bei uns erfolgen. <br><br><strong>Darin haben wir Erfahrung seit 1997.</strong>',
@@ -531,7 +531,7 @@ function lang($phrase){
         'METext1' => '<p>Wenn ein Zahn immer wieder Schmerzen bereitet, ist die Ursache oft eine Entzündung des Nervs, meist ausgelöst durch tiefe Karies. Mit einer Wurzelkanalbehandlung und dichter Wurzelfüllung lässt sich der Zahn aber in den meisten Fällen doch noch erhalten. Durch moderne Behandlung mit hoch flexiblen Nickel-Titan-Instrumenten und neuartigen Maschinensysteme lassen sich heute Zähne erhalten, die man früher hätte entfernen müssen.',
 		'MEUUeber1' => 'Revision einer unvollständigen Wurzelfüllung',
 		'MEUeber2' => '',
-        'MeText2' => '<p>Weiterhin wird in unserer Praxis mit Lupenbrille , elektronischer Längenbestimmung des Wurzelkanals  und 						speziellen Ultraschallgeräten bei der Aufbereitung gearbeitet.
+        'MeText2' => '<p>Weiterhin wird in unserer Praxis mit Lupenbrille, elektronischer Längenbestimmung des Wurzelkanals  und 						speziellen Ultraschallgeräten bei der Aufbereitung gearbeitet.
 				Außerdem bieten wir auch den Austausch (Revision) von alten unvollständigen Wurzelfüllungen an. Mit all diesen 					Maßnahmen schaffen wir die optimalen Voraussetzungen, dass Sie ihren eigenen Zahn noch viele Jahre behalten können 				   .</p>',
 		'MEBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/daumen.jpeg',
         'MEBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_EndodontieZahn3-832x835.png',
