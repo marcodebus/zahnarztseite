@@ -469,7 +469,7 @@ function lang($phrase){
 			   ' <p>Wenn Füllungen und Kronen zur Wiederherstellung des Kauorgans nicht mehr ausreichen, weil schon zu viele Zähne 				   fehlen, dann müssen die Lücken durch einen Zahnersatz geschlossen werden. Wir finden die für Sie passende Lösung.
 				<br>
 				Durch Zahnersatz lassen sich unvorteilhafte und ungesunde Zahnlücken wieder schließen. Ein guter Zahnersatz 					verbessert die Kaufunktion, die Gesundheit und das optische Erscheinungsbild. Wir erklären Ihnen ausführlich, was 				  in Ihrem Fall sinnvoll ist – etwa eine herausnehmbare Versorgung, etwa mit Geschiebetechnik oder Teleskopkronen, 					oder ein fest eingebauter Zahnersatz auf Implantaten.',
-		'ZEtext2' => ' <p>Unser Zahnersatz wird im Meister-Labor Stefan Bauer in Aschaffenburg hergestellt. <br><br>Es besteht aber 						auch die Möglichkeit einer kostengünstigen Fertigung im Ausland . Dadurch können wir Ihnen gute Qualität zu 						einem günstigen Preis anbieten . Die von uns ausgewählten Labors erfüllen höchste Qualitätsansprüche und 						 sind vom deutschen TÜV zertifiziert . Alle verwendeten Materialien sind in Deutschland zugelassen und CE-							zertifiziert. </p>',
+		'ZEtext2' => ' <p>Unser Zahnersatz wird im Meister-Labor Stefan Bauer in Aschaffenburg hergestellt. <br><br>Dadurch können wir Ihnen gute Qualität zu einem günstigen Preis anbieten. Die von uns ausgewählten Labors erfüllen höchste Qualitätsansprüche und 						 sind vom deutschen TÜV zertifiziert . Alle verwendeten Materialien sind in Deutschland zugelassen und CE-							zertifiziert. </p>',
     	'ZEtext3' => 'Zusammen mit unserer Abrechnungsgesellschaft bieten wir ihnen die Möglichkeit ihre Zahnersatz -Rechnung in bequemen Raten zu bezahlen.',
 
 
