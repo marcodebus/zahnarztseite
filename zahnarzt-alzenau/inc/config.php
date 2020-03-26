@@ -3,7 +3,7 @@ error_reporting(0);
 
 function lang($phrase){
     static $lang = array(
-		'headersliderBehandlung' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/zahnarzt_fuchs_alzenau_behandlung-1024x460.jpg',
+		'headersliderBehandlung' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/zahnarzt_fuchs_alzenau_behandlung_header.jpg',
 		//TITLE Pages (Seo Google Title)
 		'IndexTitle' => 'Zahnarzt Fuchs Alzenau -- Ihr Zahnarzt für Alzenau und Hörstein',
         'PraxisTitle' => 'Praxis Dr. Fuchs Der Zahnarzt in Alzenau und Hörstein',
