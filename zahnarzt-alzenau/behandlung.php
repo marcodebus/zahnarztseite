@@ -40,20 +40,19 @@ $_SESSION["myvar"] = "1";
 						<!--Unterstrich-->
 
 
-
+	<div style=" text-align: center;">
 						<h2 class="fs-1">Von der Prophylaxe bis zur Implantatprothetik bieten wir ihnen <br>das gesamte Spektrum der modernen Zahnheilkunde in unserer <strong>Praxis in Alzenau</strong> an.</h2>
 							<p><img src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/zahnarzt_fuchs_alzenau_zähne.jpg" width="75%"></p>
-				
+
 
     <h1 class="text-center fs-2 fs-md-3"><?php echo lang('BehandlungUUeber1');?></h1>
-		<div style=" text-align: center;">
+
 			<?php
 					$icon = "icon-Heart";
 					include('./inc/unterstrich.php');
 			?>
 
-			<h2 class="fs-1">Von der Prophylaxe bis zur Implantatprothetik bieten wir ihnen <br>das gesamte Spektrum der modernen Zahnheilkunde in unserer <strong>Praxis in Alzenau</strong> an.</h2>
-				<p><img src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/zahnarzt_fuchs_alzenau_zähne.jpg" width="75%"></p>
+		
 		</div>
 
 
