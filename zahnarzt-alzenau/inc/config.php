@@ -559,14 +559,15 @@ function lang($phrase){
 
 		//Vollkeramik
     'VKUeber1' => 'Vollkeramik',
-		'VKText1' => '<p>Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen. Vollkeramische Kronen und Brücken haben kein Metallgerüst. Sie bestehen komplett aus zahnfarbenem Material. Deshalb ist bei der Vollkeramik die optische Wirkung wesentlich brillanter, als bei der herkömmlichen Metallkeramik.
+		'VKText1' => '<p>Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen.
 Mit Vollkeramik erreichen wir ein besonders natürliches Aussehen Ihrer Zähne und erfüllen höchste Ansprüche in Funktion und Ästhetik. Denn der Lichtdurchtritt ist bei Vollkeramik nahezu identisch dem bei natürlichen Zähnen. Dadurch sind vollkeramische Restaurationen auch bei genauer Betrachtung kaum von den natürlichen Zähnen zu unterscheiden.</p>',
         'VKBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_Zahnersatz-1600x1000.jpg',
 
 
 		'WFBildUnter' => 'Amalgam-Füllung v/s Kunststoff-Füllung',
-		'WFUeber1' => '<br>Weiße Füllungen',
-		'WFText1' => ' <p>Moderne Füllungen schneiden auch optisch besser ab und bleiben viele Jahre stabil. Kleine Zahnschäden werden mit einem Komposit aus Keramikpartikeln und Kunststoff behandelt. Bei größeren Defekten ist eine Keramikfüllung oder eine Teilkrone aus Keramik vorzuziehen.<br>Wir beraten Sie gerne, sollten Sie Fragen zur Zahnerhaltung haben. Nach einer gründlichen Diagnose erhalten Sie von uns die für Sie bestmögliche Empfehlung und Therapie.</p>',
+		'WFUeber1' => 'Weiße Füllungen',
+		'WFText1' => ' <p>Die meisten Patienten möchten keine Amalgamfüllungen mehr. Zum Glück stehen heute perfekte Alternativen zur Verfügung: Zahnfarbene Füllungen aus Kunststoff oder Keramik.
+                      Moderne Füllungen schneiden auch optisch besser ab und bleiben viele Jahre stabil. Kleine Zahnschäden werden mit einem Komposit aus Keramikpartikeln und Kunststoff behandelt. Bei größeren Defekten ist eine Keramikfüllung oder eine Teilkrone aus Keramik vorzuziehen.<br>Wir beraten Sie gerne, sollten Sie Fragen zur Zahnerhaltung haben. Nach einer gründlichen Diagnose erhalten Sie von uns die für Sie bestmögliche Empfehlung und Therapie.</p>',
 		'WFBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_füllungen-502x313.png',
 		'WFBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/paradontologie-350x288-350x287.jpg',
 		'WFBild3' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/bleaching-291x291-291x291.jpg',
