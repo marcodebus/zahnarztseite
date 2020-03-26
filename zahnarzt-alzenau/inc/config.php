@@ -559,8 +559,7 @@ function lang($phrase){
 
 		//Vollkeramik
     'VKUeber1' => 'Vollkeramik',
-		'VKText1' => '<p>Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen.
-Mit Vollkeramik erreichen wir ein besonders natürliches Aussehen Ihrer Zähne und erfüllen höchste Ansprüche in Funktion und Ästhetik. Denn der Lichtdurchtritt ist bei Vollkeramik nahezu identisch dem bei natürlichen Zähnen. Dadurch sind vollkeramische Restaurationen auch bei genauer Betrachtung kaum von den natürlichen Zähnen zu unterscheiden.</p>',
+		'VKText1' => '<p>Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen.</p>',
         'VKBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_Zahnersatz-1600x1000.jpg',
 
 
