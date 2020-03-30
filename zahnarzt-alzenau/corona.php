@@ -188,29 +188,6 @@ include('./inc/headerSlider.php');
                         </div>
 
 
-						 <div class="col-lg-6 pr-0 pr-lg-3">
-                           <br><br>
-
-								<h3 class="text-center ">Sie möchten einen Termin bei uns vereinbaren möchten? Rufen Sie uns bitte an!									</h3>
-								<div style=" text-align: center;">
-									<object data="./assets/bilder/icons/unterstrich.svg" type="image/svg+xml">
-									 <img src="./assets/bilder/icons/blankPNG.png" />
-									</object>
-										<span class='icon-Telephone'></span>
-
-									<object data="./assets/bilder/icons/unterstrich.svg" type="image/svg+xml">
-										 <img src="./assets/bilder/icons/blankPNG.png" />
-									</object>
-									<div style="padding-top: 50px">
-
-									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="tel:0602331433">
-												<span class="icon-Tooth "></span>jetzt anrufen</a>
-									</div>
-								</div>
-
-
-                        </div>
-
 
 
                     </div>
