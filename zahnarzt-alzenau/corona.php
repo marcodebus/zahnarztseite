@@ -47,7 +47,7 @@ include('./inc/headerSlider.php');
                                 <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
 
 
-                                <h5 data-zanim='{"delay":0}'><br>Unsere Praxis ist weiterhin für Sie geöffnet. Wir behandeln mit erhöten Sicherheitsmaßnahmen</h5>
+                                <h5 data-zanim='{"delay":0}'><br>Unsere Praxis ist weiterhin für Sie geöffnet. Wir behandeln mit erhöhten Sicherheitsmaßnahmen</h5>
 
                                   Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
                                   Fragen:
