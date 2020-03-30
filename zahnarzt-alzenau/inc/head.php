@@ -344,7 +344,7 @@ th, td {
 
 
 <?php
-if($Seite ==="index.php"): ?>
+//if($Seite ==="index.php"): ?>
 
 <script type="text/javascript">
     $(window).on('load',function(){
@@ -352,5 +352,5 @@ if($Seite ==="index.php"): ?>
     });
 
 </script>
-<?php endif ?>
+<?php //endif ?>
 </head>
