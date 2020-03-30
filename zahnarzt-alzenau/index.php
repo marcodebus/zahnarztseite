@@ -243,7 +243,7 @@ include('./inc/header.php');
 						  <div class="modal-dialog" role="document">
 						    <div class="modal-content">
 						      <div class="modal-header">
-						        <h5 class="modal-title" id="exampleModalLabel">Corona Pandemie - Erhöhte Sicherheitsmaßnahmen</h5>
+						        <h5 class="modal-title" id="exampleModalLabel"><h4>Corona Pandemie</h4> <br> Erhöhte Sicherheitsmaßnahmen</h5>
 
 						        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 						          <span aria-hidden="true">&times;</span>
@@ -251,9 +251,9 @@ include('./inc/header.php');
 						      </div>
 						      <div class="modal-body">
 										<ul>
- 									 <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
- 									 <li>waren Sie in den letzten zwei Wochen in einem Gebiet,</li>
- 							in dem das Coronavirus bestätigt wurde?</li>
+ 									 <li>Hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li><br>
+ 									 <li>Waren Sie in den letzten zwei Wochen in einem Gebiet,
+ 							in dem das Coronavirus bestätigt wurde?</li><br>
  							<li>haben Sie Anzeichen einer möglichen Coronavirus-Infektion
  				 (z.B. Atemnot, Husten, Fieber, Halsschmerzen)</li>
  				</ul>
