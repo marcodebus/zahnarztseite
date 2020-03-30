@@ -728,14 +728,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="row">
 
-                          <p>  Ausbreitung des Coronavirus eindämmen
+                          <h1>  Ausbreitung des Coronavirus eindämmen</h1>
                             Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
                             Fragen:
                             <br><br>
                             		 <ul>
                                  <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
                             		 <li>waren Sie in den letzten zwei Wochen in einem Gebiet,
-                            in dem das Coronavirus bestätigt wurde?</li>
+                            in dem das Coronavirus bestätigt wurde?</li></ul>
                             <br>
 
                             		 <li>haben Sie Anzeichen einer möglichen Coronavirus-Infektion
