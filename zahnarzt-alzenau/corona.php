@@ -619,9 +619,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             	<div class="d-flex align-items-center h-100">
                                 <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
 
-                                    <h5 data-zanim='{"delay":0}'><br>Unsere Praxis ist weiterhin für Sie geöffnet. Wir behandeln mit erhöten Sicherheitsmaßnahmen</h5>
+                                <h1> <small> Ausbreitung des Coronavirus eindämmen</small></h1>
+                                <h5 data-zanim='{"delay":0}'><br>Unsere Praxis ist weiterhin für Sie geöffnet. Wir behandeln mit erhöten Sicherheitsmaßnahmen</h5>
 
-                                   <!-- <p class="my-4" data-zanim='{"delay":0.1}'>-->
+                                  Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
+                                  Fragen:
+                                  <br><br>
+                                       <ul>
+                                       <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
+                                       <li>waren Sie in den letzten zwei Wochen in einem Gebiet,</li>
+                                  in dem das Coronavirus bestätigt wurde?</li></ul>
+                                  <br>
+
+
 									<p data-zanim='{"delay":0.1}'>
 
 											<div class="overflow-hidden">
@@ -633,19 +643,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="col-lg-12">
                             <div class="  radius-secondary" align="left" style="padding-left:43px;" >
 
-								<div style="overflow-x:auto;">
 
-                <h1>  Ausbreitung des Coronavirus eindämmen</h1>
-                  Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
-                  Fragen:
-                  <br><br>
-                       <ul>
-                       <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
-                       <li>waren Sie in den letzten zwei Wochen in einem Gebiet,</li>
-                  in dem das Coronavirus bestätigt wurde?</li></ul>
-                  <br>
-
-								</div>
 
 							</div>
                         </div>
