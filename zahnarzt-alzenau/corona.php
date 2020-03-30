@@ -685,7 +685,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									radius-bl-secondary radius-bl-lg-0">
 
 							 <div class="background-holder radius-tl-secondary radius-bl-lg-secondary radius-tr-secondary radius-tr-lg-0" style="background-color:white; "> </div>
-                            <img  style="background-color:white; border-radius:50%;"	width="100%" src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/images/corona.png">
+                            <img  style="background-color:white; border-radius:50%;"	width="75%" src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/images/corona.png">
 
                         </div>
                     </div>
@@ -725,6 +725,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+
+	<div class="row">
+
+                          <p>  Ausbreitung des Coronavirus eindämmen
+                            Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
+                            Fragen:<br><br>
+                            		 ...hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?
+                            oder<br><br>
+                            		 ...waren Sie in den letzten zwei Wochen in einem Gebiet,
+                            in dem das Coronavirus bestätigt wurde?<br>
+                            und<br><br>
+                            		 ...haben Sie Anzeichen einer möglichen Coronavirus-Infektion
+                            (z.B. Atemnot, Husten, Fieber, Halsschmerzen)?<br>
+                            Wenn Sie eine der Fragen mit „ja“ beantworten,
+                            dann bitten wir Sie, von einem
+                            Besuch unserer Praxis zunächst
+                            abzusehen und uns anzurufen.
+                            Wir besprechen dann mit Ihnen
+                            das weitere Vorgehen.<br>
+                            Warum?<br><br>
+                            Das Coronavirus breitet sich rasant aus. Menschen, die mit dem Virus infiziert sind,
+                            können durch Niesen, Husten und körperlichen Kontakt (Händegeben) ihre
+                            Mitmenschen anstecken. Wenn Sie Erkältungssymptome haben und entweder in
+                            den letzten 14 Tagen in einem betroffenen Gebiet waren oder Kontakt mit einer
+                            (womöglich) infizierten Person hatten, muss abgeklärt werden, ob Sie mit dem
+                            Coronavirus infiziert sind.
+                            Was können Sie tun?<br><br>
+                            Rufen Sie von zu Hause aus den kassenärztlichen Bereitschaftsdienst unter der
+                            Telefonnummer 116 117 an und lassen Sie sich über das weitere Vorgehen beraten.
+                            Vielen Dank für Ihre Kooperation. Sie tragen dazu bei, die Ausbreitung von
+                            Covid-19 zu verhindern.
+                            Ihre Zahnarztpraxis</p>
+</div>
 	<div class="row">
 
 
