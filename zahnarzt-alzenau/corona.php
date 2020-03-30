@@ -809,12 +809,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </section>
 
 
-			<section class="">
-                <div class="container"><a href="https://www.notdienst-zahn.de">
-					<img  src="./assets/bilder/notdienst.png" width="100%" height="">
-                </div>
-                <!--/.container-->
-            </section>
+	
 
 
 
