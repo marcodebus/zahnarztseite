@@ -53,10 +53,9 @@ include('./inc/header.php');
 								include('./inc/unterstrich.php');
 
 							?>
-							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#fff; border-radius:20px .color-9" style="background-color:#4590e7; border-radius:20px; ">
+							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#fefefe; border-radius:20px .color-9" style="background-color:#4590e7; border-radius:20px; ">
 
-					   		<p style="color:white;" align="center">
-						   		<b>Von der Prophylaxe bis zur Implantatprothetik bieten wir Ihnen das gesamte Spektrum der modernen Zahnheilkunde in unserer Praxis in Alzenau an.</b></p>
+
 
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
