@@ -629,24 +629,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<h5 class="fs-0 fs-lg-1">
 
-									<img src="assets/bilder/icons/uhr.png" style="padding-right:10px;">Öffnungszeiten</h5>
 									<div style="">
 							<div class="col-lg-12">
                             <div class="  radius-secondary" align="left" style="padding-left:43px;" >
 
 								<div style="overflow-x:auto;">
 
+                <h1>  Ausbreitung des Coronavirus eindämmen</h1>
+                  Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
+                  Fragen:
+                  <br><br>
+                       <ul>
+                       <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
+                       <li>waren Sie in den letzten zwei Wochen in einem Gebiet,</li>
+                  in dem das Coronavirus bestätigt wurde?</li></ul>
+                  <br>
 
-
-									<table>
-
-
-
-										<tr><td>Montag </td><td>8:00 – 13:00</td><td> und </td><td>14:00 – 18:00</td><td> Uhr</td><td></td></tr><tr><td>Dienstag </td><td>8:00 – 13:00</td><td> und </td><td>14:00 – 18:00</td><td> Uhr</td><td></td></tr><tr><td>Mittwoch </td><td>7:30 – 13:30</td><td> und </td><td></td><td> Uhr</td><td></td></tr><tr><td>Donnerstag </td><td>9:00 – 14:00</td><td> und </td><td>15:00 – 19:00 </td><td> Uhr</td><td></td></tr><tr><td>Freitag </td><td>8:00 – 14:00</td><td> und </td><td></td><td> Uhr</td><td></td></tr>
-
-
-
-								</table>
 								</div>
 
 							</div>
@@ -728,15 +726,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="row">
 
-                          <h1>  Ausbreitung des Coronavirus eindämmen</h1>
-                            Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
-                            Fragen:
-                            <br><br>
-                            		 <ul>
-                                 <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
-                            		 <li>waren Sie in den letzten zwei Wochen in einem Gebiet,
-                            in dem das Coronavirus bestätigt wurde?</li></ul>
-                            <br>
+                        <p>
 
                             		 <li>haben Sie Anzeichen einer möglichen Coronavirus-Infektion
                             (z.B. Atemnot, Husten, Fieber, Halsschmerzen)</li>
