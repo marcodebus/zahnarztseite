@@ -53,18 +53,19 @@ include('./inc/header.php');
 								include('./inc/unterstrich.php');
 
 							?>
-							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#f2f2f2; border-radius:20px;"
-							 .color-9" style="background-color:#4590e7; border-radius:20px; ">
+							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#fff; border-radius:20px .color-9" style="background-color:#4590e7; border-radius:20px; ">
 
 					   		<p style="color:white;" align="center">
 						   		<b>Von der Prophylaxe bis zur Implantatprothetik bieten wir Ihnen das gesamte Spektrum der modernen Zahnheilkunde in unserer Praxis in Alzenau an.</b></p>
-						</div>>
+
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
 								<p>Wir behandeln mit erhöhten Sicherheitsmaßnahmen<p>
 									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="corona.php">
 											<span class="icon-Tooth "></span>Weitere Informationen</a>
 								</div>
+
+
 							<?php
 								/*echo '<br><a href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/corona.php">
 											<img  width="75%" title="Corona Pandemie Zahnarztpraxis Alzenau Dr. Bernhard Fuchs" alt=" Zahnarzt Alzenau Dr. Bernhard Fuchs"
