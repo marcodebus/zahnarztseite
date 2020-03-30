@@ -344,7 +344,7 @@ th, td {
 
 
 <?php
-//if($Seite ==="index.php"): ?>
+if($Seite ==="index.php"): ?>
 <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
@@ -355,5 +355,5 @@ $(document).ready(function() {
 </script>
 
 
-<?php //endif ?>
+<?php endif ?>
 </head>
