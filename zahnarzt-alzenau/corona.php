@@ -606,7 +606,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<table width="100%">
 						<tr>
-							<td style="width: 50%"><h1 class="fs-2">Corona: Vorsicht hilft uns allen!</h1></td>
+							<td style="width: 50%"><h1 class="fs-2">Corona: Vorsicht hilft uns allen!</h1> <br>Ausbreitung des Coronavirus eindämmen</td>
 							<td class="text-right fs--1" style="width: 50% "></td>
 						</tr>
 					</table>
@@ -617,7 +617,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                  <div class="col-lg-5 py-3 py-lg-0" style="min-height:400px; background-color:white; background-position: top;">
                             	<div class="d-flex align-items-center h-100">
-                              <h1> <small class="fs-1"> Ausbreitung des Coronavirus eindämmen</small></h1>
+
                                 <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
 
 
