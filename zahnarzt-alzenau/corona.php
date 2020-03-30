@@ -15,7 +15,7 @@ include('./inc/headerbehandlung.php');
 else {
 include('./inc/header.php');
 }
-include('./inc/headerSlider.php');
+//include('./inc/headerSlider.php');
 ?>
 
 
