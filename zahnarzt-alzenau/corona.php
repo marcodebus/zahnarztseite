@@ -606,7 +606,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<table width="100%">
 						<tr>
-							<td style="width: 50%"><h1 class="fs-2">Corona: Vorsicht hilft uns allen!</h1> <br>Ausbreitung des Coronavirus eindämmen</td>
+							<td style="width: 50%"><h1 class="fs-2">Corona: Vorsicht hilft uns allen!</h1> <h2 class="fs-1">Ausbreitung des Coronavirus eindämmen</td>
 							<td class="text-right fs--1" style="width: 50% "></td>
 						</tr>
 					</table>
@@ -682,7 +682,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									radius-bl-secondary radius-bl-lg-0">
 
 							 <div class="background-holder radius-tl-secondary radius-bl-lg-secondary radius-tr-secondary radius-tr-lg-0" style="background-color:white; "> </div>
-                            <img  style="background-color:white; border-radius:50%;"	width="75%" src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/images/corona.png">
+                            <img  style="background-color:white; border-radius:50%;"	width="60%" src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/images/corona.png">
 
                         </div>
                     </div>
