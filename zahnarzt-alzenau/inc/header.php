@@ -1,10 +1,10 @@
 <?php
 
 
-//$subVerzeichnis =  "../zahnarzt-alzenau/behandlungen-zahnartz-alzenau/";	
+//$subVerzeichnis =  "../zahnarzt-alzenau/behandlungen-zahnartz-alzenau/";
 
 
-	
+
 	$Mo = lang('MoHeader');
 	$Di = lang('DiHeader');
 	$Mi = lang('MiHeader');
@@ -17,7 +17,7 @@ $date = date("Y/m/d");
 $nameOfDay = date('l', strtotime($date)); //L für komplett ausgeschriebenen Tag
 
 switch ($nameOfDay) {
-		
+
     case "Monday":
         $offenBis = $Mo;
         break;
@@ -39,7 +39,7 @@ switch ($nameOfDay) {
     case "Sunday":
        $offenBis = $So;
         break;
-		
+
 }
 
 
@@ -71,9 +71,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="col-auto d-none d-lg-block">
                         <span class="fa fa-map-marker color-warning fw-800 icon-position-fix"></span>
                         <p class="ml-2 mb-0 fs--1 d-inline color-white fw-700">
-							<?php 
-								echo lang('Strasse'); 
-								echo " , ";
+							<?php
+								echo lang('Strasse');
+								echo " ";
 								echo lang('PLZ');
 								echo " ";
 								echo lang('Ort');
@@ -86,14 +86,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="col-auto">
                         <span class="fa fa-phone color-warning fw-800 icon-position-fix"></span>
-                        
-						<a class="ml-2 mb-0 fs--1 d-inline  btn-outline-warning color-white fw-700" 
+
+						<a class="ml-2 mb-0 fs--1 d-inline  btn-outline-warning color-white fw-700"
 						   			href="tel:<?php echo lang('Telefon');?>">
-							<?php 
-								echo lang('TerminBtnText'); 
-								echo " "; 
+							<?php
+								echo lang('TerminBtnText');
+								echo " ";
 								echo lang('Telefon');
-							?> 
+							?>
 						</a>
                     </div>
                 </div>
@@ -111,22 +111,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <div class="hamburger hamburger--emphatic">
                             <div class="hamburger-box">
-								
+
                                 <div class="hamburger-inner"></div>
-								
+
                             </div>
-							
+
                         </div>
                     </button>
 					<!-- Buttons in Mobilen Version-->
-					
+
 					<div class="navbar-toggler" aria-controls="navbarNavDropdown"  >
 					<p align="right">
 						<?php echo $offenBis . "&nbsp; &nbsp; &nbsp;";?>
 							<a href="<?php echo lang('TelefonLink');?>"class="btn btn-icon btn-outline-primary btn-icon-left"><span class="icon-Old-Telephone"></span> <?php  echo lang('Telefon');?> </a>	</p>
 					</div>
-					
-					
+
+
                     <div class="collapse navbar-collapse" id="navbarNavDropdown">
                         <ul class="navbar-nav fs-0 fw-700">
                             <li>
@@ -137,16 +137,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li>
                             <li>
                                 <a href="behandlung.php"><?php echo lang('BehandlungMenu');?></a>
-                             <?php /*  <div class="fs--1 megamenu" class="my_mega">  
+                             <?php /*  <div class="fs--1 megamenu" class="my_mega">
                                     <div class="row">
                                         <div class="col-lg-2" align="center">
                                            <a href="./behandlung.php" class="mb-none">
-											  
-											   
+
+
 											   <img class="optionalstuff" align="center" src="https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_fuchs-1600x1600.png" width="100%"alt="">
 											   <!--<div id="HeaderBild"></div>
 -->
-												
+
 											</a> <a class="fs-0" href="./behandlung.php" ><?php echo lang('BehandlungMenuUebersicht');?> </a>
                                         </div>
                                         <div class="col-lg-5">
@@ -160,10 +160,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 </ul>
                                             </div>
                                         </div>
-										
 
-	
-										
+
+
+
                                         <div class="col-lg-5">
                                             <div class="icon_list">
                                                 <ul class="fs-0">
@@ -178,8 +178,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                 </div>  */ ?>
                             </li>
-                          
-  
+
+
 
                             <li>
                                 <a class="d-block" href="team.php"><?php echo lang('TeamMenu')?></a>
@@ -197,46 +197,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li>
                                 <a class="d-block" href="kontakt.php"><?php echo lang('KontaktMenu')?></a>
                             </li>
-							
+
 							<p id="y"></p>
-							
-							
-							
-					
-							
-							
-							
-							
-							
-							
+
+
+
+
+
+
+
+
+
+
                         </ul>
                     </div>
                 </nav>
             </div>
         </div>
-        
-		
-		
+
+
+
 
 <script>
 	window.onload = function(){
-	
+
 	if(screen.width < 800){
     	var x = "<img id=\"slide\"  style=\" position:absolute; left:0%; bottom:0;\" height=\"60%\"src=\"./assets/bilder/GRUPENBILD.png">";
 
   document.getElementById("SliderBild").innerHTML = x;
     }else{
-    
+
    		var x = "<img id=\"slide\"  style=\" position:absolute; left:40%; bottom:0;\" height=\"400px\"src=\"./assets/bilder/GRUPENBILD.png\">";
   document.getElementById("SliderBild").innerHTML = x;
     }
-  
+
 }
 </script>
 
-		
-		
-		
+
+
+
 		                         <!--Sub Menue with two Flors-->
 							<!--<li>
                                 <a href="JavaScript:void(0)">Muster</a>
@@ -276,6 +276,3 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                 </ul>
                             </li>-->
-		
-			
-			
