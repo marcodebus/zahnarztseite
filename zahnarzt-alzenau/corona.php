@@ -122,9 +122,6 @@ include('./inc/headerSlider.php');
 
 
 
-                    						<?php
-                    							include('./inc/termin.php');
-                    						?>
 
 
 
@@ -132,13 +129,123 @@ include('./inc/headerSlider.php');
 
 
 
-                    					 </div>
-                                    <!--/.container-->
-                                </section>
 
 
-                    		
 
-                        <?php
-                    include('./inc/footer.php');
-                    ?>
+									<div class="row mt-6">
+                  <div class="col">
+                       <h3 class="text-center fs-2 fs-md-3"></h3>
+                        <!--Unterstrich-->
+						<div style=" text-align: center;">
+							<!--<object data="./assets/bilder/icons/unterstrich.svg" type="image/svg+xml">
+ 						 		<img src="./assets/bilder/icons/blankPNG.png">
+							</object>
+							<span class="icon-Tooth"></span>
+
+							<object data="./assets/bilder/icons/unterstrich.svg" type="image/svg+xml">
+								 <img src="./assets/bilder/icons/blankPNG.png">
+							</object>-->
+					  </div>
+                        <div class="col-12">
+                            <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">
+
+
+
+
+	<div class="row">
+
+
+                                                        <h3>Wenn Sie eine der Fragen mit „ja“ beantworten,</h3>
+                            dann bitten wir Sie, von einem
+                            Besuch unserer Praxis zunächst
+                            abzusehen und uns anzurufen.
+                            Wir besprechen dann mit Ihnen
+                            das weitere Vorgehen.<br></p>
+                            <h2>Warum?</h2><p><br><br>
+                            Das Coronavirus breitet sich rasant aus. Menschen, die mit dem Virus infiziert sind,
+                            können durch Niesen, Husten und körperlichen Kontakt (Händegeben) ihre
+                            Mitmenschen anstecken. Wenn Sie Erkältungssymptome haben und entweder in
+                            den letzten 14 Tagen in einem betroffenen Gebiet waren oder Kontakt mit einer
+                            (womöglich) infizierten Person hatten, muss abgeklärt werden, ob Sie mit dem
+                            Coronavirus infiziert sind.</p>
+                          <h2>Was können Sie tun?</h2><p><br><br>
+                            Rufen Sie von zu Hause aus den kassenärztlichen Bereitschaftsdienst unter der
+                            Telefonnummer 116 117 an und lassen Sie sich über das weitere Vorgehen beraten.
+                            Vielen Dank für Ihre Kooperation. Sie tragen dazu bei, die Ausbreitung von
+                            Covid-19 zu verhindern.
+                            Ihre Zahnarztpraxis</p>
+</div>
+	<div class="row">
+
+
+						 <div class="col-lg-6 px-lg-5 mt-6 mt-lg-0" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+
+							 <img class="radius-secondary" src="
+
+./assets/bilder/kontaktbilder//GRUPPENBILDFERTIG-1000x680.png">
+
+
+                        </div>
+
+
+						 <div class="col-lg-6 pr-0 pr-lg-3">
+                           <br><br>
+
+								<h3 class="text-center ">Sie möchten einen Termin bei uns vereinbaren möchten? Rufen Sie uns bitte an!									</h3>
+								<div style=" text-align: center;">
+									<object data="./assets/bilder/icons/unterstrich.svg" type="image/svg+xml">
+									 <img src="./assets/bilder/icons/blankPNG.png" />
+									</object>
+										<span class='icon-Telephone'></span>
+
+									<object data="./assets/bilder/icons/unterstrich.svg" type="image/svg+xml">
+										 <img src="./assets/bilder/icons/blankPNG.png" />
+									</object>
+									<div style="padding-top: 50px">
+
+									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="tel:0602331433">
+												<span class="icon-Tooth "></span>jetzt anrufen</a>
+									</div>
+								</div>
+
+
+                        </div>
+
+
+
+                    </div>
+
+                    		</div>
+						</div>
+
+
+
+                    </div>
+             </div>
+
+
+
+
+
+
+
+
+             						<?php
+             							include('./inc/termin.php');
+             						?>
+
+
+
+
+
+
+
+             					 </div>
+                             <!--/.container-->
+                         </section>
+
+
+
+                 <?php
+             include('./inc/footer.php');
+             ?>
