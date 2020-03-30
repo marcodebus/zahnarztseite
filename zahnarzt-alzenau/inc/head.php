@@ -347,8 +347,8 @@ th, td {
 //if($Seite ==="index.php"): ?>
 
 <script type="text/javascript">
-    $(window).on('load',function(){
-        $('#myModal').modal('show');
+$( document ).ready(function() {
+    $('#myModal').modal('show');
     });
 
 </script>
