@@ -234,7 +234,7 @@ include('./inc/header.php');
 
 
 						<!-- Button trigger modal -->
-						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
 						  Corona Pandemie Erhöhte Sicherheitsmaßnahmen
 						</button>
 
