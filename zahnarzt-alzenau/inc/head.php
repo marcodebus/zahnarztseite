@@ -348,9 +348,15 @@ th, td {
 
 <script type="text/javascript">
 $( document ).ready(function() {
-    $('#myModal').modal('show');
-    });
+		console.log( "document loaded" );
+});
+
+$( window ).on( "load", function() {
+		console.log( "window loaded" );
+});
 
 </script>
+
+
 <?php //endif ?>
 </head>
