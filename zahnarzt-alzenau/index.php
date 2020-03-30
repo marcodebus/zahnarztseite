@@ -59,10 +59,10 @@ include('./inc/header.php');
 									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="corona.php">
 											<span class="icon-Tooth "></span>Weitere Informationen</a>
 							<?php
-								echo '<br><a href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/corona.php">
+								/*echo '<br><a href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/corona.php">
 											<img  width="75%" title="Corona Pandemie Zahnarztpraxis Alzenau Dr. Bernhard Fuchs" alt=" Zahnarzt Alzenau Dr. Bernhard Fuchs"
 											src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/images/corona_zahnarzt-alzenau.jpeg"/>
-											</a>';
+											</a>';*/
 								echo lang('IndexText1');
 							?>
 
