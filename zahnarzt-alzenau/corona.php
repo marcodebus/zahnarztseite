@@ -629,7 +629,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                        <ul>
                                        <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
                                        <li>waren Sie in den letzten zwei Wochen in einem Gebiet,</li>
-                                  in dem das Coronavirus bestätigt wurde?</li></ul>
+                                  in dem das Coronavirus bestätigt wurde?</li>
+                                  <li>haben Sie Anzeichen einer möglichen Coronavirus-Infektion
+                             (z.B. Atemnot, Husten, Fieber, Halsschmerzen)</li>
+                             <br><br></ul>
                                   <br>
 
 
@@ -725,12 +728,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="row">
 
-                        <p>
 
-                            		 <li>haben Sie Anzeichen einer möglichen Coronavirus-Infektion
-                            (z.B. Atemnot, Husten, Fieber, Halsschmerzen)</li>
-                            <br><br></p>
-                            <h3>Wenn Sie eine der Fragen mit „ja“ beantworten,</h3>
+                                                        <h3>Wenn Sie eine der Fragen mit „ja“ beantworten,</h3>
                             dann bitten wir Sie, von einem
                             Besuch unserer Praxis zunächst
                             abzusehen und uns anzurufen.
