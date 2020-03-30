@@ -254,7 +254,7 @@ include('./inc/header.php');
 						      </div>
 						      <div class="modal-footer">
 						        <button type="button" class="btn btn-secondary" data-dismiss="modal">Nein</button>
-						        <button type="button" class="btn btn-primary"><a href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/corona.php">Eine Frage mit JA beantwortet</a></button>
+						        <button type="button" class="btn btn-primary"><a href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/corona.php" style="color: white;">Eine Frage mit JA beantwortet</a></button>
 						      </div>
 						    </div>
 						  </div>
