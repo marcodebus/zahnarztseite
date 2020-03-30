@@ -347,11 +347,11 @@ th, td {
 //if($Seite ==="index.php"): ?>
 
 <script type="text/javascript">
-$( document ).ready(function() {
+$(document).ready(function() {
 		console.log( "document loaded" );
 });
 
-$( window ).on( "load", function() {
+$(window).on( "load", function() {
 		console.log( "window loaded" );
 });
 
