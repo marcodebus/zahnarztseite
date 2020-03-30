@@ -250,7 +250,13 @@ include('./inc/header.php');
 						        </button>
 						      </div>
 						      <div class="modal-body">
-						        ...
+										<ul>
+ 									 <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
+ 									 <li>waren Sie in den letzten zwei Wochen in einem Gebiet,</li>
+ 							in dem das Coronavirus bestätigt wurde?</li>
+ 							<li>haben Sie Anzeichen einer möglichen Coronavirus-Infektion
+ 				 (z.B. Atemnot, Husten, Fieber, Halsschmerzen)</li>
+ 				</ul>
 						      </div>
 						      <div class="modal-footer">
 						        <button type="button" class="btn btn-secondary" data-dismiss="modal">Nein</button>
