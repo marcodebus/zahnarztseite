@@ -175,22 +175,7 @@ include('./inc/headerSlider.php');
                             Covid-19 zu verhindern.
                             Ihre Zahnarztpraxis</p>
 </div>
-	<div class="row">
 
-
-						 <div class="col-lg-6 px-lg-5 mt-6 mt-lg-0" data-zanim-timeline="{}" data-zanim-trigger="scroll">
-
-							 <img class="radius-secondary" src="
-
-./assets/bilder/kontaktbilder//GRUPPENBILDFERTIG-1000x680.png">
-
-
-                        </div>
-
-
-
-
-                    </div>
 
                     		</div>
 						</div>
