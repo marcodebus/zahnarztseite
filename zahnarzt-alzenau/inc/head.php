@@ -345,15 +345,12 @@ th, td {
 
 <?php
 //if($Seite ==="index.php"): ?>
-    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-		console.log( "document loaded" );
+		  $('#myModal').modal('show');
 });
 
-$(window).on( "load", function() {
-		console.log( "window loaded" );
-});
 
 </script>
 
