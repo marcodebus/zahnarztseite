@@ -51,6 +51,14 @@ include('./inc/header.php');
 							<?php
 								$icon = "icon-Tooth";
 								include('./inc/unterstrich.php');
+
+							?>
+								<h2>Aktuelle Informationen zur Corona-Pandemie</h2>
+								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
+								<p>Wir behandeln mit erhöhten Sicherheitsmaßnahmen<p>
+									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="corona.php">
+											<span class="icon-Tooth "></span>Weitere Informationen</a>
+							<?php
 								echo '<br><a href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/corona.php">
 											<img  width="75%" title="Corona Pandemie Zahnarztpraxis Alzenau Dr. Bernhard Fuchs" alt=" Zahnarzt Alzenau Dr. Bernhard Fuchs"
 											src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/images/corona_zahnarzt-alzenau.jpeg"/>
