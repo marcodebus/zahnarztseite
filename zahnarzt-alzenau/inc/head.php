@@ -341,4 +341,16 @@ th, td {
 }
 </script>
 
+
+
+<?php
+if($Seite ==="index.php"): ?>
+
+<script type="text/javascript">
+    $(window).on('load',function(){
+        $('#myModal').modal('show');
+    });
+
+</script>
+<?php endif ?>
 </head>

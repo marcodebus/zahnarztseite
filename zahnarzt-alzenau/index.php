@@ -233,7 +233,32 @@ include('./inc/header.php');
 
 
 
+						<!-- Button trigger modal -->
+						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+						  Corona Pandemie Erhöhte Sicherheitsmaßnahmen
+						</button>
 
+						<!-- Modal -->
+						<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+						  <div class="modal-dialog" role="document">
+						    <div class="modal-content">
+						      <div class="modal-header">
+						        <h5 class="modal-title" id="exampleModalLabel">Corona Pandemie - Erhöhte Sicherheitsmaßnahmen</h5>
+										
+						        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						          <span aria-hidden="true">&times;</span>
+						        </button>
+						      </div>
+						      <div class="modal-body">
+						        ...
+						      </div>
+						      <div class="modal-footer">
+						        <button type="button" class="btn btn-secondary" data-dismiss="modal">Nein</button>
+						        <button type="button" class="btn btn-primary"><a href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/corona.php">Eine Frage mit JA beantwortet</a></button>
+						      </div>
+						    </div>
+						  </div>
+						</div>
 
 
 
