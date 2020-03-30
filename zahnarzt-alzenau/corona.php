@@ -617,9 +617,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                  <div class="col-lg-5 py-3 py-lg-0" style="min-height:400px; background-color:white; background-position: top;">
                             	<div class="d-flex align-items-center h-100">
+                              <h1> <small class="fs-1"> Ausbreitung des Coronavirus eindämmen</small></h1>
                                 <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
 
-                                <h1> <small class="fs-2"> Ausbreitung des Coronavirus eindämmen</small></h1>
+
                                 <h5 data-zanim='{"delay":0}'><br>Unsere Praxis ist weiterhin für Sie geöffnet. Wir behandeln mit erhöten Sicherheitsmaßnahmen</h5>
 
                                   Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
