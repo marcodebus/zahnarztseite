@@ -730,28 +730,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                           <p>  Ausbreitung des Coronavirus eindämmen
                             Bevor Sie unsere Praxis betreten, stellen Sie sich bitte folgende
-                            Fragen:<br><br>
-                            		 ...hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?
-                            oder<br><br>
-                            		 ...waren Sie in den letzten zwei Wochen in einem Gebiet,
-                            in dem das Coronavirus bestätigt wurde?<br>
-                            und<br><br>
-                            		 ...haben Sie Anzeichen einer möglichen Coronavirus-Infektion
-                            (z.B. Atemnot, Husten, Fieber, Halsschmerzen)?<br>
-                            Wenn Sie eine der Fragen mit „ja“ beantworten,
+                            Fragen:
+                            <br><br>
+                            		 <ul>
+                                 <li>hatten Sie Kontakt mit einem bestätigten Corona-Virus-Fall?</li>
+                            		 <li>waren Sie in den letzten zwei Wochen in einem Gebiet,
+                            in dem das Coronavirus bestätigt wurde?</li>
+                            <br>
+
+                            		 <li>haben Sie Anzeichen einer möglichen Coronavirus-Infektion
+                            (z.B. Atemnot, Husten, Fieber, Halsschmerzen)</li>
+                            <br><br></p>
+                            <h3>Wenn Sie eine der Fragen mit „ja“ beantworten,</h3>
                             dann bitten wir Sie, von einem
                             Besuch unserer Praxis zunächst
                             abzusehen und uns anzurufen.
                             Wir besprechen dann mit Ihnen
-                            das weitere Vorgehen.<br>
-                            Warum?<br><br>
+                            das weitere Vorgehen.<br></p>
+                            <h2>Warum?</h2><p><br><br>
                             Das Coronavirus breitet sich rasant aus. Menschen, die mit dem Virus infiziert sind,
                             können durch Niesen, Husten und körperlichen Kontakt (Händegeben) ihre
                             Mitmenschen anstecken. Wenn Sie Erkältungssymptome haben und entweder in
                             den letzten 14 Tagen in einem betroffenen Gebiet waren oder Kontakt mit einer
                             (womöglich) infizierten Person hatten, muss abgeklärt werden, ob Sie mit dem
-                            Coronavirus infiziert sind.
-                            Was können Sie tun?<br><br>
+                            Coronavirus infiziert sind.</p>
+                          <h2>Was können Sie tun?</h2><p><br><br>
                             Rufen Sie von zu Hause aus den kassenärztlichen Bereitschaftsdienst unter der
                             Telefonnummer 116 117 an und lassen Sie sich über das weitere Vorgehen beraten.
                             Vielen Dank für Ihre Kooperation. Sie tragen dazu bei, die Ausbreitung von
