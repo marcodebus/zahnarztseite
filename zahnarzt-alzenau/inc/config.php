@@ -358,7 +358,7 @@ function lang($phrase){
 		'OeffnungszeitenBild' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/webbilder/daumenHoch.jpg',
         'OeffnungszeitenSubUeber' => 'Ab sofort bieten wir Ihnen eine Früh- und Abendsprechstunde an:',
 		'OeffnungszeitenText' => '
-					Bitte beachten Sie, dass wir donnerstags erst ab 10:00 Uhr erreichbar sind!',
+					Bitte beachten Sie, dass wir donnerstags erst ab 9:00 Uhr erreichbar sind!',
 		'NotdienstText' => 'Die aktuelle Ansage zum Zahnärztlichen Notdienst erhalten Sie unter der Telefonnummer: <a title=”Telefon Nr. Zahnarztpraxis Alzenau” href="tel:0602180700">06021 80700</a> oder besuchen Sie die Webseite des Zahnärztlichen Notdienstes. Auf dieser müssen Sie Ihre Postleitzahl eintragen und erhalten sofortige Hilfe. <br><br> <a title=”Weitere Infos Zahnarzt Alzenau Dr. Fuchs” href="https://www.notdienst-zahn.de">Weiter zum Notdienst</a>',
 
 
