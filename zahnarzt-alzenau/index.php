@@ -53,7 +53,7 @@ include('./inc/header.php');
 								include('./inc/unterstrich.php');
 
 							?>
-							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#4590e7; border-radius:20px; ">
+							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#ffeee; border-radius:20px; ">
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
 								<p>Wir behandeln mit erhöhten Sicherheitsmaßnahmen<p>
