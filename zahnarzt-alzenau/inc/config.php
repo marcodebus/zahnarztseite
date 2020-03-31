@@ -471,7 +471,7 @@ function lang($phrase){
 				Durch Zahnersatz lassen sich unvorteilhafte und ungesunde Zahnlücken wieder schließen. Ein guter Zahnersatz 					verbessert die Kaufunktion, die Gesundheit und das optische Erscheinungsbild. Wir erklären Ihnen ausführlich, was 				  in Ihrem Fall sinnvoll ist – etwa eine herausnehmbare Versorgung, etwa mit Geschiebetechnik oder Teleskopkronen, 					oder ein fest eingebauter Zahnersatz auf Implantaten.',
 		'ZEtext2' => ' <p>Unser Zahnersatz wird im Dental-Labor Bauer in Aschaffenburg hergestellt. <br><br>
     Zahntechnikermeister Stephan Bauer und sein engagiertes Team stehen uns und unseren Patienten mit großer Leidenschaft zur Verfügung.
-    Praxis und Labor finden gemeinsam den für Sie am besten geeigneten Zahnersatz - immer preiswert (seinen-preis-wert), sehr lange haltbar und unsichtbar.
+    Praxis und Labor finden gemeinsam den für Sie am besten geeigneten Zahnersatz - immer preiswert (seinen-Preis-wert), sehr lange haltbar und unsichtbar.
     <br>
     Sowohl seriöse Planung, als auch die konsequente Umsetzung und eine detailverliebte Ausführung bei höchster Termintreue sichern unseren Qualitätsstandard.
 
