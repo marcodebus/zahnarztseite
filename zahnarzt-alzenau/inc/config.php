@@ -463,13 +463,19 @@ function lang($phrase){
 
 		//Zahnersatz
 		'ZEUeber1' => '<br>(1) Hochwertiger Zahnersatz',
-		'ZEUeber2' => '<br>(2) Preisgünstiger Zahnersatz',
+		'ZEUeber2' => '<br>(2) Qualitätszahnersatz aus deutschen Meisterlabor',
     'ZEUeber3' => '<br>(3) Bequeme Ratenzahlung',
         'ZEtext1' =>
 			   ' <p>Wenn Füllungen und Kronen zur Wiederherstellung des Kauorgans nicht mehr ausreichen, weil schon zu viele Zähne 				   fehlen, dann müssen die Lücken durch einen Zahnersatz geschlossen werden. Wir finden die für Sie passende Lösung.
 				<br>
 				Durch Zahnersatz lassen sich unvorteilhafte und ungesunde Zahnlücken wieder schließen. Ein guter Zahnersatz 					verbessert die Kaufunktion, die Gesundheit und das optische Erscheinungsbild. Wir erklären Ihnen ausführlich, was 				  in Ihrem Fall sinnvoll ist – etwa eine herausnehmbare Versorgung, etwa mit Geschiebetechnik oder Teleskopkronen, 					oder ein fest eingebauter Zahnersatz auf Implantaten.',
-		'ZEtext2' => ' <p>Unser Zahnersatz wird im Meister-Labor Stefan Bauer in Aschaffenburg hergestellt. <br><br>Dadurch können wir Ihnen gute Qualität zu einem günstigen Preis anbieten. Das von uns ausgewählte Labor erfüllt höchste Qualitätsansprüche und 						 ist vom deutschen TÜV zertifiziert. Alle verwendeten Materialien sind in Deutschland zugelassen und CE-							zertifiziert. </p>',
+		'ZEtext2' => ' <p>Unser Zahnersatz wird im Dental-Labor Bauer in Aschaffenburg hergestellt. <br><br>
+    Zahntechnikermeister Stephan Bauer und sein engagiertes Team stehen uns und unseren Patienten mit großer Leidenschaft zur Verfügung.
+    Praxis und Labor finden gemeinsam den für Sie am besten geeigneten Zahnersatz - immer preisewert (seinen-preis-wert), sehr lange haltbar und unsichtbar.
+    <br>
+    Sowohl seriöse Planing, als auch die konsequente Umsetzung und eine detailverliebte Ausführiung bei höchster Termintreue sichern unseren Qualitätsstandard.
+
+    <!--Dadurch können wir Ihnen gute Qualität zu einem günstigen Preis anbieten. Das von uns ausgewählte Labor erfüllt höchste Qualitätsansprüche und 						 ist vom deutschen TÜV zertifiziert. Alle verwendeten Materialien sind in Deutschland zugelassen und CE-							zertifiziert.--> </p>',
     	'ZEtext3' => 'Zusammen mit unserer Abrechnungsgesellschaft bieten wir ihnen die Möglichkeit ihre Zahnersatz -Rechnung in bequemen Raten zu bezahlen.',
 
 
