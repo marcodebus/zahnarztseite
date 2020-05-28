@@ -55,7 +55,7 @@ include('./inc/header.php');
 							?>
 							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#ffeee; border-radius:20px; ">
 								<h3>Liebe Patientinnen und Patienten,<br> 
-								Wir machen vom 2. bis 5. Juni. Urlaub<br> 
+								Wir machen vom 2. bis 5. Juni Urlaub.<br> 
 								Ab 8. April sind wir wieder für Sie da.<br><br></h3>
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
