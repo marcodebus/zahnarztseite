@@ -61,22 +61,22 @@
 
 
 
+<!--
 
-
-									<div class="overflow-visible">
+			<div class="overflow-visible">
                                 <div class="px-4 px-sm-0 mt-5" data-zanim='{"delay":0.2}'>
                                      <div style="margin-bottom: 10px; padding:10px">
-										 <h5 class="fs-0 fs-lg-1">
-                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/uhr.png" style="margin-right: 10px; margin-left: 10px;float:left;">Flexible Öffnungszeiten:</h5>
-										 </div>
-
-										<p class="mt-3 px-lg-3">Morgensprechstunde ab 7:30 Uhr, Abendsprechstunde bis 19:30 Uhr</p>
-									<p align="right"><a class="btn btn-icon btn-outline-primary btn-icon-left " href="oeffnungszeiten.php">
-										<span class="icon-Tooth "></span>Mehr Erfahren</a></p>
+					<h5 class="fs-0 fs-lg-1">
+                                        <img src="assets/bilder/icons/uhr.png" style="margin-right: 10px; margin-left: 10px;float:left;">Flexible Öffnungszeiten:
+					 </h5>
+				     </div>
+					<p class="mt-3 px-lg-3">Morgensprechstunde ab 7:30 Uhr, Abendsprechstunde bis 19:30 Uhr</p>
+					<p align="right"><a class="btn btn-icon btn-outline-primary btn-icon-left " href="oeffnungszeiten.php">
+					<span class="icon-Tooth "></span>Mehr Erfahren</a></p>
                                 </div>
                             </div>
 
-
+-->
 
 
 
