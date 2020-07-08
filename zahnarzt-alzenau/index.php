@@ -175,7 +175,8 @@ include('./inc/header.php');
 												echo"</td><td>";
 												 echo lang($array[$i].'1');
 												//echo"</td><td>";
-												if (lang($array[$i].'2' !== ''){
+												$var = lang($array[$i].'2';
+												if($var !== ''){
 													echo lang('und');
 													//echo"</td><td>";
 													 echo lang($array[$i].'2');
