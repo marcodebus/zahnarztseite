@@ -176,17 +176,17 @@ function lang($phrase){
 		'und' => ' und ',
         'Uhr' => ' Uhr',
 		'Mo' => 'Montag ',
-        'Mo1' => '8:00 – 13:00',
+	        'Mo1' => '8:00 – 13:00',
 		'Mo2' => '14:00 – 18:00',
 		'Di' => 'Dienstag ',
 		'Di1' => '8:00 – 13:00',
 		'Di2' => '14:00 – 18:00',
 		'Mi' => 'Mittwoch ',
-        'Mi1' => '7:30 – 13:30',
+       		'Mi1' => '7:30 – 13:30',
 		'Mi2' => '',
 		'Do' => 'Donnerstag ',
-		'Do1' => '9:00 – 14:00',
-		'Do2' => '15:00 – 19:00 ',
+		'Do1' => '9:00 – 13:00',
+		'Do2' => '14:00 – 18:00 ',
 		'Fr' => 'Freitag ',
 		'Fr1' => '8:00 – 14:00',
 		'Fr2' => '',
@@ -200,7 +200,7 @@ function lang($phrase){
 
 
 		// 8 Gruende
-		'8GUeber' => '8 Gründe für unsere Praxis in Alzenau Hörstein',
+		'8GUeber' => '7 Gründe für unsere Praxis in Alzenau Hörstein',
 
         '1Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
 		'1Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
