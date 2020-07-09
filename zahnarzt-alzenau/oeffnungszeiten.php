@@ -29,7 +29,7 @@ include('./inc/headerSlider.php');
             <h5 data-zanim='{"delay":0}'><br><?php echo lang('OeffnungszeitenSubUeber');?></h5>
 
             <!-- <p class="my-4" data-zanim='{"delay":0.1}'>-->
-            <!-- <p data-zanim='{"delay":0.1}'>-->
+            <p data-zanim='{"delay":0.1}'>
               <div class="overflow-hidden">
                 <div class="" data-zanim='{"delay":0.1}'>
                   <h5 class="fs-0 fs-lg-1">
