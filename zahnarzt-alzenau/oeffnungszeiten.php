@@ -52,7 +52,7 @@ include('./inc/headerSlider.php');
 
 
 
-									<table>
+								
 
 
 										<?php
@@ -110,7 +110,7 @@ include('./inc/headerSlider.php');
 
 
 
-								</table>
+								
 								</div>
 
 							</div>
