@@ -34,8 +34,8 @@ include('./inc/headerSlider.php');
                 
                   <h5 class="fs-0 fs-lg-1">
                     <img src="assets/bilder/icons/uhr.png" style="padding-right:10px;"><?php echo lang('Open');?></h5>
-                    <div style=""> 
-                      <div class="col-lg-12">
+                   <!-- <div style=""> 
+                      <div class="col-lg-12">-->
                               <?php
                                 $array =  array('Mo','Di','Mi','Do','Fr');
                                 $i =0;
@@ -65,7 +65,7 @@ include('./inc/headerSlider.php');
                               ?>
 
 
-                    </div>
+                    <!--</div>
                   </div>
                 <!--</div>
 <!--
