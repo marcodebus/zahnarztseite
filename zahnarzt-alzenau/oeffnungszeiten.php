@@ -25,7 +25,7 @@ include('./inc/headerSlider.php');
     <div class="row no-gutters">
       <div class="col-lg-5 py-3 py-lg-0" style="min-height:400px; background-color:white; background-position: top;">
         <div class="d-flex align-items-center h-100">
-          <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
+          <!--<div data-zanim-timeline="{}" data-zanim-trigger="scroll">-->
             <h5 data-zanim='{"delay":0}'><br><?php echo lang('OeffnungszeitenSubUeber');?></h5>
 
             <!-- <p class="my-4" data-zanim='{"delay":0.1}'>-->
@@ -78,7 +78,7 @@ include('./inc/headerSlider.php');
         </div>
 
         <h6 class="color-7 fw-600" data-zanim='{"delay":0.1}'><?php echo lang('NotdienstText');?></h6>
-      </div>
+<!--      </div>-->
     </div>
     <div class="col-lg-7 px-5 py-6 my-lg-0 background-white radius-tr-lg-secondary radius-br-secondary
 radius-bl-secondary radius-bl-lg-0">
