@@ -63,15 +63,23 @@ include('./inc/headerSlider.php');
 
 											     echo"<tr><td>";
 												 echo lang($array[$i]);
-												echo"</td><td>";
+												//echo"</td><td>";
 												 echo lang($array[$i].'1');
-												echo"</td><td>";
-												 echo lang('und');
-												echo"</td><td>";
-												 echo lang($array[$i].'2');
-												echo"</td><td>";
+												
+												$var = lang($array[$i].'2');
+												    if($var !== ''){
+												      echo lang('und');
+												      //echo"</td><td>";
+												      echo lang($array[$i].'2');
+												      //echo"</td><td>";
+												    }
+												//echo"</td><td>";
+												 //echo lang('und');
+												//echo"</td><td>";
+												 //echo lang($array[$i].'2');
+												//echo"</td><td>";
 												 echo lang('Uhr');
-												echo"</td><td>";
+												//echo"</td><td>";
 												 echo"</td></tr>";
 
 
