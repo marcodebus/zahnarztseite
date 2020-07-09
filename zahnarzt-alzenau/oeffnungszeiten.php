@@ -43,9 +43,9 @@ include('./inc/headerSlider.php');
                                 $array =  array('Mo','Di','Mi','Do','Fr');
                                 $i =0;
                                 while ($i <5){
-                                  echo"<tr><td>";
+                                  //echo"<tr><td>";
                                   echo lang($array[$i]);
-                                  echo"</td><td>";
+                                  //echo"</td><td>";
                                   echo lang($array[$i].'1');
                                   //echo"</td><td>";
                                   $var = lang($array[$i].'2');
@@ -53,11 +53,13 @@ include('./inc/headerSlider.php');
                                       echo lang('und');
                                       //echo"</td><td>";
                                       echo lang($array[$i].'2');
+                                      
                                       //echo"</td><td>";
                                     }
                                   echo lang('Uhr');
+                                  echo "<br>";
                                   //echo"</td><td>";
-                                  echo"</td></tr>";
+                                  //echo"</td></tr>";
 
 
                                   $i = $i+1;
