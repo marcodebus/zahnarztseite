@@ -30,7 +30,7 @@ include('./inc/headerSlider.php');
 
             <!-- <p class="my-4" data-zanim='{"delay":0.1}'>-->
             <p data-zanim='{"delay":0.1}'></p>
-              <div class="overflow-hidden">
+              <!--<div class="overflow-hidden">-->
                 
                   <h5 class="fs-0 fs-lg-1">
                     <img src="assets/bilder/icons/uhr.png" style="padding-right:10px;"><?php echo lang('Open');?></h5>
@@ -67,7 +67,7 @@ include('./inc/headerSlider.php');
 
                     </div>
                   </div>
-                </div>
+                <!--</div>
 <!--
 <div class="col-lg-12  .color-9" style="background-color:#4590e7; padding-top: 8px; padding-bottom: 1px; margin-bottom: 10px; border-radius:20px;">
 -->
