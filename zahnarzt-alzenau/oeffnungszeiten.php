@@ -38,7 +38,6 @@ include('./inc/headerSlider.php');
                       <div class="col-lg-12">
                         <div class="  radius-secondary" align="left" style="padding-left:43px;" >
                           <div style="overflow-x:auto;">
-                            <table>
                               <?php
                                 $array =  array('Mo','Di','Mi','Do','Fr');
                                 $i =0;
@@ -67,7 +66,6 @@ include('./inc/headerSlider.php');
 
                               ?>
 
-                            </table>
                           </div>
                         </div>
                       </div>
