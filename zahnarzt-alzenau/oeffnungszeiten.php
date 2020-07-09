@@ -36,8 +36,6 @@ include('./inc/headerSlider.php');
                     <img src="assets/bilder/icons/uhr.png" style="padding-right:10px;"><?php echo lang('Open');?></h5>
                     <div style=""> 
                       <div class="col-lg-12">
-                        <div class="  radius-secondary" align="left" style="padding-left:43px;" >
-                          <div style="overflow-x:auto;">
                               <?php
                                 $array =  array('Mo','Di','Mi','Do','Fr');
                                 $i =0;
@@ -66,8 +64,6 @@ include('./inc/headerSlider.php');
 
                               ?>
 
-                          </div>
-                        </div>
                       </div>
 
                     </div>
