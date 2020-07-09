@@ -63,7 +63,7 @@ include('./inc/headerSlider.php');
 
 											     echo"<tr><td>";
 												 echo lang($array[$i]);
-												//echo"</td><td>";
+												echo"</td><td>";
 												 echo lang($array[$i].'1');
 												
 												$var = lang($array[$i].'2');
