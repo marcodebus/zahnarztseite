@@ -61,7 +61,7 @@ function lang($phrase){
 			'VKUeber' => '',
 			'MEUeber' => 'Moderne Endodontie <br>(Wurzelkanalbehandlung)',
 			'LGUeber' => 'Entspannte Behandlung <br>(Lachgas, Tiefschlaf, Vollnarkose)',
-			'HZUeber' => 'Hochwertiger Zahnersatz <br>zu günstigen Preisen<br>mit Möglichkeit der Ratenzahlung',
+			'HZUeber' => 'Hochwertiger Zahnersatz <br>zu fairen Preisen<br>mit Möglichkeit der Ratenzahlung',
 			'IMUeber' => 'Implantate',
         'TeamUeber' => 'Unser Team',
 		'OeffnungszeitenUeber' => 'Öffnungszeiten',
