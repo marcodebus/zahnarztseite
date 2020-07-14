@@ -462,9 +462,9 @@ function lang($phrase){
 
 
 		//Zahnersatz
-		'ZEUeber1' => '<br>(1) Hochwertiger Zahnersatz',
-		'ZEUeber2' => '(2) Qualitätszahnersatz aus deutschen Meisterlabor',
-    'ZEUeber3' => '<br>(3) Bequeme Ratenzahlung',
+		'ZEUeber1' => '<br>Behandlung mit Zahnersatz',
+		'ZEUeber2' => 'Hochwertiger Zahnersatz aus dem Meisterlabor Stefan Bauer in Aschaffenburg',
+    'ZEUeber3' => '<br>Bequeme Ratenzahlung',
         'ZEtext1' =>
 			   ' <p>Wenn Füllungen und Kronen zur Wiederherstellung des Kauorgans nicht mehr ausreichen, weil schon zu viele Zähne 				   fehlen, dann müssen die Lücken durch einen Zahnersatz geschlossen werden. Wir finden die für Sie passende Lösung.
 				<br>
