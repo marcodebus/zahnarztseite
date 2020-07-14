@@ -463,13 +463,13 @@ function lang($phrase){
 
 		//Zahnersatz
 		'ZEUeber1' => '<br>Behandlung mit Zahnersatz',
-		'ZEUeber2' => 'Hochwertiger Zahnersatz aus dem Meisterlabor Stefan Bauer in Aschaffenburg',
+		'ZEUeber2' => 'Hochwertiger Zahnersatz aus dem Meisterlabor Stephan Bauer in Aschaffenburg',
     'ZEUeber3' => '<br>Bequeme Ratenzahlung',
         'ZEtext1' =>
 			   ' <p>Wenn Füllungen und Kronen zur Wiederherstellung des Kauorgans nicht mehr ausreichen, weil schon zu viele Zähne 				   fehlen, dann müssen die Lücken durch einen Zahnersatz geschlossen werden. Wir finden die für Sie passende Lösung.
 				<br>
 				Durch Zahnersatz lassen sich unvorteilhafte und ungesunde Zahnlücken wieder schließen. Ein guter Zahnersatz 					verbessert die Kaufunktion, die Gesundheit und das optische Erscheinungsbild. Wir erklären Ihnen ausführlich, was 				  in Ihrem Fall sinnvoll ist – etwa eine herausnehmbare Versorgung, etwa mit Geschiebetechnik oder Teleskopkronen, 					oder ein fest eingebauter Zahnersatz auf Implantaten.',
-		'ZEtext2' => ' <p>Unser Zahnersatz wird im Dental-Labor Bauer in Aschaffenburg hergestellt. <br><br>
+		'ZEtext2' => ' <p>Unser Zahnersatz wird ausschließlich im Dental-Labor Bauer in Aschaffenburg hergestellt. <br><br>
     Zahntechnikermeister Stephan Bauer und sein engagiertes Team stehen uns und unseren Patienten mit großer Leidenschaft zur Verfügung.
     Praxis und Labor finden gemeinsam den für Sie am besten geeigneten Zahnersatz - immer preiswert (seinen-Preis-wert), sehr lange haltbar und unsichtbar.
     <br>
