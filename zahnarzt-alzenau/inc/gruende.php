@@ -1,7 +1,7 @@
 <section class="background-11">
                 <div class="container"  >
                     <h3 class="text-center fs-2 fs-md-3"><?php echo lang('8GUeber');?></h3>
-						<!--Unterstrich--><h4 align="center"><small>Wir sorgen das Wohl Ihrer Zähne und ein strahlendes Lächeln.</small></h4>
+						<!--Unterstrich--><h4 align="center"><small>Wir sorgen für das Wohl Ihrer Zähne und ein strahlendes Lächeln.</small></h4>
 					<div style=" text-align: center;">
 						<object data="./assets/bilder/icons/unterstrich.svg" type="image/svg+xml">
  						 <img src="./assets/bilder/icons/blankPNG.png" />
