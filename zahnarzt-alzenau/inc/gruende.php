@@ -149,7 +149,7 @@
                                 <div class="px-4 px-sm-0 mt-5" data-zanim='{"delay":0.2}'>
                                      <div style="margin-bottom: 10px; padding:10px">
 										 <h5 class="fs-0 fs-lg-1">
-                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/geld.png" style="margin-right: 10px; margin-left: 10px;float:left; ">Hochwertiger Zahnersatz</h5>	<p class="mt-3 px-lg-3"><br>zu günstigen Preisen mit Möglichkeit der Ratenzahlung<br><br></p>
+                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/geld.png" style="margin-right: 10px; margin-left: 10px;float:left; ">Hochwertiger Zahnersatz</h5>	<p class="mt-3 px-lg-3"><br>zu fairen Preisen mit Möglichkeit der Ratenzahlung<br><br></p>
 										 <p align="right"><a class="btn btn-icon btn-outline-primary btn-icon-left " href="hochwertiger-zahnersatz.php">
 										<span class="icon-Tooth "></span>Mehr Erfahren</a></p>
 										 </div>
