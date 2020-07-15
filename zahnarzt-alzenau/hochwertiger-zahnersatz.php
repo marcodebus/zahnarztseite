@@ -76,7 +76,7 @@ $Kontakttext = "Wenn sie sich für hochwertigen Zahnersatz interessieren, dann r
 								<img  style="background-color:white; margin:10px; border-radius:5%;"	width="95%" src="<?php echo lang('ZEBild2'); ?>">
 
 					 </div>
-					<h2 class="fs-2 ">Bequeme Ratenzahlung</h2><br><p>Zusammen mit unserer Abrechnungsgesellschaft bieten wir Ihnen die Möglichkeit, Ihre Zahnersatz Rechnung in bequemen Raten zu bezahlen .
+					<h2 class="fs-2 ">Bequeme Ratenzahlung</h2><br><p>Zusammen mit unserer Abrechnungsgesellschaft bieten wir Ihnen die Möglichkeit, Ihre Zahnersatz Rechnung in bequemen Raten zu bezahlen.
 					</p>
 
 
