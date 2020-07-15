@@ -38,7 +38,7 @@
                             <div class="background-11 border border-color-9 radius-round mx-auto d-flex align-items-center" data-zanim="{&quot;trigger&quot;:&quot;scroll&quot;}" style="height: 100px; width: 100px; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
                                 <span class="icon-Money fs-3 color-blueish mx-auto fw-600"></span>
                             </div>
-                            <h3 class="mt-4 fs-1" data-zanim="{&quot;delay&quot;:0.1}" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"> Hochwertiger Zahnersatz zu bezahlbaren Preisen<br>&nbsp; </h3>
+                            <h3 class="mt-4 fs-1" data-zanim="{&quot;delay&quot;:0.1}" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"> Hochwertiger Zahnersatz zu fairen Preisen<br>&nbsp; </h3>
                             <p class="mb-0 mt-3 px-3" data-zanim="{&quot;delay&quot;:0.2}" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
                                            mit Möglichkeit der Ratenzahlung. <a class="btn btn-icon btn-outline-primary btn-icon-left " href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/hochwertiger-zahnersatz.php">
 												<span class="icon-Tooth "></span>Mehr Erfahren</a></p>
