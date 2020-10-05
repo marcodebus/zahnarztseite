@@ -114,10 +114,10 @@
                                 <div class="px-4 px-sm-0 mt-5" data-zanim='{"delay":0.2}'>
                                      <div style="margin-bottom: 10px; padding:10px">
 										 <h5 class="fs-0 fs-lg-1">
-                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/kind.png" style="margin-right: 10px; margin-left: 10px;float:left;">Kinderfreundliche Praxis:</h5>
+                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/wolke.png" style="margin-right: 10px; margin-left: 10px;float:left;">Sanfte und angstfreie Zahnheilkunde:</h5>
 										 </div>
 
-										<p class="mt-3 px-lg-3">Unsere Zahnarztpraxis ist selbstverständlich auch auf kleine Patienten vorbereitet. Für Kinder nehmen wir uns besonders viel Zeit und sind so behutsam wie möglich.</p>
+										<p class="mt-3 px-lg-3">Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.</p>
 									<p align="right"><a class="btn btn-icon btn-outline-primary btn-icon-left " href="kinderbehandlung.php">
 										<span class="icon-Tooth "></span>Mehr Erfahren</a></p>
                                 </div>
