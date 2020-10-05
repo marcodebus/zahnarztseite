@@ -47,10 +47,10 @@
                                 <div class="px-4 px-sm-0 mt-5" data-zanim='{"delay":0.2}'>
                                      <div style="margin-bottom: 10px; padding:10px">
 										 <h5 class="fs-0 fs-lg-1">
-                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/wolke.png" style="margin-right: 10px; margin-left: 10px;float:left;">Sanfte und angstfreie Zahnheilkunde:</h5>
+                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/team.png" style="margin-right: 10px; margin-left: 10px;float:left;">Kompetente und freundliche Mitarbeiterinnen:</h5>
 										 </div>
 
-										<p class="mt-3 px-lg-3">Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.</p>
+										<p class="mt-3 px-lg-3">Der Patient steht bei uns immer im Mittelpunkt. Wir kümmern uns gerne um Ihr Anliegen und Dr. Fuchs nimmt sich Zeit für eine ausführliche Beratung.</p>
 
 									<p align="right"><a class="btn btn-icon btn-outline-primary btn-icon-left " href="team.php">
 										<span class="icon-Tooth "></span>Mehr Erfahren</a></p>
