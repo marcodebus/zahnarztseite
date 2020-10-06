@@ -33,7 +33,8 @@
                                 <div class="px-4 px-sm-0 mt-5" data-zanim='{"delay":0.2}'>
                                      <div style="margin-bottom: 10px; padding:10px">
 										 <h5 class="fs-0 fs-lg-1">
-                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/team.png" style="margin-right: 10px; margin-left: 10px;float:left;">Tätigkeitsschwerpunkt Ästetik:</h5>
+                                       <!--<span class="ion-ios-timer fs-2 mr-2 icon-position-fix fw-600"></span>--><img src="assets/bilder/icons/team.png" style="margin-right: 10px; margin-left: 10px;float:left;">Tätigkeitsschwerpunkt Ästhetische Zahnheilkunde
+:</h5>
 										 </div>
 										<p class="mt-3 px-lg-3"> Ein schönes, strahlendes Lächeln macht jeden Menschen attraktiver. Die Zahnarztpraxis Dr. Fuchs in Alzenau ist Ihr Ansprechpartner, wenn es um gesunde, schöne Zähne geht.  </p>
 
