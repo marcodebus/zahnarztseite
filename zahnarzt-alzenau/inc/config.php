@@ -320,31 +320,41 @@ function lang($phrase){
 		'LinkunterTextPraxis' => 'Weitere Infos für Angstpatienten',
         'BildPraxis' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/190112-101138-DSC_0718-2000x1400.jpg',
 
+
 		//Team //(1 ist Oben In mitte Geschaeftsleituing)
 		'TeamUUeber1' => '',
-		'TeamBildKopf' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg',
-		'TeamBildAn1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_fuchs-1600x1600.png',
-        'TeamBildAn2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_rauch-1600x1600.png',
-		'TeamBildAn3' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_jaxt-1600x1600.png',
-        'TeamBildAn4' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_arzu-1600x1600.png',
-        'TeamMitgliedUeber1' => 'Dr. med. dent. Bernhard Fuchs',
+		'TeamBildKopf' => '../zahnarzt-alzenau/assets/bilder/GruppenbildNeu.jpg',//'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg',
+		'TeamBildAn1' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_fuchs-1600x1600.png',
+    'TeamBildAn2' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_rauch-1600x1600.png',
+		'TeamBildAn3' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_jaxt-1600x1600.png',
+    'TeamBildAn4' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_arzu-1600x1600.png',
+    'TeamBildAn5' => '../zahnarzt-alzenau/assets/bilder/jesica.jpg',
+    'TeamBildAn6' => '../zahnarzt-alzenau/assets/bilder/melisa.jpg',
+
+
+    'TeamMitgliedUeber1' => 'Dr. med. dent. Bernhard Fuchs',
 		'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp;',
-        'TeamMitgliedUeber3' => 'Anja Jaxt',
-		'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu<br>&nbsp;',
-        'TeamMitgliedUUeber1' => 'Mehr als 25 Jahre Berufserfahrung als Zahnarzt',
+    'TeamMitgliedUeber3' => 'Anja Jaxt',
+		'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu',
+    'TeamMitgliedUeber5' => 'Jessica Garnas',
+		'TeamMitgliedUeber6' => 'Melisa Hünat<br>&nbsp;',
+
+    'TeamMitgliedUUeber1' => 'Mehr als 25 Jahre Berufserfahrung als Zahnarzt',
 		'TeamMitgliedUUeber2' => 'Empfang, Verwaltung, Abrechnung',
-        'TeamMitgliedUUeber3' => 'Behandlungsassistenz',
+    'TeamMitgliedUUeber3' => 'Behandlungsassistenz',
 		'TeamMitgliedUUeber4' => 'Behandlungsassistenz',
-		'TeamMitgliedText1' => '<ul data-zanim=\'{"delay":0.1}\'>
+    'TeamMitgliedUUeber5' => '',
+		'TeamMitgliedUUeber6' => '',
+    'TeamMitgliedText1' => '<ul data-zanim=\'{"delay":0.1}\'>
 										<li>Tätigkeitsschwerpunkt Ästhetische Zahnheilkunde</li>
 										<li>Curriculum Implantologie</li>
 										<li>Curriculum Zahnärztliche Hypnose </li>
 								</ul>',
 		'TeamMitgliedText2' => 'Frau Rauch ist seit 25 Jahren in unserer Praxis tätig <br><br>Sie steht Ihnen in allen organisatorischen Dingen kompetent mit Rat und Tat zur Seite.<br><br>',
-        'TeamMitgliedText3' => 'Sie ist unsere Prophylaxefee <br>Frau Jaxt hat langjährige Erfahrung in der Behandlungsassistenz, im Labor sowie vor allem auch in der Prophylaxe. 								   Durch ihre mitfühlende und ausgleichende Art ist sie bei unseren Patienten äußerst beliebt.',
+    'TeamMitgliedText3' => 'Sie ist unsere Prophylaxefee <br>Frau Jaxt hat langjährige Erfahrung in der Behandlungsassistenz, im Labor sowie vor allem auch in der Prophylaxe. 								   Durch ihre mitfühlende und ausgleichende Art ist sie bei unseren Patienten äußerst beliebt.',
 		'TeamMitgliedText4' => 'Frau Kalyoncuoglu hat ihre Ausbildung bei uns absolviert und begleitet Sie sanft durch die Behandlung. Überzeugt durch ihre fröhliche, gewinnende 								  Art und ihren herzlichen Umgang mit den Patienten.<br><br>',
-
-
+    'TeamMitgliedText5' => 'Auszubildende im 3. Lehrjahr, Behandlungsassistenz und Prophylaxe',
+    'TeamMitgliedText6' => 'Auszubildende im 3. Lehrjahr, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung ',
 
 
 
@@ -487,7 +497,7 @@ function lang($phrase){
 
 
 		'ZEBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_zahnersatz-1600x1000.jpeg',
-        'ZEBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/02/Bildschirmfoto-2019-02-26-um-09.34.24-648x393.png',
+        'ZEBild2' => '../zahnarzt-alzenau/assets/bilder/dentalBauer.png',
 
 
 

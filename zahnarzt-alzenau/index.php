@@ -32,8 +32,8 @@ include('./inc/header.php');
 
 <!--ende Slider-->
 
-
-				<img src="https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg"	width="100%" title="Logo Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Log Zahnarzt Alzenau Dr. Bernhard Fuchs" style="margin-top:30px">
+<!--https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg-->
+				<br><img src="../zahnarzt-alzenau/assets/bilder/GruppenbildNeu.jpg"	width="100%" title="Logo Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Log Zahnarzt Alzenau Dr. Bernhard Fuchs" style="margin-top:30px">
 
 
 
@@ -54,8 +54,8 @@ include('./inc/header.php');
 
 							?>
 							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#ffeee; border-radius:20px; ">
-								<!--<h3>Liebe Patientinnen und Patienten,<br> 
-								Wir machen vom 10. bis 21. August Urlaub.<br> 
+								<!--<h3>Liebe Patientinnen und Patienten,<br>
+								Wir machen vom 10. bis 21. August Urlaub.<br>
 								Ab 24. August sind wir wieder für Sie da.<br><br></h3>-->
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>

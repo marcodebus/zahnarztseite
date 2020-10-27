@@ -96,7 +96,7 @@ include('./inc/header.php');
 			$uueberschrift =	array("",);
 			$text =	array("",);
 				$i =2;
-				while ($i < 5){
+				while ($i < 7){
 					$bildNr = "TeamBildAn".$i;
 					$textNr = "TeamMitgliedText".$i;
 					$ueberNr = "TeamMitgliedUeber".$i;
@@ -165,7 +165,9 @@ include('./inc/header.php');
                             <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">
 
 
-
+                        <div class="row">
+                          <img width="100%" src="../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg">
+                        </div>
 								<?php
 								$all_files = glob("./assets/bilder/teamgalerie/*.*");
 								$j = 0;
