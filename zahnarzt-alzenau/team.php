@@ -165,9 +165,9 @@ include('./inc/header.php');
                             <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">
 
 
-                        <div class="row">
+                        <div class="row">   <div class="col-12">
                           <img width="100%" src="../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg">
-                        </div>
+                        </div></div>
 								<?php
 								$all_files = glob("./assets/bilder/teamgalerie/*.*");
 								$j = 0;
