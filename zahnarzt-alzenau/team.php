@@ -96,7 +96,7 @@ include('./inc/header.php');
 			$uueberschrift =	array("",);
 			$text =	array("",);
 				$i =2;
-				while ($i < 7){
+				while ($i < 6){
 					$bildNr = "TeamBildAn".$i;
 					$textNr = "TeamMitgliedText".$i;
 					$ueberNr = "TeamMitgliedUeber".$i;
