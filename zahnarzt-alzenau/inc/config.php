@@ -336,15 +336,13 @@ function lang($phrase){
 		'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp;',
     'TeamMitgliedUeber3' => 'Anja Jaxt',
 		'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu',
-    'TeamMitgliedUeber5' => 'Jessica Garnas',
-		'TeamMitgliedUeber6' => 'Melisa Hünat<br>&nbsp;',
+		'TeamMitgliedUeber5' => 'Melisa Hünat<br>&nbsp;',
 
     'TeamMitgliedUUeber1' => 'Mehr als 25 Jahre Berufserfahrung als Zahnarzt',
 		'TeamMitgliedUUeber2' => 'Empfang, Verwaltung, Abrechnung',
     'TeamMitgliedUUeber3' => 'Behandlungsassistenz',
 		'TeamMitgliedUUeber4' => 'Behandlungsassistenz',
-    'TeamMitgliedUUeber5' => '',
-		'TeamMitgliedUUeber6' => '',
+		'TeamMitgliedUUeber5' => '',
     'TeamMitgliedText1' => '<ul data-zanim=\'{"delay":0.1}\'>
 										<li>Tätigkeitsschwerpunkt Ästhetische Zahnheilkunde</li>
 										<li>Curriculum Implantologie</li>
@@ -353,8 +351,7 @@ function lang($phrase){
 		'TeamMitgliedText2' => 'Frau Rauch ist seit 25 Jahren in unserer Praxis tätig <br><br>Sie steht Ihnen in allen organisatorischen Dingen kompetent mit Rat und Tat zur Seite.<br><br>',
     'TeamMitgliedText3' => 'Sie ist unsere Prophylaxefee <br>Frau Jaxt hat langjährige Erfahrung in der Behandlungsassistenz, im Labor sowie vor allem auch in der Prophylaxe. 								   Durch ihre mitfühlende und ausgleichende Art ist sie bei unseren Patienten äußerst beliebt.',
 		'TeamMitgliedText4' => 'Frau Kalyoncuoglu hat ihre Ausbildung bei uns absolviert und begleitet Sie sanft durch die Behandlung. Überzeugt durch ihre fröhliche, gewinnende 								  Art und ihren herzlichen Umgang mit den Patienten.<br><br>',
-    'TeamMitgliedText5' => 'Auszubildende im 3. Lehrjahr, Behandlungsassistenz und Prophylaxe',
-    'TeamMitgliedText6' => 'Auszubildende im 3. Lehrjahr, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung ',
+    'TeamMitgliedText5' => 'Auszubildende im 3. Lehrjahr, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung ',
 
 
 
