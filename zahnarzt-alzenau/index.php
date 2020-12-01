@@ -53,6 +53,13 @@ include('./inc/header.php');
 								include('./inc/unterstrich.php');
 
 							?>
+				
+
+				
+				
+				<a class="video-modal btn btn-icon btn-outline-primary btn-icon-left " href="https://www.youtube.com/watch?v=uDbga9Kg8ew" data-start="0" data-end="45">
+				<span class="icon-Youtube "></span>Praxis Video</a>
+
 							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#ffeee; border-radius:20px; ">
 								<!--<h3>Liebe Patientinnen und Patienten,<br>
 								Wir machen vom 10. bis 21. August Urlaub.<br>
