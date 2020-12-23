@@ -66,7 +66,7 @@ include('./inc/header.php');
 								 
 								
 								<h3>Liebe Patientinnen und Patienten,<br>
-								Wir machen Urlaub bis zum 03. Januar 2021.<br>
+								Wir machen Urlaub bis zum <br>03. Januar 2021.<br>
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br><br></h3>
 								
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
