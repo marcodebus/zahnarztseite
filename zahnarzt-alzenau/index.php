@@ -61,9 +61,14 @@ include('./inc/header.php');
 				<span class="icon-Youtube "></span>Praxis Video</a>
 
 							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#ffeee; border-radius:20px; ">
-								<!--<h3>Liebe Patientinnen und Patienten,<br>
-								Wir machen vom 10. bis 21. August Urlaub.<br>
-								Ab 24. August sind wir wieder für Sie da.<br><br></h3>-->
+								
+								
+								 
+								
+								<h3>Liebe Patientinnen und Patienten,<br>
+								Wir machen Urlaub bis zum 03. Januar 2021.<br>
+								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br><br></h3>
+								
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
 								<p>Wir behandeln mit erhöhten Sicherheitsmaßnahmen<p>
