@@ -65,11 +65,11 @@ include('./inc/header.php');
 								
 								 
 								
-								<h3>Liebe Patientinnen und Patienten,<br>
+								<!--<h3>Liebe Patientinnen und Patienten,<br>
 									Wir machen Urlaub bis zum <br>03. Januar 2021.<br></h3><h4>
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
 								Wir wünschen allen unseren Patienten ein frohes Weihnachtsfest und ein glückliches neues Jahr.<br><br><br></h4>
-								
+								-->
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
 								<p>Wir behandeln mit erhöhten Sicherheitsmaßnahmen<p>
