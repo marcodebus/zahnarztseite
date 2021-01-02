@@ -56,7 +56,6 @@ include('./inc/header.php');
 				
 
 				
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 				
 				
@@ -66,7 +65,8 @@ include('./inc/header.php');
 							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#ffeee; border-radius:20px; ">
 								
 								
-								 
+												<iframe width="560" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 								
 								<!--<h3>Liebe Patientinnen und Patienten,<br>
 									Wir machen Urlaub bis zum <br>03. Januar 2021.<br></h3><h4>
