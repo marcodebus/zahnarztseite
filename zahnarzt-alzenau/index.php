@@ -68,10 +68,12 @@ include('./inc/header.php');
 												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 								
-								<!--<h3>Liebe Patientinnen und Patienten,<br>
-									Wir machen Urlaub bis zum <br>03. Januar 2021.<br></h3><h4>
+								<h3>Liebe Patientinnen und Patienten,<br>
+									Wir machen Urlaub bis zum <br>11. April 2021.<br></h3>
+								<h4>
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
-								Wir wünschen allen unseren Patienten ein frohes Weihnachtsfest und ein glückliches neues Jahr.<br><br><br></h4>
+								Wir wünschen allen unseren Patienten ein frohes Osterfest.<br><br><br>
+								</h4>
 								-->
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
