@@ -74,7 +74,7 @@ include('./inc/header.php');
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
 								Wir wünschen allen unseren Patienten ein frohes Osterfest.<br><br><br>
 								</h4>
-								-->
+								
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
 								<p>Wir behandeln mit erhöhten Sicherheitsmaßnahmen<p>
