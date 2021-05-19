@@ -77,6 +77,7 @@ include('./inc/header.php');
 								
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
+				<br><img src="../zahnarzt-alzenau/assets/bilder/covid.png"	width="40%" title="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" >
 								<p>Wir behandeln mit erhöhten Sicherheitsmaßnahmen<p>
 									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="corona.php">
 											<span class="icon-Tooth "></span>Weitere Informationen</a>
