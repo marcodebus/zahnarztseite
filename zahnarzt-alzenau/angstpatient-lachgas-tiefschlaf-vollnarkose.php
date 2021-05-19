@@ -47,7 +47,7 @@ $Kontakttext = "Wenn sie Angst vor dem Zahnarzt haben und eine Lösung für ihr 
 					 	<?php echo lang('LGText');?>
 
 						<div align="center" style="padding-top:40px" >
-							<img style="background-color:white; margin:10px; border-radius:5%;"	width="80%" src=" <?php echo lang('LGBild2');?>">
+							<!--<img style="background-color:white; margin:10px; border-radius:5%;"	width="80%" src=" <?php echo lang('LGBild2');?>">-->
 						</div>
 
                         </div>
