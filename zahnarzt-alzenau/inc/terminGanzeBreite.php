@@ -12,7 +12,7 @@
 
 
 
-					<p align="center"><small>Gerne verenbaren wir, das Team der Zahnarztpraxis Dr. Fuchs einen Termin mit ihnen, für bspw. für Ästhetische Zahnheilkunde, Parodontitis Behandlungen, Implantate, ihre nächste Zahnreinigung oder eine Behandlung in Narkose.</small></p>
+					<p align="center"><small>Gerne verenbaren wir, das Team der Zahnarztpraxis Dr. Fuchs einen Termin mit ihnen, für bspw. für Ästhetische Zahnheilkunde, Parodontitis Behandlungen, Implantate, ihre nächste Zahnreinigung oder eine entspannte Behandlung in Narkose.</small></p>
 						<!--Unterstrich-->
 					<div style=" text-align: center;">
 						<object data="./assets/bilder/icons/unterstrich.svg" type="image/svg+xml">
