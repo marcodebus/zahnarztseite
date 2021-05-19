@@ -24,7 +24,7 @@ $Kontakttext = "Wenn sie Angst vor dem Zahnarzt haben und eine Lösung für ihr 
 
 						</div>
 
-               <div class="col-lg-6 py-3 py-lg-0" style="min-height:400px; background-color:white; background-position: top;">
+               <div class="col-lg-12 py-3 py-lg-0" style="min-height:400px; background-color:white; background-position: top;">
                      <div class="d-flex align-items-center h-100">
                      	<div align="center">
 
