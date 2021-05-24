@@ -74,13 +74,14 @@ include('./inc/header.php');
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
 								Wir wünschen allen unseren Patienten ein frohes Pfingstfest.<br><br><br>
 								</h4>
-								
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
+								<p style="text-align:left margin-left:50px">
 								<ol>
 								<li>Unsere Praxis ist weiterhin für Sie geöffnet</li>
 								<li>Wir behandeln mit erhöhten Sicherheitsmaßnahmen</li>
 								<li>Unser Team ist gegen COVID-19 geimpft.</li>
 								</ol>
+								</p>
 												<!--<br><img src="../zahnarzt-alzenau/assets/bilder/covid.png"	width="40%" title="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" >-->
 
 									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="corona.php">
