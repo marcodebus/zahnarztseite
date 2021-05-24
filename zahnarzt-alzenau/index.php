@@ -68,17 +68,19 @@ include('./inc/header.php');
 												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 								
-								<!-- <h3>Liebe Patientinnen und Patienten,<br>
-									Wir machen Urlaub bis zum <br>11. April 2021.<br></h3>
+								 <h3>Liebe Patientinnen und Patienten,<br>
+									Wir machen Urlaub bis zum <br>30. Mai 2021.<br></h3>
 								<h4>
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
-								Wir wünschen allen unseren Patienten ein frohes Osterfest.<br><br><br> -->
+								Wir wünschen allen unseren Patienten ein frohes Pfingstfest.<br><br><br>
 								</h4>
 								
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
-								<h3>Unsere Praxis ist weiterhin für Sie geöffnet</h3>
-				<br><img src="../zahnarzt-alzenau/assets/bilder/covid.png"	width="40%" title="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" >
-								<p>Wir behandeln mit erhöhten Sicherheitsmaßnahmen<p>
+								
+								<h3>1. Unsere Praxis ist weiterhin für Sie geöffnet</h3>
+				<!--<br><img src="../zahnarzt-alzenau/assets/bilder/covid.png"	width="40%" title="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" >-->
+								<p>2. Wir behandeln mit erhöhten Sicherheitsmaßnahmen<br>3. Unser Team ist gegen COVID-19 geimpft.<p>
+								
 									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="corona.php">
 											<span class="icon-Tooth "></span>Weitere Informationen</a>
 							</div>
