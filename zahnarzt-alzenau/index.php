@@ -75,7 +75,7 @@ include('./inc/header.php');
 								Wir wünschen allen unseren Patienten ein frohes Pfingstfest.<br><br><br>
 								</h4>
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
-								<ol style="text-align:left margin-left:50px">
+								<ol style="text-align:left; margin-left:50px">
 								<li>Unsere Praxis ist weiterhin für Sie geöffnet</li>
 								<li>Wir behandeln mit erhöhten Sicherheitsmaßnahmen</li>
 								<li>Unser Team ist gegen COVID-19 geimpft.</li>
