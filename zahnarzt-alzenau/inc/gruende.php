@@ -118,7 +118,7 @@
 										 </div>
 
 										<p class="mt-3 px-lg-3">Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.</p>
-									<p align="right"><a class="btn btn-icon btn-outline-primary btn-icon-left " href="kinderbehandlung.php">
+									<p align="right"><a class="btn btn-icon btn-outline-primary btn-icon-left " href="angstpatient-lachgas-tiefschlaf-vollnarkose.php">
 										<span class="icon-Tooth "></span>Mehr Erfahren</a></p>
                                 </div>
                             </div>
