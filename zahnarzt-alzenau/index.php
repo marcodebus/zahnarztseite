@@ -68,11 +68,11 @@ include('./inc/header.php');
 												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 								
-								 <h3>Liebe Patientinnen und Patienten,<br>
+								<!-- <h3>Liebe Patientinnen und Patienten,<br>
 									Wir machen Urlaub bis zum <br>30. Mai 2021.<br></h3>
 								<h4>
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
-								Wir wünschen allen unseren Patienten ein frohes Pfingstfest.<br><br><br>
+								Wir wünschen allen unseren Patienten ein frohes Pfingstfest.<br><br><br>-->
 								</h4>
 								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<ol style="text-align:left; margin-left:50px">
