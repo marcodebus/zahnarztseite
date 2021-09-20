@@ -182,7 +182,7 @@ function lang($phrase){
 		'Di1' => '8:00 – 13:00',
 		'Di2' => '14:00 – 18:00',
 		'Mi' => 'Mittwoch ',
-       		'Mi1' => '7:30 – 13:30',
+       		'Mi1' => '7:30 – 14:00',
 		'Mi2' => '',
 		'Do' => 'Donnerstag ',
 		'Do1' => '8:00 – 13:00',
@@ -193,7 +193,7 @@ function lang($phrase){
 
 		'MoHeader' => 'Heute geöffnet bis <b>18:00 Uhr</b>',
 		'DiHeader' => 'Heute geöffnet bis <b>18:00 Uhr</b>',
-		'MiHeader' => 'Heute geöffnet bis <b>13:30 Uhr</b>',
+		'MiHeader' => 'Heute geöffnet bis <b>14:00 Uhr</b>',
 		'DoHeader' => 'Heute geöffnet bis <b>18:00 Uhr</b>',
 		'FrHeader' => 'Heute geöffnet bis <b>14:00 Uhr</b> ',
 		'WEHeader' => 'Heute Geschlossen',
