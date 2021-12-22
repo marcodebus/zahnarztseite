@@ -74,7 +74,7 @@ include('./inc/header.php');
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
 								Wir wünschen allen unseren Patienten ein frohes Fest.<br>
 								<br><br>
-								</h4>-->
+								</h4>
 								
 				
 				
