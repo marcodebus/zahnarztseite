@@ -72,7 +72,7 @@ include('./inc/header.php');
 									Wir machen Urlaub bis zum <br>02. Januar 2022.<br></h3>
 								<h4>
 								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
-								Wir wünschen allen unseren Patienten ein frohes Fest.<br>
+								Wir wünschen allen unseren Patienten ein frohes Fest und einen guten Rutsch ins neue Jahr.<br>
 								<br><br>
 								</h4>
 								
