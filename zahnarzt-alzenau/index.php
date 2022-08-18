@@ -68,13 +68,16 @@ include('./inc/header.php');
 												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 								
-								<!--<h3>Liebe Patientinnen und Patienten,<br>
-									Wir machen Urlaub bis zum <br>02. Januar 2022.<br></h3>
+								<h3>Liebe Patientinnen und Patienten,<br>
+									Unsere Praxis ist bis <br>04.09.2022.<br></h3> geschlossen.
 								<h4>
-								In dringenden Fällen können Sie den Notdienst unter der Telefonnummer 06021/80700 erreichen.<br>
-								Wir wünschen allen unseren Patienten ein frohes Fest und einen guten Rutsch ins neue Jahr.<br>
-								<br><br>
-								</h4>-->
+								Die Vertretung übernimmt die Gemeinschaftspraxis Dr. Bock & Behne,<br> Im Breitenfeld 59, 
+								63776 Mömbris,<br> Telefonnummer: 06029/994323<br><br>An den Wochenenden erreichen Sie 
+								den <br> Zahnärztlichen Notdienst unter der<br> Telefonnummer: 06021/80700.<br><br>
+
+								<br>
+								
+								</h4>
 								
 				
 				
