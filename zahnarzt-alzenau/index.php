@@ -67,7 +67,7 @@ include('./inc/header.php');
 								
 												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-								
+								<!--
 								<h4>Liebe Patientinnen und Patienten,<br>
 									Unsere Praxis ist bis <br>04.09.2022.<br>  geschlossen.</h4>
 								<h5>
@@ -77,7 +77,7 @@ include('./inc/header.php');
 
 								<br>
 								
-								</h5>
+								</h5>-->
 								
 				
 				
