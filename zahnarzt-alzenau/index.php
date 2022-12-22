@@ -69,7 +69,7 @@ include('./inc/header.php');
  
 								
 								<h4>Sehr geehrte Patienten,<br><br>
-									unsere Praxis ist bis zum <br>01.01.2023.<br>  geschlossen.<br><br></h4>
+									unsere Praxis ist bis zum <br>01.01.2023<br>  geschlossen.<br><br></h4>
 								<h5>
 								In dringenden Fällen steht der <br> zahnärztliche Notdienst  
 								unter der <br> Nummer: 06029/994323 für Sie bereit.
