@@ -72,7 +72,7 @@ include('./inc/header.php');
 									unsere Praxis ist bis zum <br>01.01.2023<br>  geschlossen.<br><br></h4>
 								<h5>
 								In dringenden Fällen steht der <br> zahnärztliche Notdienst  
-								unter der <br> Nummer: 06029/994323 für Sie bereit.
+								unter der <br> Nummer: 06021-80700  für Sie bereit.
 								
 								<br><br>Ein frohes Weihnachtsfest und einen guten Rutsch ins Neue Jahr
 									
