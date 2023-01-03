@@ -68,7 +68,7 @@ include('./inc/header.php');
 												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 								
-								<h4>Sehr geehrte Patienten,<br><br>
+								<!--<h4>Sehr geehrte Patienten,<br><br>
 									unsere Praxis ist bis zum <br>01.01.2023<br>  geschlossen.<br><br></h4>
 								<h5>
 								In dringenden Fällen steht der <br> zahnärztliche Notdienst  
@@ -76,7 +76,7 @@ include('./inc/header.php');
 								
 								<br><br>Ein frohes Weihnachtsfest und einen guten Rutsch ins Neue Jahr
 									
-									<br><br>wünscht Ihnen ihr Praxisteam<br><br>
+									<br><br>wünscht Ihnen ihr Praxisteam<br><br>-->
 
 							
 								
