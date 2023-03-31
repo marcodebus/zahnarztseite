@@ -68,6 +68,30 @@ include('./inc/header.php');
 												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 								
+								
+								
+								
+<h4>Sehr geehrte Patienten,
+<br>
+	wir machen Urlaub bis 10. April 2023</h4>
+<p><br><br>
+Die Vertretung übernimmt die <br>
+Gemeinschaftspraxis Dr. Bock & Behne,<br>
+Im Breitfeld 59, 63776 Mömbris,<br>
+Telefonnummer: 06029/994323<br>
+<br><br>
+An den Feiertagen steht für Sie der Notdienst 
+unter der Telefonnummer 06021/80700 bereit.
+<br><br>
+Wir wünschen Ihnen schöne Osterfeiertage und
+sind ab Dienstag, dem 11. April 2023, wieder für 
+Sie da.
+<br><br>
+Ihre Zahnarztpraxis 
+<br><br>
+								Dr. Bernhard Fuchs</p>
+
+								
 								<!--<h4>Sehr geehrte Patienten,<br><br>
 									unsere Praxis ist bis zum <br>01.01.2023<br>  geschlossen.<br><br></h4>
 								<h5>
