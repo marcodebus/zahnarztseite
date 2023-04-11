@@ -70,7 +70,7 @@ include('./inc/header.php');
 								
 								
 								
-								
+	<!--							
 <h4>Sehr geehrte Patienten,
 <br>
 	wir machen Urlaub bis 10. April 2023</h4>
@@ -90,7 +90,9 @@ Sie da.
 Ihre Zahnarztpraxis 
 <br><br>
 								Dr. Bernhard Fuchs</p>
-
+-->
+								
+								
 								
 								<!--<h4>Sehr geehrte Patienten,<br><br>
 									unsere Praxis ist bis zum <br>01.01.2023<br>  geschlossen.<br><br></h4>
