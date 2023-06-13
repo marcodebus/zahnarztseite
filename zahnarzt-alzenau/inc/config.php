@@ -332,7 +332,7 @@ function lang($phrase){
 
 
     'TeamMitgliedUeber1' => 'Dr. med. dent. Bernhard Fuchs',
-    'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp;',
+    'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp; <br>&nbsp; <br>&nbsp;',
     'TeamMitgliedUeber3' => 'Anja Jaxt',
     'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu',
     'TeamMitgliedUeber5' => 'Isabel Domingos',
