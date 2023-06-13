@@ -328,7 +328,7 @@ function lang($phrase){
     'TeamBildAn2' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_rauch-1600x1600.png',
 		'TeamBildAn3' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_jaxt-1600x1600.png',
     'TeamBildAn4' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_arzu-1600x1600.png',
-    'TeamBildAn5' => '../zahnarzt-alzenau/assets/bilder/teambilder/avatar.png',
+    'TeamBildAn5' => '../zahnarzt-alzenau/assets/bilder/teambilder/avatar-frau.png',
 
 
     'TeamMitgliedUeber1' => 'Dr. med. dent. Bernhard Fuchs',
