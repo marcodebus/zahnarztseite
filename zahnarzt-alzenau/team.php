@@ -1,4 +1,3 @@
-
 <?php
 error_reporting(0);
 session_start();
@@ -27,70 +26,78 @@ include('./inc/header.php');
 
 
 
-            <section class="background-11">
-                <div class="container">
+<section class="background-11">
+    <div class="container">
 
-					<table width="100%">
-						<tr>
-							<td style="width: 50%"><h2><?php echo lang('TeamUeber'); ?></h2></td>
-							<td class="text-right" style="width: 50% "><?php //echo lang('TeamSideTable'); ?></td>
-						</tr>
-					</table>
-					<div align="center" style="text-align:center;margin:0 auto;" class="col-sm-10 col-md-10 col-lg-10 col-xl-10 py-3 py-lg-0">
+        <table width="100%">
+            <tr>
+                <td style="width: 50%">
+                    <h2><?php echo lang('TeamUeber'); ?></h2>
+                </td>
+                <td class="text-right" style="width: 50% "><?php //echo lang('TeamSideTable'); ?></td>
+            </tr>
+        </table>
+        <div align="center" style="text-align:center;margin:0 auto;"
+            class="col-sm-10 col-md-10 col-lg-10 col-xl-10 py-3 py-lg-0">
 
-							<img width="100%"  style=" margin:20px;  border-radius: 10px; display: block;  margin-left: auto;   margin-right: auto; " src="
+            <img width="100%"
+                style=" margin:20px;  border-radius: 10px; display: block;  margin-left: auto;   margin-right: auto; "
+                src="
 							<?php echo lang('TeamBildKopf'); ?>">
-					</div>
-					<br><br>
+        </div>
+        <br><br>
 
-                    <div class="row no-gutters">
-
-
+        <div class="row no-gutters">
 
 
-                        <div align="center" class="col-xs-5 col-sm-5 col-md-4 col-lg-4 col-xl-4 py-3 py-lg-0" style="background-color:white; background-position: top;">
-                            <div class="background-holder radius-tl-secondary radius-bl-lg-secondary radius-tr-secondary radius-tr-lg-0" style="background-color:white; ">
-							</div>
-                           <img  style="background-color:white; padding:5%;"	width="300px" src="<?php echo lang('TeamBildAn1'); ?>">
-                        </div>
 
-                        <div class="col-xs-5 col-sm-7 col-md-8 col-lg-8 col-xl-8 px-5 py-6 my-lg-0 background-white radius-tr-lg-secondary radius-br-secondary
+
+            <div align="center" class="col-xs-5 col-sm-5 col-md-4 col-lg-4 col-xl-4 py-3 py-lg-0"
+                style="background-color:white; background-position: top;">
+                <div class="background-holder radius-tl-secondary radius-bl-lg-secondary radius-tr-secondary radius-tr-lg-0"
+                    style="background-color:white; ">
+                </div>
+                <img style="background-color:white; padding:5%;" width="300px" src="<?php echo lang('TeamBildAn1'); ?>">
+            </div>
+
+            <div class="col-xs-5 col-sm-7 col-md-8 col-lg-8 col-xl-8 px-5 py-6 my-lg-0 background-white radius-tr-lg-secondary radius-br-secondary
 									radius-bl-secondary radius-bl-lg-0">
 
-							<div class="d-flex align-items-center h-100">
-                                <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                <div class="d-flex align-items-center h-100">
+                    <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
 
-                                    <h5 data-zanim='{"delay":0}'><?php echo lang('TeamMitgliedUeber1'); ?></h5>
-									<h6 class="color-7 fw-600" data-zanim='{"delay":0.1}'><?php echo lang('TeamMitgliedUUeber1'); ?></h6>
-                                  	<?php echo lang('TeamMitgliedText1'); ?>
+                        <h5 data-zanim='{"delay":0}'><?php echo lang('TeamMitgliedUeber1'); ?></h5>
+                        <h6 class="color-7 fw-600" data-zanim='{"delay":0.1}'><?php echo lang('TeamMitgliedUUeber1'); ?>
+                        </h6>
+                        <?php echo lang('TeamMitgliedText1'); ?>
 
-                                </div>
-                            </div>
-                        </div>
                     </div>
+                </div>
+            </div>
+        </div>
 
 
 
 
-                    <div class="row mt-6">
-                        <div class="col">
-                            <h3 class="text-center fs-2 fs-md-3"><?php echo lang('TeamUUeber1'); ?></h3>
+        <div class="row mt-6">
+            <div class="col">
+                <h3 class="text-center fs-2 fs-md-3"><?php echo lang('TeamUUeber1'); ?></h3>
 
-							<div align="center">
-							<?php
+                <div align="center">
+                    <?php
 								//$icon = "icon-Tooth";
 								//include('./inc/unterstrich.php');
 							?>
-							</div>
+                </div>
 
 
-                        <div class="col-12">
-                            <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">
+                <div class="col-12">
+                    <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">
 
 
 
 
-							<?php
+                        <?php
 			$bild=array("",);
 			$ueberschrift =	array("",);
 			$uueberschrift =	array("",);
@@ -112,6 +119,12 @@ include('./inc/header.php');
 				echo "<div class=\"row\">";
 			while ($i <= count($bild)-1){ // Minus 1 hinzgefuegt
 
+                if(i%2 == 0){
+                  echo'  <div class="col-12">
+                    <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">';
+
+                }
+
 						echo" <div class=\"col-sm-12 col-lg-6\" style=\"margin: auto;\">
                             <div align=\"center\" class=\"background-white pb-4 h-100 radius-secondary\">
                                 <img class=\"mb-4 radius-tr-secondary radius-tl-secondary\"  width=\"250px\" src=\"".$bild[$i]."\" alt=\"Profile Picture\" />
@@ -129,6 +142,10 @@ include('./inc/header.php');
                             </div>
                         </div>";
 
+                        if(i%2 == 0){
+                            echo' </div></div>';
+          
+                          }
 
 			$i = $i +1;
 			}
@@ -139,36 +156,39 @@ include('./inc/header.php');
 
 
 
-							</div>
+                    </div>
 
-                            </div>
-                        </div>
-					</div>
+                </div>
+            </div>
+        </div>
 
 
 
-					  <div class="row mt-6">
-                        <div class="col">
-                            <h3 class="text-center fs-2 fs-md-3"><?php echo lang('GalerieUeber'); ?></h3>
+        <div class="row mt-6">
+            <div class="col">
+                <h3 class="text-center fs-2 fs-md-3"><?php echo lang('GalerieUeber'); ?></h3>
 
-						  <div align="center">
-							  <?php
+                <div align="center">
+                    <?php
 									$icon = "icon-Tooth";
 									include('./inc/unterstrich.php');
 								?>
-							</div>
-						  </div>
-					   </div>
+                </div>
+            </div>
+        </div>
 
 
-                        <div class="col-12">
-                            <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">
+        <div class="col-12">
+            <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">
 
 
-                        <div class="row">   <div class="col-12">
-                          <img width="100%" src="../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg">
-                        </div></div>
-								<?php
+                <div class="row">
+                    <div class="col-12">
+                        <img width="100%"
+                            src="../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg">
+                    </div>
+                </div>
+                <?php
 								$all_files = glob("./assets/bilder/teamgalerie/*.*");
 								$j = 0;
 								 echo "<div class=\"row\"> ";
@@ -210,18 +230,18 @@ include('./inc/header.php');
 								?>
 
 
-					 </div>
-                    <!--/.row-->
-                </div>
-						   </div>
+            </div>
+            <!--/.row-->
+        </div>
+    </div>
 
-					 <?php
+    <?php
            include('./inc/terminGanzeBreite.php');
            ?>
-                <!--/.container-->
-            </section>
+    <!--/.container-->
+</section>
 
-          <?php
+<?php
 
 include('./inc/footer.php');
 ?>
