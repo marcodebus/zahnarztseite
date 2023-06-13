@@ -328,20 +328,20 @@ function lang($phrase){
     'TeamBildAn2' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_rauch-1600x1600.png',
 		'TeamBildAn3' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_jaxt-1600x1600.png',
     'TeamBildAn4' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_arzu-1600x1600.png',
-    'TeamBildAn5' => '../zahnarzt-alzenau/assets/bilder/melisa.png',
+    'TeamBildAn5' => '../zahnarzt-alzenau/assets/bilder/teambilder/avatar.png',
 
 
     'TeamMitgliedUeber1' => 'Dr. med. dent. Bernhard Fuchs',
     'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp;',
     'TeamMitgliedUeber3' => 'Anja Jaxt',
     'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu',
-    'TeamMitgliedUeber5' => 'Melisa Hünat<br>&nbsp;',
+    'TeamMitgliedUeber5' => 'Isabel Domingos<br>&nbsp;',
 
     'TeamMitgliedUUeber1' => 'Mehr als 25 Jahre Berufserfahrung als Zahnarzt',	
     'TeamMitgliedUUeber2' => 'Empfang, Verwaltung, Abrechnung',
-    'TeamMitgliedUUeber3' => 'Behandlungsassistenz',
+    'TeamMitgliedUUeber3' => '#ssistenz',
     'TeamMitgliedUUeber4' => 'Behandlungsassistenz',
-    'TeamMitgliedUUeber5' => 'Behandlungsassistenz',
+    'TeamMitgliedUUeber5' => 'Auszubildende',
 	    
     'TeamMitgliedText1' => '<ul data-zanim=\'{"delay":0.1}\'>
 										<li>Tätigkeitsschwerpunkt Ästhetische Zahnheilkunde</li>
@@ -351,7 +351,7 @@ function lang($phrase){
     'TeamMitgliedText2' => 'Frau Rauch ist seit 25 Jahren in unserer Praxis tätig <br><br>Sie steht Ihnen in allen organisatorischen Dingen kompetent mit Rat und Tat zur Seite.<br><br>',
     'TeamMitgliedText3' => 'Sie ist unsere Prophylaxefee <br>Frau Jaxt hat langjährige Erfahrung in der Behandlungsassistenz, im Labor sowie vor allem auch in der Prophylaxe. 								   Durch ihre mitfühlende und ausgleichende Art ist sie bei unseren Patienten äußerst beliebt.',
     'TeamMitgliedText4' => 'Frau Kalyoncuoglu hat ihre Ausbildung bei uns absolviert und begleitet Sie sanft durch die Behandlung. Überzeugt durch ihre fröhliche, gewinnende 								  Art und ihren herzlichen Umgang mit den Patienten.<br><br>',
-    'TeamMitgliedText5' => 'Behandlungsassistenz & Prophylaxe, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung.',
+    'TeamMitgliedText5' => 'Unsere Auszubildende. Behandlungsassistenz & Prophylaxe, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung.',
 
 
 
