@@ -332,14 +332,14 @@ function lang($phrase){
 
 
     'TeamMitgliedUeber1' => 'Dr. med. dent. Bernhard Fuchs',
-    'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp; <br>&nbsp; <br>&nbsp;',
+    'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp;',
     'TeamMitgliedUeber3' => 'Anja Jaxt',
     'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu',
     'TeamMitgliedUeber5' => 'Isabel Domingos',
 
     'TeamMitgliedUUeber1' => 'Mehr als 25 Jahre Berufserfahrung als Zahnarzt',	
     'TeamMitgliedUUeber2' => 'Empfang, Verwaltung, Abrechnung',
-    'TeamMitgliedUUeber3' => '#ssistenz',
+    'TeamMitgliedUUeber3' => 'Assistenz',
     'TeamMitgliedUUeber4' => 'Behandlungsassistenz',
     'TeamMitgliedUUeber5' => 'Auszubildende',
 	    
@@ -348,7 +348,7 @@ function lang($phrase){
 										<li>Curriculum Implantologie</li>
 										<li>Curriculum Zahnärztliche Hypnose </li>
 								</ul>',
-    'TeamMitgliedText2' => 'Frau Rauch ist seit 25 Jahren in unserer Praxis tätig <br><br>Sie steht Ihnen in allen organisatorischen Dingen kompetent mit Rat und Tat zur Seite.<br><br>',
+    'TeamMitgliedText2' => 'Frau Rauch ist seit 25 Jahren in unserer Praxis tätig <br><br>Sie steht Ihnen in allen organisatorischen Dingen kompetent mit Rat und Tat zur Seite.<br><br><br><br>',
     'TeamMitgliedText3' => 'Sie ist unsere Prophylaxefee <br>Frau Jaxt hat langjährige Erfahrung in der Behandlungsassistenz, im Labor sowie vor allem auch in der Prophylaxe. 								   Durch ihre mitfühlende und ausgleichende Art ist sie bei unseren Patienten äußerst beliebt.',
     'TeamMitgliedText4' => 'Frau Kalyoncuoglu hat ihre Ausbildung bei uns absolviert und begleitet Sie sanft durch die Behandlung. Überzeugt durch ihre fröhliche, gewinnende 								  Art und ihren herzlichen Umgang mit den Patienten.<br><br>',
     'TeamMitgliedText5' => 'Unsere Auszubildende. Behandlungsassistenz & Prophylaxe, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung.',
