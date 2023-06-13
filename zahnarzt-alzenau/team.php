@@ -119,11 +119,7 @@ include('./inc/header.php');
 				echo "<div class=\"row\">";
 			while ($i <= count($bild)-1){ // Minus 1 hinzgefuegt
 
-                if($i%2 == 0){
-                  echo'  <div class="col-12">
-                    <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">';
-
-                }
+  
 
 						echo" <div class=\"col-sm-12 col-lg-6\" style=\"margin: auto;\">
                             <div align=\"center\" class=\"background-white pb-4 h-100 radius-secondary\">
@@ -142,10 +138,7 @@ include('./inc/header.php');
                             </div>
                         </div>";
 
-                        if($i%2 == 0){
-                            echo' </div></div>';
-          
-                          }
+              
 
 			$i = $i +1;
 			}
