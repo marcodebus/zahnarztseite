@@ -335,7 +335,7 @@ function lang($phrase){
     'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp;',
     'TeamMitgliedUeber3' => 'Anja Jaxt',
     'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu',
-    'TeamMitgliedUeber5' => 'Isabel Domingos<br>&nbsp;',
+    'TeamMitgliedUeber5' => 'Isabel Domingos',
 
     'TeamMitgliedUUeber1' => 'Mehr als 25 Jahre Berufserfahrung als Zahnarzt',	
     'TeamMitgliedUUeber2' => 'Empfang, Verwaltung, Abrechnung',
