@@ -110,16 +110,16 @@ Ihre Zahnarztpraxis
 								
 				
 				
-								<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
+								<!--<h2 class="fs-2">Aktuelle Informationen zur Corona-Pandemie</h2>
 								<ol style="text-align:left; margin-left:50px">
 								<li>Unsere Praxis ist weiterhin für Sie geöffnet</li>
 								<li>Wir behandeln mit erhöhten Sicherheitsmaßnahmen</li>
 								<li>Unser Team ist gegen COVID-19 geimpft.</li>
 								</ol>
-												<!--<br><img src="../zahnarzt-alzenau/assets/bilder/covid.png"	width="40%" title="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" >-->
+												<br><img src="../zahnarzt-alzenau/assets/bilder/covid.png"	width="40%" title="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Covid Zahnarzt Alzenau Dr. Bernhard Fuchs" >
 
 									<a class="btn btn-icon btn-outline-primary btn-icon-left " href="corona.php">
-											<span class="icon-Tooth "></span>Weitere Informationen</a>
+											<span class="icon-Tooth "></span>Weitere Informationen</a>-->
 							</div>
 
 
