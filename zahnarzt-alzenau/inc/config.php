@@ -323,7 +323,7 @@ function lang($phrase){
 
 		//Team //(1 ist Oben In mitte Geschaeftsleituing)
 		'TeamUUeber1' => '',
-		'TeamBildKopf' => '../zahnarzt-alzenau/assets/bilder/GruppenbildNeu.jpg',//'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg',
+		'TeamBildKopf' => '../zahnarzt-alzenau/assets/bilder/GruppenbildMitBg.jpg',//'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg',
 		'TeamBildAn1' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_fuchs-1600x1600.png',
     'TeamBildAn2' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_rauch-1600x1600.png',
 		'TeamBildAn3' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_jaxt-1600x1600.png',
