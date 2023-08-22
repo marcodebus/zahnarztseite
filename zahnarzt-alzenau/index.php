@@ -33,7 +33,7 @@ include('./inc/header.php');
 <!--ende Slider-->
 
 <!--https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg-->
-				<br><img src="../zahnarzt-alzenau/assets/bilder/GruppenbildNeu.jpg"	width="100%" title="Logo Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Log Zahnarzt Alzenau Dr. Bernhard Fuchs" style="margin-top:30px">
+				<br><img src="../zahnarzt-alzenau/assets/bilder/GruppenbildMitBg.jpg"	width="100%" title="Logo Zahnarzt Alzenau Dr. Bernhard Fuchs" alt="Log Zahnarzt Alzenau Dr. Bernhard Fuchs" style="margin-top:30px">
 
 
 
