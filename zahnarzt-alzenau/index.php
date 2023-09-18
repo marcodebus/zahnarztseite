@@ -70,7 +70,7 @@ include('./inc/header.php');
 								
 
 
-<h4>Sehr geehrte Patienten,
+<!--<h4>Sehr geehrte Patienten,
 	wir machen Urlaub.</h4>
 <p>
 	
@@ -79,7 +79,7 @@ Die Vertretung übernimmt die Gemeinschaftspraxis Dr. Bock & Behne, Im Breitfeld
 	<br>Telefonnummer: 06029/994323<br>
 <br><br>An den Wochenenden erreichen Sie den Zahnärztlichen Notdienst unter der Telefonnummer: 06021/80700.<br><br>
 Ihr Praxisteam
-</p>
+</p>-->
 
 								
 	<!--							
