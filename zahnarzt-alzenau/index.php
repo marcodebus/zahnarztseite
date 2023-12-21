@@ -67,19 +67,22 @@ include('./inc/header.php');
 								
 												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-								
+		
 
 
-<!--<h4>Sehr geehrte Patienten,
+
+					
+
+
+<h4>Sehr geehrte Patienten,
 	wir machen Urlaub.</h4>
 <p>
-	
-Unsere Praxis ist bis 17.09.2023 geschlossen.<br>
-Die Vertretung übernimmt die Gemeinschaftspraxis Dr. Bock & Behne, Im Breitfeld 59, 63776 Mömbris, 
-	<br>Telefonnummer: 06029/994323<br>
-<br><br>An den Wochenenden erreichen Sie den Zahnärztlichen Notdienst unter der Telefonnummer: 06021/80700.<br><br>
-Ihr Praxisteam
-</p>-->
+Sehr geehrte Patienten,<br>
+unsere Praxis ist bis 01.01.2024 geschlossen.<br><br>
+In dringenden Fällen steht der zahnärztliche Notdienst unter der Nummer 06021/80700 für Sie bereit.
+<br><br>Ein frohes Weihnachtsfest und einen guten Rutsch ins Neue Jahr
+wünscht Ihnen ihr Praxisteam
+</p>
 
 								
 	<!--							
