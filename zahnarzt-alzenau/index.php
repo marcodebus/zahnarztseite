@@ -74,7 +74,7 @@ include('./inc/header.php');
 					
 
 
-<h4>Sehr geehrte Patienten,
+<!--<h4>Sehr geehrte Patienten,
 	wir machen Urlaub.</h4>
 <p>
 Sehr geehrte Patienten,<br>
@@ -82,7 +82,7 @@ unsere Praxis ist bis 01.01.2024 geschlossen.<br><br>
 In dringenden Fällen steht der zahnärztliche Notdienst unter der Nummer 06021/80700 für Sie bereit.
 <br><br>Ein frohes Weihnachtsfest und einen guten Rutsch ins Neue Jahr
 wünscht Ihnen ihr Praxisteam
-</p>
+</p>-->
 
 								
 	<!--							
