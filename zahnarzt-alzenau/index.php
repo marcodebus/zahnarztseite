@@ -82,7 +82,7 @@ include('./inc/header.php');
 </p>
 <p style="font-size: 1.5em; font-weight: bold;">
     Die Behandlungsunterlagen wird<br><br>
-    <strong style="color: #3b8cec;">Herr Dr. Sebastian Beissler, <br> Aschaffenburger Str. 12, <br> 63867 Johannesberg, <br> Tel. NR. 06021-425926</strong>, <br>
+    <strong style="color: #3b8cec;">Herr Dr. Sebastian Beissler, <br> Aschaffenburger Str. 12, <br> 63867 Johannesberg, <br> Tel.: 06021-425926</strong>, <br><br>
     übernehmen. Er hat sich auch dazu bereit erklärt, Sie in meinem Sinne weiter zu behandeln.
 </p>
 <p style="font-size: 1.5em; font-weight: bold;">
