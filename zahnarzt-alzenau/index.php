@@ -81,29 +81,8 @@ include('./inc/header.php');
     Die Praxis wird zum 31.07.2024 geschlossen.
 </p>
 <p style="font-size: 1.5em; font-weight: bold;">
-    Die Behandlungsunterlagen wird<br>
-    <strong>Herr Dr. Sebastian Beissler, Aschaffenburger Str. 12, 63867 Johannesberg, Tel. NR. 06021-425926</strong>, 
-    übernehmen. Er hat sich auch dazu bereit erklärt, Sie in meinem Sinne weiter zu behandeln.
-</p>
-<p style="font-size: 1.5em; font-weight: bold;">
-    Ich danke ihnen für ihre langjährige Treue und die schöne Zeit die ich mit ihnen in meiner Praxis verbringen durfte.
-</p>
-<p style="font-size: 1.5em; font-weight: bold;">
-    Alles Liebe und Gute<br>
-    Ihr Dr. Bernhard Fuchs
-</p>
-
-
-
-
-
-<p style="font-size: 1.5em; font-weight: bold;">
-    Ich beende meine Praxistätigkeit und gehe in den Ruhestand.<br>
-    Die Praxis wird demnächst geschlossen.
-</p>
-<p style="font-size: 1.5em; font-weight: bold;">
-    Die Behandlungsunterlagen wird<br>
-    <strong style="color: #3b8cec;">Herr Dr. Sebastian Beissler, Aschaffenburger Str. 12, 63867 Johannesberg, Tel. NR. 06021-425926</strong>, 
+    Die Behandlungsunterlagen wird<br><br>
+    <strong style="color: #3b8cec;">Herr Dr. Sebastian Beissler, <br> Aschaffenburger Str. 12, <br> 63867 Johannesberg, <br> Tel. NR. 06021-425926</strong>, <br>
     übernehmen. Er hat sich auch dazu bereit erklärt, Sie in meinem Sinne weiter zu behandeln.
 </p>
 <p style="font-size: 1.5em; font-weight: bold;">
