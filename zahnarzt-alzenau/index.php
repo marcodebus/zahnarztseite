@@ -94,6 +94,29 @@ include('./inc/header.php');
 </p>
 
 
+
+
+
+
+<p style="font-size: 1.5em; font-weight: bold;">
+    Ich beende meine Praxistätigkeit und gehe in den Ruhestand.<br>
+    Die Praxis wird demnächst geschlossen.
+</p>
+<p style="font-size: 1.5em; font-weight: bold;">
+    Die Behandlungsunterlagen wird<br>
+    <span style="background-color: #3b8cec; display: inline-block;"><strong>Herr Dr. Sebastian Beissler, Aschaffenburger Str. 12, 63867 Johannesberg, Tel. NR. 06021-425926</strong></span>, 
+    übernehmen. Er hat sich auch dazu bereit erklärt, Sie in meinem Sinne weiter zu behandeln.
+</p>
+<p style="font-size: 1.5em; font-weight: bold;">
+    Ich danke ihnen für ihre langjährige Treue und die schöne Zeit die ich mit ihnen in meiner Praxis verbringen durfte.
+</p>
+<p style="font-size: 1.5em; font-weight: bold;">
+    Alles Liebe und Gute<br>
+    Ihr Dr. Bernhard Fuchs
+</p>
+
+
+
 								
 	<!--							
 <h4>Sehr geehrte Patienten,
