@@ -75,9 +75,9 @@ include('./inc/header.php');
 
 
 <h4>Sehr geehrte Patienten,</h4>
-    <p>
+    <p> <bold>
         Ich beende meine Praxistätigkeit und gehe in den Ruhestand.<br>
-        Die Praxis wird demnächst geschlossen.
+        Die Praxis wird demnächst geschlossen. </bold>
     </p>
     <p>
         Die Behandlungsunterlagen wird <br>
