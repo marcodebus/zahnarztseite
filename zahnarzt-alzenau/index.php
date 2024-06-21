@@ -78,7 +78,7 @@ include('./inc/header.php');
    
 <p style="font-size: 1.5em; font-weight: bold;">
     Ich beende meine Praxistätigkeit und gehe in den Ruhestand.<br>
-    Die Praxis wird demnächst geschlossen.
+    Die Praxis wird zum 31.07.2024 geschlossen.
 </p>
 <p style="font-size: 1.5em; font-weight: bold;">
     Die Behandlungsunterlagen wird<br>
