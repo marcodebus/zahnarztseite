@@ -75,10 +75,10 @@ include('./inc/header.php');
 
 
 <h4>Sehr geehrte Patienten,</h4>
-    <p <bold> > 
+    <p> 
         Ich beende meine Praxistätigkeit und gehe in den Ruhestand.<br>
         Die Praxis wird demnächst geschlossen. 
-    < </bold>/p>
+    </p>
     <p>
         Die Behandlungsunterlagen wird <br>
         <strong>Herr Dr. Sebastian Beissler, Aschaffenburger Str. 12, 63867 Johannesberg, Tel. NR. 06021-425926</strong>, 
