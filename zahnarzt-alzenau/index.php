@@ -65,7 +65,7 @@ include('./inc/header.php');
 							<div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#ffeee; border-radius:20px; ">
 								
 								
-											<!--	<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+												<iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
  
 		
 
@@ -74,7 +74,7 @@ include('./inc/header.php');
 					
 
 
-<h4>Sehr geehrte Patienten,</h4>
+<!--<h4>Sehr geehrte Patienten,</h4>
    
 <p style="font-size: 1.5em; font-weight: bold;">
     Ich beende meine Praxistätigkeit und gehe in den Ruhestand.<br>
@@ -91,7 +91,7 @@ include('./inc/header.php');
 <p style="font-size: 1.5em; font-weight: bold;">
     Alles Liebe und Gute<br>
     Ihr Dr. Bernhard Fuchs
-</p>
+</p> -->
 
 
 
