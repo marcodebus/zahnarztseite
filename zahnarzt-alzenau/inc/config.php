@@ -191,10 +191,10 @@ function lang($phrase){
 		'Fr1' => '8:00 – 14:00',
 		'Fr2' => '',
 
-		'MoHeader' => 'Heute geöffnet bis <b>18:00 Uhr</b>',
+		'MoHeader' => 'Heute geöffnet bis <b>17:00 Uhr</b>',
 		'DiHeader' => 'Heute geöffnet bis <b>18:00 Uhr</b>',
-		'MiHeader' => 'Heute geöffnet bis <b>14:00 Uhr</b>',
-		'DoHeader' => 'Heute geöffnet bis <b>18:00 Uhr</b>',
+		'MiHeader' => 'Heute geöffnet bis <b>12:00 Uhr</b>',
+		'DoHeader' => 'Heute geöffnet bis <b>17:00 Uhr</b>',
 		'FrHeader' => 'Heute geöffnet bis <b>14:00 Uhr</b> ',
 		'WEHeader' => 'Heute Geschlossen',
 
