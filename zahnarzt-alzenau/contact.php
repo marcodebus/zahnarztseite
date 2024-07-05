@@ -50,7 +50,7 @@ include('./inc/header.php');
 										<td>Montag<td>
 										<td>8:00 – 13:00<td>
 										<td>und<td>
-										<td> 14:00 – 18:00<td>
+										<td> 14:00 – 17:00<td>
 										<td>Uhr<td>
 									</tr>
 									
@@ -58,13 +58,13 @@ include('./inc/header.php');
 										<td>Dienstag<td>
 										<td> 8:00 – 13:00<td>
 										<td>und<td>
-										<td> 14:00 – 18:00<td>
+										<td> 14:00 – 17:00<td>
 										<td>Uhr<td>
 									</tr>
 									
 								<tr>
 										<td>Mittwoch<td>
-										<td>  7:30 – 13:30<td>
+										<td>  8:00 – 12:00<td>
 										<td><td>
 										<td><td>
 										<td>Uhr<td>
@@ -72,9 +72,9 @@ include('./inc/header.php');
 									
 									<tr>
 										<td>Donnerstag<td>
-										<td> 9:00 – 14:00<td>
+										<td> 8:00 – 13:00<td>
 										<td>und<td>
-										<td> 15:00 – 19:00<td>
+										<td> 14:00 – 17:00<td>
 										<td>Uhr<td>
 									</tr>
 									
@@ -207,10 +207,10 @@ include('./inc/header.php');
 										
 									<img src="assets/bilder/icons/uhr.png" style="">Öffnungszeiten</h5>
 									<div style="padding:20px;">
-										<p>Montag &nbsp; &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 18:00 Uhr</p>
-										<p>Dienstag &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 18:00 Uhr</p>
-										<p>Mittwoch &nbsp; &nbsp; 7:30 – 13:30 Uhr</p>
-										<p>Donnerstag 9:00 – 14:00 und 15:00 – 19:00 Uhr</p>
+										<p>Montag &nbsp; &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
+										<p>Dienstag &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
+										<p>Mittwoch &nbsp; &nbsp; 8:00 – 12:00 Uhr</p>
+										<p>Donnerstag 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
 										<p>Freitag &nbsp; &nbsp; &nbsp; &nbsp; 8:00 – 14:00 Uhr</p>
 									</div>
                                 </div>
