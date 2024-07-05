@@ -345,7 +345,7 @@ include('./inc/header.php');
 										
 									<img src="assets/bilder/icons/uhr.png" style="">Öffnungszeiten</h5>
 									<div style="padding:20px;">
-										<p>Montag &nbsp; &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 18:00 Uhr</p>
+										<p>Montag &nbsp; &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
 										<p>Dienstag &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 18:00 Uhr</p>
 										<p>Mittwoch &nbsp; &nbsp; 7:30 – 13:30 Uhr</p>
 										<p>Donnerstag 9:00 – 14:00 und 15:00 – 19:00 Uhr</p>
