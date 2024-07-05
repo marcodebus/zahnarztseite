@@ -347,8 +347,8 @@ include('./inc/header.php');
 									<div style="padding:20px;">
 										<p>Montag &nbsp; &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
 										<p>Dienstag &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 18:00 Uhr</p>
-										<p>Mittwoch &nbsp; &nbsp; 7:30 – 13:30 Uhr</p>
-										<p>Donnerstag 9:00 – 14:00 und 15:00 – 19:00 Uhr</p>
+										<p>Mittwoch &nbsp; &nbsp; 8:00 – 12:00 Uhr</p>
+										<p>Donnerstag 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
 										<p>Freitag &nbsp; &nbsp; &nbsp; &nbsp; 8:00 – 14:00 Uhr</p>
 									</div>
                                 </div>
