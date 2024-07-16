@@ -323,23 +323,23 @@ function lang($phrase){
 
 		//Team //(1 ist Oben In mitte Geschaeftsleituing)
 		'TeamUUeber1' => '',
-		'TeamBildKopf' => '../zahnarzt-alzenau/assets/bilder/GruppenbildMitBg.jpg',//'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg',
+		'TeamBildKopf' => '../zahnarzt-alzenau/assets/bilder/gruppenbild-2024-07-16.jpg',//'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg',
 		'TeamBildAn1' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_fuchs-1600x1600.png',
     'TeamBildAn2' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_rauch-1600x1600.png',
-		'TeamBildAn3' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_jaxt-1600x1600.png',
+		'TeamBildAn3' => '../zahnarzt-alzenau/assets/bilder/team_isabel.png',
     'TeamBildAn4' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_arzu-1600x1600.png',
-    'TeamBildAn5' => '../zahnarzt-alzenau/assets/bilder/team_isabel.png',
+    'TeamBildAn5' => '../zahnarzt-alzenau/assets/bilder/teambilder/avatar-frau.png',
 
 
     'TeamMitgliedUeber1' => 'Dr. med. dent. Bernhard Fuchs',
     'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp;',
-    'TeamMitgliedUeber3' => 'Anja Jaxt',
+    'TeamMitgliedUeber3' => 'Isabel Domingos',
     'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu',
-    'TeamMitgliedUeber5' => 'Isabel Domingos',
+    'TeamMitgliedUeber5' => 'Alisha Lux',
 
     'TeamMitgliedUUeber1' => 'Mehr als 25 Jahre Berufserfahrung als Zahnarzt',	
     'TeamMitgliedUUeber2' => 'Empfang, Verwaltung, Abrechnung',
-    'TeamMitgliedUUeber3' => 'Assistenz',
+    'TeamMitgliedUUeber3' => 'Auszubildende',
     'TeamMitgliedUUeber4' => 'Behandlungsassistenz',
     'TeamMitgliedUUeber5' => 'Auszubildende',
 	    
@@ -349,9 +349,9 @@ function lang($phrase){
 										<li>Curriculum Zahnärztliche Hypnose </li>
 								</ul>',
     'TeamMitgliedText2' => 'Frau Rauch ist seit 25 Jahren in unserer Praxis tätig <br><br>Sie steht Ihnen in allen organisatorischen Dingen kompetent mit Rat und Tat zur Seite.<br><br><br><br>',
-    'TeamMitgliedText3' => 'Sie ist unsere Prophylaxefee <br>Frau Jaxt hat langjährige Erfahrung in der Behandlungsassistenz, im Labor sowie vor allem auch in der Prophylaxe. 								   Durch ihre mitfühlende und ausgleichende Art ist sie bei unseren Patienten äußerst beliebt.',
+    'TeamMitgliedText3' => 'Unsere Auszubildende. <br><br>Behandlungsassistenz & Prophylaxe, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung.',
     'TeamMitgliedText4' => 'Frau Kalyoncuoglu hat ihre Ausbildung bei uns absolviert und begleitet Sie sanft durch die Behandlung. Überzeugt durch ihre fröhliche, gewinnende 								  Art und ihren herzlichen Umgang mit den Patienten.<br><br>',
-    'TeamMitgliedText5' => 'Unsere Auszubildende. Behandlungsassistenz & Prophylaxe, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung.',
+    'TeamMitgliedText5' => '',
 
 
 
@@ -403,7 +403,7 @@ function lang($phrase){
 		'BlauerBalkenPraxisUeber' => 'Neupatienten',
 		'BlauerBalkenPraxisBild' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_empfang1-1200x1200.jpg',
 		'BlauerBalkenPraxisText' => 'Sie sind neu bei uns? Wir heissen Sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für Sie hier ein paar <br>Informationen zusammengestellt:
-									 <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neupatienten.php"> Informationen für Neupatienten</a>',
+									 <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neu-bei-uns.php"> Informationen für Neupatienten</a>',
 
 
 
@@ -565,7 +565,7 @@ function lang($phrase){
 		'PuZText1' => '<p>beugen Erkrankungen durch Karies und Parodontitis bei Zähnen vor. Außerdem sorgen Sie beim Zahnersatz für eine längere Lebensdauer. Zu den Prophylaxe&shy;maßnahmen zählen Professionelle Zahnreinigung, gesunde Ernährung, kontinuierliche Mundhygiene, regelmäßige Kontrollbesuche beim Zahnarzt und Versiegelung sowie Fluoridierung. Gerade bei der Wiederherstellung der Zahngesundheit sind regelmäßige Kontrollbesuche wichtig für einen dauerhaften Erfolg. Wir unterstützen Sie dabei mit unserem Recall-System.</p>',
         'PuZUeber2' => '<br>Professionelle Zahnreinigung:',
 		'PuZText2' => ' <p>Ein strahlendes Lächeln mit weißen, gepflegten Zähnen ist ein Zeichen von Gesundheit, Jugend und Vitalität. Wir bieten Ihnen Professionelle Zahnreinigung, um dieses Ziel zu erreichen. Die professionelle Zahnreinigung (PZR) ist ein Hauptbestandteil der zahnmedizinischen Prophylaxe. Man versteht darunter eine mechanische Reinigung und das Polieren der Zähne, die deutlich über das hinausgeht, was jeder Mensch selbst täglich erledigen kann. Mit der PZR werden sämtliche harten und weichen Beläge sowie Bakterien beseitigt und damit Karies und Parodontitis effektiv vorgebeugt.</p>',
-        'PuZBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_behandlung5-1000x666.jpg',
+        'PuZBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/teamgalerie/zahnarzt_fuchs_alzenau_besprechung-768x513.jpg',
 		'PuZBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_ernaehrung-1000x666.jpg',
 
 
@@ -596,7 +596,7 @@ function lang($phrase){
 			//Bilder
 	'BehandlungUUeber1' => 'Unsere Leistungen im Überblick',
 	'BB1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/astetik.jpeg',
-    'BB2' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/zahnreinigung.jpeg',
+    'BB2' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/teamgalerie/zahnarzt_fuchs_alzenau_besprechung-768x513.jpg',
 	'BB3' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/daumen.jpeg',
     'BB4' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/kinder.jpeg',
 	'BB5' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/lachgas.jpeg',

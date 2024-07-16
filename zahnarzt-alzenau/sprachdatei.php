@@ -410,7 +410,7 @@ $lang['Download'] = 'Laden';
 $lang['BlauerBalkenPraxisUeber'] = 'Neupatienten';
 $lang['BlauerBalkenPraxisBild'] = 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_empfang1-1200x1200.jpg';
 $lang['BlauerBalkenPraxisText'] = 'Sie sind neu bei uns? Wir heissen sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für sie hier ein paar Informationen zusammengestellt:
-           <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neupatienten.php"> Informationen für Neupatienten</a>';
+           <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neu-bei-uns.php"> Informationen für Neupatienten</a>';
 
 
 

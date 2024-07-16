@@ -117,11 +117,13 @@ include('./inc/header.php');
 			//print_r($a);
 			$i = 1; // Da 0 "" Leerwert enthält (Array Initialisierung
 				echo "<div class=\"row\">";
-			while ($i <= count($bild)-1){ // Minus 1 hinzgefuegt
+			while ($i <= count($bild)-2){ // Minus 1 hinzgefuegt
+
+                // Um Alisha Lux hinzuzufügen -2 auf minus 1 stellen und Texte hinzufügen auf config.php
 
   
 
-						echo" <div class=\"col-sm-12 col-lg-6\" style=\"margin: auto;\">
+						echo" <div class=\"col-sm-12 col-lg-6\" >
                             <div align=\"center\" class=\"background-white pb-4 h-100 radius-secondary\">
                                 <img class=\"mb-4 radius-tr-secondary radius-tl-secondary\"  width=\"250px\" src=\"".$bild[$i]."\" alt=\"Profile Picture\" />
                                 <div class=\"px-4\" data-zanim-timeline=\"{}\" data-zanim-trigger=\"scroll\">
@@ -175,12 +177,12 @@ include('./inc/header.php');
             <div class="background-white px-3 mt-6 px-0 py-5 px-lg-5 radius-secondary">
 
 
-                <div class="row">
+               <!-- <div class="row">
                     <div class="col-12">
                         <img width="100%"
-                            src="../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg">
+                            src="../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbildx-2000x1126.jpeg">
                     </div>
-                </div>
+                </div>-->
                 <?php
 								$all_files = glob("./assets/bilder/teamgalerie/*.*");
 								$j = 0;
