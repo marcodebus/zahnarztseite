@@ -335,11 +335,11 @@ function lang($phrase){
     'TeamMitgliedUeber2' => 'Erika Rauch <br>&nbsp;',
     'TeamMitgliedUeber3' => 'Isabel Domingos',
     'TeamMitgliedUeber4' => 'Arzu Kalyoncuoglu',
-    'TeamMitgliedUeber5' => 'Alisha Lux',
+    'TeamMitgliedUeber5' => '',
 
     'TeamMitgliedUUeber1' => 'Mehr als 25 Jahre Berufserfahrung als Zahnarzt',	
     'TeamMitgliedUUeber2' => 'Empfang, Verwaltung, Abrechnung',
-    'TeamMitgliedUUeber3' => 'Auszubildende',
+    'TeamMitgliedUUeber3' => 'Behandlungsassistenz und Prophylaxe',
     'TeamMitgliedUUeber4' => 'Behandlungsassistenz',
     'TeamMitgliedUUeber5' => 'Auszubildende',
 	    
@@ -348,10 +348,10 @@ function lang($phrase){
 										<li>Curriculum Implantologie</li>
 										<li>Curriculum Zahnärztliche Hypnose </li>
 								</ul>',
-    'TeamMitgliedText2' => 'Frau Rauch ist seit 25 Jahren in unserer Praxis tätig <br><br>Sie steht Ihnen in allen organisatorischen Dingen kompetent mit Rat und Tat zur Seite.<br><br><br><br>',
-    'TeamMitgliedText3' => 'Unsere Auszubildende. <br><br>Behandlungsassistenz & Prophylaxe, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung.',
+    'TeamMitgliedText2' => 'Frau Rauch ist seit 30 Jahren in unserer Praxis tätig. <br><br>Sie steht Ihnen in allen organisatorischen Dingen kompetent mit Rat und Tat zur Seite.<br><br><br><br>',
+    'TeamMitgliedText3' => '<br>Behandlungsassistenz & Prophylaxe, stets gut gelaunt hilft sie Ihnen durch alle Bereiche Ihrer Behandlung.',
     'TeamMitgliedText4' => 'Frau Kalyoncuoglu hat ihre Ausbildung bei uns absolviert und begleitet Sie sanft durch die Behandlung. Überzeugt durch ihre fröhliche, gewinnende 								  Art und ihren herzlichen Umgang mit den Patienten.<br><br>',
-    'TeamMitgliedText5' => '',
+    'TeamMitgliedText5' => '<br>Unsere Auszubildende',
 
 
 

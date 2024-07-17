@@ -117,7 +117,7 @@ include('./inc/header.php');
 			//print_r($a);
 			$i = 1; // Da 0 "" Leerwert enthält (Array Initialisierung
 				echo "<div class=\"row\">";
-			while ($i <= count($bild)-2){ // Minus 1 hinzgefuegt
+			while ($i <= count($bild)-1){ // Minus 1 hinzgefuegt
 
                 // Um Alisha Lux hinzuzufügen -2 auf minus 1 stellen und Texte hinzufügen auf config.php
 
