@@ -126,7 +126,7 @@ Ihre Zahnarztpraxis
 
 
   							
-<h4>Sehr geehrte Patienten,
+<h4> <br> Sehr geehrte Patienten,
 <br>
 	Unsere Praxis ist wegen Urlaub bis 08.09.2024 <br> geschlossen.</h4>
 <p><br><br>
