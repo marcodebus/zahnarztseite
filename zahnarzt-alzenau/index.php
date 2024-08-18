@@ -124,6 +124,32 @@ Ihre Zahnarztpraxis
 
 
 
+
+  							
+<h4>Sehr geehrte Patienten,
+<br>
+	Unsere Praxis ist wegen Urlaub bis 08.09.2024 <br> geschlossen.</h4>
+<p><br><br>
+Die Vertretung übernimmt die <br>
+Praxis Dr. Link,<br>
+Ullastr. 3, 63829 Krombach,<br>
+Telefonnummer: 06024/2220<br>
+<br><br>
+An den Wochenenden erreichen Sie den <br>Zahnärztlichen Notdienst 
+unter der <br>Telefonnummer 06021/80700.
+<br><br>
+
+<br><br>
+Ihr Praxisteam 
+<br><br>
+								Dr. Bernhard Fuchs</p>
+
+			
+
+
+			
+
+
                     <!--<h4>Sehr geehrte Patienten,<br><br>
 									unsere Praxis ist bis zum <br>01.01.2023<br>  geschlossen.<br><br></h4>
 								<h5>
