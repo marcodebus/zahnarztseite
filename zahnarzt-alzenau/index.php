@@ -124,7 +124,7 @@ Ihre Zahnarztpraxis
 
 
 
-
+<!--
   							
 <h4> <br> Sehr geehrte Patienten,
 <br>
@@ -145,7 +145,7 @@ Ihr Praxisteam
 								Dr. Bernhard Fuchs</p>
 
 			
-
+-->
 
 			
 
