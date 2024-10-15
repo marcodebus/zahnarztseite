@@ -285,7 +285,7 @@ Ihr Praxisteam
                                     <div style="overflow-x:auto;">
 
 
-
+<!--
                                         <table>
 
 
@@ -327,7 +327,7 @@ Ihr Praxisteam
 
 
 
-                                        </table>
+                                        </table>-->
                                         <?php /*
 								<div class="col-lg-12  .color-9" style="background-color:#4590e7; padding-top: 20px; padding-bottom: 1px; margin-bottom: 10px; border-radius:20px;">
 									<p align="center" style="color:white;">
