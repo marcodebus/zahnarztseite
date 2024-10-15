@@ -207,11 +207,14 @@ include('./inc/header.php');
 										
 									<img src="assets/bilder/icons/uhr.png" style="">Öffnungszeiten</h5>
 									<div style="padding:20px;">
+										<p>Termine nach Vereinbarung <br> <a href="tel:0602331433">06023 / 31433 </a></p>
+										<!--
 										<p>Montag &nbsp; &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
 										<p>Dienstag &nbsp; &nbsp; 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
 										<p>Mittwoch &nbsp; &nbsp; 8:00 – 12:00 Uhr</p>
 										<p>Donnerstag 8:00 – 13:00 und 14:00 – 17:00 Uhr</p>
 										<p>Freitag &nbsp; &nbsp; &nbsp; &nbsp; 8:00 – 14:00 Uhr</p>
+										-->
 									</div>
                                 </div>
                             </div>
