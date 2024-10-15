@@ -52,7 +52,7 @@
                                      
 									<h5 class="fs-0 fs-lg-1">	 
 										
-									<img src="assets/bilder/icons/uhr.png" style=""><?php echo lang('Open');?></h5>
+									<img src="assets/bilder/icons/uhr.png" style=""><?php echo '<p>Termine nach Vereinbarung <br> <a href="tel:0602331433">06023 / 31433 </a></p>'//lang('Open');?></h5>
 									<div style="">
 							<div class="col-lg-12">
                             <div class="  radius-secondary" align="left" style="padding-left:43px;" >
