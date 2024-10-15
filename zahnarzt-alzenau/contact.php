@@ -44,8 +44,8 @@ include('./inc/header.php');
                         <div class="col-lg-6 mb-4 mb-lg-0">
                             <div class="h-100 px-5 py-4 background-white radius-secondary" align="right" >
                                 <h5 class="mb-3">Öffnungszeiten</h5>
-								
-								<table >
+								<p>Termine nach Vereinbarung <br> <a href="tel:0602331433">06023 / 31433 </a></p>
+								<!--<table >
 									<tr>
 										<td>Montag<td>
 										<td>8:00 – 13:00<td>
@@ -87,7 +87,7 @@ include('./inc/header.php');
 									</tr>
 								
 								</table>
-								     
+								     -->
 							</div>
                         </div>
                        
