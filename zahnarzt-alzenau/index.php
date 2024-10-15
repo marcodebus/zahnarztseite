@@ -284,7 +284,7 @@ Ihr Praxisteam
 
                                     <div style="overflow-x:auto;">
 
-
+<p>Termine nach Vereinbarung <br> <a href="tel:0602331433">06023 / 31433 </a></p>
 <!--
                                         <table>
 
