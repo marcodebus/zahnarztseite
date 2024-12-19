@@ -323,7 +323,7 @@ function lang($phrase){
 
 		//Team //(1 ist Oben In mitte Geschaeftsleituing)
 		'TeamUUeber1' => '',
-		'TeamBildKopf' => '../zahnarzt-alzenau/assets/bilder/gruppenbild-2024-07-16.jpg',//'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg',
+		'TeamBildKopf' => '../assets/bilder/sliderTag.jpg',//'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-2000x1126.jpeg',
 		'TeamBildAn1' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_fuchs-1600x1600.png',
     'TeamBildAn2' => '../wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_rauch-1600x1600.png',
 		'TeamBildAn3' => '../zahnarzt-alzenau/assets/bilder/team_isabel.png',
@@ -401,7 +401,7 @@ function lang($phrase){
 		'Download' => 'Laden',
 
 		'BlauerBalkenPraxisUeber' => 'Neupatienten',
-		'BlauerBalkenPraxisBild' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_empfang1-1200x1200.jpg',
+		'BlauerBalkenPraxisBild' => '../assets/bilder/zahnarzt_fuchs_alzenau_empfang-768-513.jpeg',
 		'BlauerBalkenPraxisText' => 'Sie sind neu bei uns? Wir heissen Sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für Sie hier ein paar <br>Informationen zusammengestellt:
 									 <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neu-bei-uns.php"> Informationen für Neupatienten</a>',
 

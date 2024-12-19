@@ -354,7 +354,7 @@ Ihr Praxisteam
             <br><br><img title="Zahnarzt Alzenau Dr. Bernhard Fuchs" class="radius-secondary" src="<?php
 								 										   //include("./inc/zufallsKontaktBild.php");
 								 									       //echo rotate("./assets/bilder/kontaktbilder/");
-																		echo "https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/webbilder/rauchtelefon.jpg";
+																		echo "../zahnarzt-alzenau/assets/bilder/webbilder/rauchtelefon.jpg";
 
 								 									?>" alt="Zahnarzt Alzenau Dr. Bernhard Fuchs Bewertung">
         </div>

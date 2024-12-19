@@ -58,7 +58,7 @@ include('./inc/header.php');
 
 					<div class="background-holder radius-tl-secondary radius-bl-lg-secondary radius-tr-secondary radius-tr-lg-0" style="background-color:white; ">
 					 </div>
-                            <img  style="background-color:white; border-radius:50%;"	width="100%" src="<?php echo lang('NeupatientenBild');?>">
+                            <img  style="background-color:white; border-radius:50%;"	width="100%" src="../assets/bilder/neu-bei-uns.jpeg">
 
                         </div>
                     </div>

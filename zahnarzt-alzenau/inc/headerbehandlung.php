@@ -180,11 +180,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li>
 
 
-
+<!--
                             <li>
                                 <a class="d-block" href="team.php"><?php echo lang('TeamMenu')?></a>
                             </li>
-
+-->
 
                             <li>
                                 <a class="d-block" href="oeffnungszeiten.php"><?php echo lang('OeffnungszeitenMenu')?></a>

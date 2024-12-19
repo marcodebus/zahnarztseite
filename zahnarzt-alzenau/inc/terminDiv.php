@@ -21,7 +21,7 @@
 																		echo $FixContact;
 																	}else{
 																		include("./inc/zufallsKontaktBild.php");
-																			if($bild === "./zahnarzt-alzenau/assets/bilder/kontaktbilder/gruppenbild-2024-07-16.jpg"){
+																			if($bild === "../zahnarzt-alzenau/assets/bilder/teamgalerie/zahnarzt_fuchs_alzenau_behandlung_abgeschlossen-768x513.jpg"){
 																	    	echo  $bild;
 																			}else{
 																				echo rotate("./assets/bilder/kontaktbilder/");
