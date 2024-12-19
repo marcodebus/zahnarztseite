@@ -67,9 +67,9 @@ include('./inc/header.php');
                 <div class="col-lg-12 px-5 py-6 my-lg-0" style="background-color:#ffeee; border-radius:20px; ">
 
 
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0"
+                <!--    <iframe width="100%" height="315" src="https://www.youtube.com/embed/uDbga9Kg8ew" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
+                        allowfullscreen></iframe>-->
 
 
 
@@ -119,7 +119,7 @@ Sie da.
 Ihre Zahnarztpraxis 
 <br><br>
 								Dr. Bernhard Fuchs</p>
--->
+
 
 
 
