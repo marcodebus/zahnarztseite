@@ -99,17 +99,17 @@ include('./inc/header.php');
 
 
 
-
+<!--
                     							
 <h4>Sehr geehrte Patienten,
 <br>
 	wir machen Urlaub bis 01. Januar 2025</h4>
-<p><br><!--<br>
+<p><br><br>
 Die Vertretung übernimmt die <br>
 Gemeinschaftspraxis Dr. Bock & Behne,<br>
 Im Breitfeld 59, 63776 Mömbris,<br>
 Telefonnummer: 06029/994323<br>
-<br><br>-->
+<br><br>
 Den zahnärzlichen Notdienst erreichen Sie unter der Telefonnummer 06021/80700 
 <br><br>
 Wir wünschen Ihnen schöne Feiertage und einen Guten Rutsch.
@@ -120,7 +120,7 @@ Ihre Zahnarztpraxis
 <br><br>
 								Dr. Bernhard Fuchs</p>
 
-
+-->
 
 
 <!--
