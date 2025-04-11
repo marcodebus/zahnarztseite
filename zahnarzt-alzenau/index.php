@@ -161,7 +161,7 @@ if ($heute <= $schlussdatum): ?>
         In dringenden Fällen steht der <br> zahnärztliche Notdienst  
         unter der <br> Nummer: 06021-80700 für Sie bereit.
         <br><br>
-        Ein frohes Osterfest wünscht Ihnen Ihr Praxisteam<br><br>
+        Ein frohes Osterfest wünscht Ihnen Ihr Praxisteam.<br><br>
     </h5>
 <?php endif; ?>
 
