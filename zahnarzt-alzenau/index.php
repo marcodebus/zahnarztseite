@@ -148,20 +148,23 @@ Ihr Praxisteam
 
 			
 
+<?php
+$schlussdatum = strtotime('2025-04-21');
+$heute = time();
 
-                    <!--<h4>Sehr geehrte Patienten,<br><br>
-									unsere Praxis ist bis zum <br>01.01.2023<br>  geschlossen.<br><br></h4>
-								<h5>
-								In dringenden Fällen steht der <br> zahnärztliche Notdienst  
-								unter der <br> Nummer: 06021-80700  für Sie bereit.
-								
-								<br><br>Ein frohes Weihnachtsfest und einen guten Rutsch ins Neue Jahr
-									
-									<br><br>wünscht Ihnen ihr Praxisteam<br><br>-->
+if ($heute <= $schlussdatum): ?>
+    <h4>Sehr geehrte Patienten,<br><br>
+        unsere Praxis ist bis zum <br>21.04.2025<br> geschlossen.<br><br> Ab Dienstag, 22.April sind wir wieder wie gewohnt für Sie da.
 
+    </h4>
+    <h5>
+        In dringenden Fällen steht der <br> zahnärztliche Notdienst  
+        unter der <br> Nummer: 06021-80700 für Sie bereit.
+        <br><br>
+        Ein frohes Osterfest wünscht Ihnen Ihr Praxisteam<br><br>
+    </h5>
+<?php endif; ?>
 
-
-                    </h5>
 
 
 
