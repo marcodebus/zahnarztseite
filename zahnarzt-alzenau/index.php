@@ -154,7 +154,7 @@ $heute = time();
 
 if ($heute <= $schlussdatum): ?>
     <h4>Sehr geehrte Patienten,<br><br>
-        unsere Praxis ist bis zum <br>21.04.2025<br> geschlossen.<br><br> Ab Dienstag, 22.April sind wir wieder wie gewohnt für Sie da.
+        unsere Praxis ist bis zum <br>21.04.2025<br> geschlossen.<br><br> Ab Dienstag, 22. April sind wir wieder wie gewohnt für Sie da.
 
     </h4>
     <h5>
