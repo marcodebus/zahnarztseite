@@ -1,4 +1,6 @@
 <?php
+header('Location: http://zahnarzt-fuchs-alzenau.de');
+
 error_reporting(0);
 session_start();
 include('./inc/config.php');
