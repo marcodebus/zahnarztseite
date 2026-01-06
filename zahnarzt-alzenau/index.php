@@ -357,7 +357,7 @@ if ($heute <= $schlussdatum): ?>
             <br><br><img title="Zahnarzt Alzenau Dr. Bernhard Fuchs" class="radius-secondary" src="<?php
 								 										   //include("./inc/zufallsKontaktBild.php");
 								 									       //echo rotate("./assets/bilder/kontaktbilder/");
-																		echo "../zahnarzt-alzenau/assets/bilder/webbilder/rauchtelefon.jpg";
+																		echo "../zahnarzt-alzenau/assets/bilder/webbilder/info-telefon.jpg";
 
 								 									?>" alt="Zahnarzt Alzenau Dr. Bernhard Fuchs Bewertung">
         </div>
