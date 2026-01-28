@@ -200,7 +200,7 @@ function lang($phrase){
 
 
 		// 8 Gruende
-		'8GUeber' => '7 Gründe für unsere Praxis in Alzenau Hörstein',
+		'8GUeber' => '6 Gründe für unsere Praxis in Alzenau Hörstein',
 
         '1Ueber8Gr' => 'Sanfte und angstfreie Zahnheilkunde:',
 		'1Text8Gr' => 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch Sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.',
@@ -401,7 +401,7 @@ function lang($phrase){
 		'Download' => 'Laden',
 
 		'BlauerBalkenPraxisUeber' => 'Neupatienten',
-		'BlauerBalkenPraxisBild' => '../assets/bilder/zahnarzt_fuchs_alzenau_empfang-768-513.jpeg',
+		'BlauerBalkenPraxisBild' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/sliderTagQ.jpg',
 		'BlauerBalkenPraxisText' => 'Sie sind neu bei uns? Wir heissen Sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für Sie hier ein paar <br>Informationen zusammengestellt:
 									 <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neu-bei-uns.php"> Informationen für Neupatienten</a>',
 
