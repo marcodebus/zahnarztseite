@@ -191,30 +191,30 @@ $lang['und'] = ' und ';
 $lang['Uhr'] = ' Uhr';
 $lang['Mo'] = 'Montag ';
 $lang['Mo1'] = '8:00 – 13:00';
-$lang['Mo2'] = '14:00 – 18:00';
+$lang['Mo2'] = '';
 $lang['Di'] = 'Dienstag ';
 $lang['Di1'] = '8:00 – 13:00';
 $lang['Di2'] = '14:00 – 18:00';
 $lang['Mi'] = 'Mittwoch ';
-$lang['Mi1'] = '7:30 – 13:30';
+$lang['Mi1'] = '8 – 13:00';
 $lang['Mi2'] = '';
 $lang['Do'] = 'Donnerstag ';
-$lang['Do1'] = '9:00 – 14:00';
-$lang['Do2'] = '15:00 – 19:00 ';
+$lang['Do1'] = '8:00 – 13:00';
+$lang['Do2'] = '14:00 – 18:00 ';
 $lang['Fr'] = 'Freitag ';
-$lang['Fr1'] = '8:00 – 14:00';
+$lang['Fr1'] = '8:00 – 13:00';
 $lang['Fr2'] = '';
 
-$lang['MoHeader'] = 'Heute geöffnet bis <b>18:00 Uhr</b>';
+$lang['MoHeader'] = 'Heute geöffnet bis <b>13:00 Uhr</b>';
 $lang['DiHeader'] = 'Heute geöffnet bis <b>18:00 Uhr</b>';
-$lang['MiHeader'] = 'Heute geöffnet bis <b>13:30 Uhr</b>';
-$lang['DoHeader'] = 'Heute geöffnet bis <b>19:00 Uhr</b>';
-$lang['FrHeader'] = 'Heute geöffnet bis <b>14:00 Uhr</b> ';
+$lang['MiHeader'] = 'Heute geöffnet bis <b>13:00 Uhr</b>';
+$lang['DoHeader'] = 'Heute geöffnet bis <b>18:00 Uhr</b>';
+$lang['FrHeader'] = 'Heute geöffnet bis <b>13:00 Uhr</b> ';
 $lang['WEHeader'] = 'Heute Geschlossen';
 
 
 // 8 Gruende
-$lang['8GUeber'] = '8 Gründe für unsere Praxis in Alzenau Hörstein';
+$lang['8GUeber'] = '6 Gründe für unsere Praxis in Alzenau Hörstein';
 
 $lang['1Ueber8Gr'] = 'Sanfte und angstfreie Zahnheilkunde:';
 $lang['1Text8Gr'] = 'Seit über 20 Jahren behandeln wir Angstpatienten. Wenn auch sie Angst vor der Zahnbehandlung haben, können wir Ihnen helfen.';
@@ -369,7 +369,7 @@ $lang['GaleriePfad'] = '';
 
 
 //Oeffnungszeiten Seite
-$lang['OeffnungszeitenBild'] = 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/webbilder/daumenHoch.jpg';
+$lang['OeffnungszeitenBild'] = 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/neu/begruesung.jpg';
 $lang['OeffnungszeitenSubUeber'] = 'Ab sofort bieten wir Ihnen eine Früh- und Abendsprechstunde an:';
 $lang['OeffnungszeitenText'] = '
   Bitte beachten Sie, dass wir donnerstags erst ab 10:00 Uhr erreichbar sind!';
@@ -616,7 +616,7 @@ $lang['BU6'] = 'Entspannte Behandlung (Lachgas, Tiefschlaf, Vollnarkose)';
 $lang['BU7'] = 'Moderne Endodontie (Wurzelkanalbehandlung)';
 $lang['BU8'] = 'Vollkeramik';
 $lang['BU9'] = 'Hochwertiger Zahnersatz';
-$lang['BU10'] = 'Implantate';
+$lang['BU10'] = 'Zahnersatz Versorgung auf Implantate';
 
 
 

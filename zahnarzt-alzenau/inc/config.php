@@ -164,7 +164,7 @@ function lang($phrase){
 		'Telefon' => 'Telefon 06023 31433',
 		'TelefonLink' => 'tel:0602331433',
         'Fax' => 'Telefax 06023 - 31866',
-		'Email' => '<a title=”Zahnarzt Alzenau Dr. Bernhard Fuchs Email” href="mailto:info@zahnarztalzenau.com">info@zahnarztalzenau.com</small></a>',
+		'Email' => '<a title=”Zahnarzt Alzenau Dr. Bernhard Fuchs Email” href="mailto:willkommen@zahnarzt-fuchs-alzenau.de">willkommen@zahnarzt-fuchs-alzenau.de</small></a>',
 
 		//Adresse
 		'Strasse' => 'Roter Rain 9,  ',
@@ -177,7 +177,7 @@ function lang($phrase){
         'Uhr' => ' Uhr',
 		'Mo' => 'Montag ',
 	        'Mo1' => '8:00 – 13:00',
-		'Mo2' => '14:00 – 17:00',
+		'Mo2' => '',
 		'Di' => 'Dienstag ',
 		'Di1' => '8:00 – 13:00',
 		'Di2' => '14:00 – 18:00',
@@ -188,14 +188,14 @@ function lang($phrase){
 		'Do1' => '8:00 – 13:00',
 		'Do2' => '14:00 – 17:00 ',
 		'Fr' => 'Freitag ',
-		'Fr1' => '8:00 – 14:00',
+		'Fr1' => '8:00 – 13:00',
 		'Fr2' => '',
 
-		'MoHeader' => 'Heute geöffnet bis <b>17:00 Uhr</b>',
+		'MoHeader' => 'Heute geöffnet bis <b>13:00 Uhr</b>',
 		'DiHeader' => 'Heute geöffnet bis <b>18:00 Uhr</b>',
-		'MiHeader' => 'Heute geöffnet bis <b>12:00 Uhr</b>',
-		'DoHeader' => 'Heute geöffnet bis <b>17:00 Uhr</b>',
-		'FrHeader' => 'Heute geöffnet bis <b>14:00 Uhr</b> ',
+		'MiHeader' => 'Heute geöffnet bis <b>13:00 Uhr</b>',
+		'DoHeader' => 'Heute geöffnet bis <b>18:00 Uhr</b>',
+		'FrHeader' => 'Heute geöffnet bis <b>13:00 Uhr</b> ',
 		'WEHeader' => 'Heute Geschlossen',
 
 
@@ -362,7 +362,7 @@ function lang($phrase){
 
 
 		//Oeffnungszeiten Seite
-		'OeffnungszeitenBild' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/webbilder/daumenHoch.jpg',
+		'OeffnungszeitenBild' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/neu/begruesung.jpg',
         'OeffnungszeitenSubUeber' => 'Nachfolgend finden Sie unsere Sprechstundenzeiten:',
 		'OeffnungszeitenText' => '
 					Bitte beachten Sie, dass wir donnerstags erst ab 9:00 Uhr erreichbar sind!',
@@ -613,7 +613,7 @@ function lang($phrase){
 	'BU5' => 'Entspannte Behandlung (Tiefschlaf, Vollnarkose)',
     'BU6' => 'Moderne Endodontie (Wurzelkanalbehandlung)',
 	'BU7' => 'Hochwertiger Zahnersatz',
-    'BU8' => 'Implantate',
+    'BU8' => 'Zahnersatz Versorgung auf Implantate',
 	'BU9' => 'Weiße Füllungen',
     'BU10' => 'Vollkeramik',
 

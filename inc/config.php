@@ -352,7 +352,7 @@ function lang($phrase){
 		
 		
 		//Oeffnungszeiten Seite
-		'OeffnungszeitenBild' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/webbilder/daumenHoch.jpg',	
+		'OeffnungszeitenBild' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/neu/begruesung.jpg',	
         'OeffnungszeitenSubUeber' => 'Ab sofort bieten wir Ihnen eine Früh- und Abendsprechstunde an:',	
 		'OeffnungszeitenText' => '
 						<br><br>Bitte beachten Sie, dass wir donnerstags erst ab 10:00 Uhr erreichbar sind!<br><br>',
@@ -582,7 +582,7 @@ Mit Vollkeramik erreichen wir ein besonders natürliches Aussehen Ihrer Zähne u
 		'BU7' => 'Moderne Endodontie (Wurzelkanalbehandlung)',
         'BU8' => 'Vollkeramik',
 		'BU9' => 'Hochwertiger Zahnersatz',
-        'BU10' => 'Implantate',
+        'BU10' => 'Zahnersatz Versorgung auf Implantate',
 		
 	
 	 

@@ -44,13 +44,13 @@ include('./inc/header.php');
                         <div class="col-lg-6 mb-4 mb-lg-0">
                             <div class="h-100 px-5 py-4 background-white radius-secondary" align="right" >
                                 <h5 class="mb-3">Öffnungszeiten</h5>
-								<p>Termine nach Vereinbarung <br> <a href="tel:0602331433">06023 / 31433 </a></p>
-								<!--<table >
+								<!--<p>Termine nach Vereinbarung <br> <a href="tel:0602331433">06023 / 31433 </a></p>-->
+								<table >
 									<tr>
 										<td>Montag<td>
 										<td>8:00 – 13:00<td>
 										<td>und<td>
-										<td> 14:00 – 17:00<td>
+										<td> <td>
 										<td>Uhr<td>
 									</tr>
 									
@@ -58,13 +58,13 @@ include('./inc/header.php');
 										<td>Dienstag<td>
 										<td> 8:00 – 13:00<td>
 										<td>und<td>
-										<td> 14:00 – 17:00<td>
+										<td> 14:00 – 18:00<td>
 										<td>Uhr<td>
 									</tr>
 									
 								<tr>
 										<td>Mittwoch<td>
-										<td>  8:00 – 12:00<td>
+										<td>  8:00 – 13:00<td>
 										<td><td>
 										<td><td>
 										<td>Uhr<td>
@@ -80,14 +80,14 @@ include('./inc/header.php');
 									
 									<tr>
 										<td>Freitag<td>
-										<td> 8:00 – 14:00<td>
+										<td> 8:00 – 13:00<td>
 										<td><td>
 										<td><td>
 										<td>Uhr<td>
 									</tr>
 								
 								</table>
-								     -->
+								     
 							</div>
                         </div>
                        

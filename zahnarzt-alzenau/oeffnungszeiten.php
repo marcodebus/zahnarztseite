@@ -47,8 +47,8 @@ include('./inc/headerSlider.php');
 									<div style="">
 							<div class="col-lg-12">
                             <div class="  radius-secondary" align="left" style="padding-left:43px;" >
-				<p>Termine nach Vereinbarung <br> <a href="tel:0602331433" >06023 / 31433 </a></p>
-								<!--<div style="overflow-x:auto;">
+				<!--<p>Termine nach Vereinbarung <br> <a href="tel:0602331433" >06023 / 31433 </a></p>-->
+								<div style="overflow-x:auto;">
 
 
 
@@ -92,7 +92,7 @@ include('./inc/headerSlider.php');
 
 
 								</table>
-								</div>-->
+								</div>
 
 							</div>
                         </div>

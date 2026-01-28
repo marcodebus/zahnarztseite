@@ -34,7 +34,7 @@ $FixContact = "";
         </div>
 
         <div class="row no-gutters pos-relative mt-4 mt-lg-0">
-            <div class="elixir-caret d-none d-lg-block"></div>
+            <!--<div class="elixir-caret d-none d-lg-block"></div>-->
             <div class="col-lg-6 py-3 py-lg-0 mb-0 order-lg-2" >
                 <div class="background-holder radius-tl-secondary radius-tl-lg-0 radius-tr-secondary radius-tr-lg-0"
                     style="background-image:url(<?php echo lang('BildPraxis');?>);"> </div>
