@@ -401,7 +401,7 @@ function lang($phrase){
 		'Download' => 'Laden',
 
 		'BlauerBalkenPraxisUeber' => 'Neupatienten',
-		'BlauerBalkenPraxisBild' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/sliderTagQ.jpg',
+		'BlauerBalkenPraxisBild' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/sliderTag2-1.jpg',
 		'BlauerBalkenPraxisText' => 'Sie sind neu bei uns? Wir heissen Sie herzlich willkommen. <br> Zur 											 besseren Orientierung haben wir für Sie hier ein paar <br>Informationen zusammengestellt:
 									 <br><br><a title=”Zahnarzt Fuchs Neupatienten Alzenau” href="./neu-bei-uns.php"> Informationen für Neupatienten</a>',
 
