@@ -37,7 +37,7 @@
                                        <img src="assets/bilder/icons/fax.png" style=""><?php echo lang('Fax');?></h5>
                                 </div>
                             </div>
-	
+	<!--n-->
 							
 							<div class="overflow-hidden" style="margin: 10px;">
                                 <div class="" data-zanim='{"delay":0.1}'>
