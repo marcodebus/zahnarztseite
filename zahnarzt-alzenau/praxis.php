@@ -35,13 +35,13 @@ $FixContact = "";
 
         <div class="row no-gutters pos-relative mt-4 mt-lg-0">
             <div class="elixir-caret d-none d-lg-block"></div>
-            <div class="col-lg-6 py-3 py-lg-0 mb-0 order-lg-2" style="min-height:400px;">
+            <div class="col-lg-6 py-3 py-lg-0 mb-0 order-lg-2" >
                 <div class="background-holder radius-tl-secondary radius-tl-lg-0 radius-tr-secondary radius-tr-lg-0"
                     style="background-image:url(<?php echo lang('BildPraxis');?>);"> </div>
                 <!--/.background-holder-->
             </div>
             <div
-                class="col-lg-6 px-lg-5 py-lg-6 p-4 my-lg-0 background-white radius-bl-secondary radius-bl-lg-0 radius-br-secondary radius-br-lg-0">
+                class="col-lg-12 px-lg-12 py-lg-6 p-4 my-lg-0 background-white radius-bl-secondary radius-bl-lg-0 radius-br-secondary radius-br-lg-0">
                 <div class="d-flex align-items-center h-100">
                     <div data-zanim-timeline="{}" data-zanim-trigger="scroll">
                         <div class="overflow-hidden">
@@ -104,42 +104,47 @@ include('./inc/praxisgruende.php');
 
 
         <?php
-								$all_files = glob("./assets/bilder/praxisgalerie/*.*");
-								$j = 0;
-								 echo "<div class=\"row\"> ";
-								  for ($i=0; $i<count($all_files); $i++)
-									{
-									  $image_name = $all_files[$i];
-									  $supported_format = array('gif','jpg','jpeg','png');
-									  $ext = strtolower(pathinfo($image_name, PATHINFO_EXTENSION));
-									  if (in_array($ext, $supported_format))
-										  {
+$all_files = glob("./assets/bilder/praxisgalerie/*.*");
+$supported_format = array('gif','jpg','jpeg','png');
 
+/* gültige Bilder zählen */
+$images = array();
+for ($i = 0; $i < count($all_files); $i++) {
+  $ext = strtolower(pathinfo($all_files[$i], PATHINFO_EXTENSION));
+  if (in_array($ext, $supported_format)) {
+    $images[] = $all_files[$i];
+  }
+}
 
+$total = count($images);
+$cols  = 2;
+$perCol = ceil($total / $cols);
 
-										  if($j % 3  == 0 ){
+echo "<div class=\"row\">";
 
- 												 	echo "
-													<div class=\"column\">
-										  			 <img src=\"".$image_name ."\" alt=\"".$image_name."\" title=\"Zahnarzt Fuchs in Alzenau der Praxis \" style=\"width:100%\">
-												    ";
+$j = 0;
 
-										  }else if($j % 3  == 2){
+/* erste Spalte */
+echo "<div class=\"column\">";
+for ($i = 0; $i < $perCol && $j < $total; $i++, $j++) {
+  echo "<img src=\"".$images[$j]."\" 
+            alt=\"".$images[$j]."\" 
+            title=\"Zahnarzt Fuchs Alzenau Ihr Zahnarzt für Alzenau\" 
+            style=\"width:100%\">";
+}
+echo "</div>";
 
-											 echo " <img src=\"".$image_name ."\" alt=\"".$image_name."\"  title=\"Zahnarzt Fuchs Alzenau Ihr Zahnarzt für Alzenau\" style=\"width:100%\">
-											 		</div>";
+/* zweite Spalte */
+echo "<div class=\"column\">";
+for (; $j < $total; $j++) {
+  echo "<img src=\"".$images[$j]."\" 
+            alt=\"".$images[$j]."\" 
+            title=\"Zahnarzt Fuchs Alzenau Ihr Zahnarzt für Alzenau\" 
+            style=\"width:100%\">";
+}
+echo "</div>";
 
-										  }else{
-											   echo "<img src=\"".$image_name ."\" alt=\"".$image_name."\"  title=\"Zahnarzt Fuchs Alzenau Ihr Zahnarzt für Alzenau\" style=\"width:100%\">";
-										  }
-
-											//echo '<img src="'.$image_name .'" alt="'.$image_name.'" />'."<br /><br />";
-									   } else {
-											continue;
-										}
-									  $j = $j +1;
-									}
-								 echo"</div>";
+echo "</div>";
 
 
 								?>
