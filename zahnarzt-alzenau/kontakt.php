@@ -35,7 +35,7 @@ include('./inc/header.php');
             <div class="col-xs-0 col-sm-0 col-lg-2 col-xl-2"></div>
             <div class="col text-right col-xs-12 col-sm-12 col-lg-8 col-xl-8">
                 <img width="100%" align="center" style="padding:20px; border-radius: 10px;"
-                    src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/teamgalerie/zahnarzt_fuchs_alzenau_behandlung_abgeschlossen-768x513.jpg">
+                    src="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/praxisgalerie/190112-121331-DSC_0848.jpg">
             </div>
             <div class="col-xs-0 col-sm-0 col-lg-2 col-xl-2"></div>
         </div>

@@ -132,6 +132,32 @@ include('./inc/header.php');
                             </div>
                         </div>
 
+                        <div class="col-sm-12 col-md-12 col-lg-4" style="margin: auto;">
+                            <div class="background-white pb-4 h-100 radius-secondary">
+
+                                <div class="px-4">
+                                    <div class="overflow-hidden">
+                                        <h5><?php echo "Abrechnung";?></h5>
+                                    </div>
+                                    <div class="overflow-hidden">
+                                        <h6 class="fw-400 color-7"></h6>
+                                    </div>
+                                    <div class="overflow-hidden">
+                                        <p class="py-3 mb-0">
+                                            <?php echo "Hier stellen wir Ihnen den Abrechnungsbogen sowie wichtige Informationen zur Rechnungsstellung und zum Datenschutz zur Verfügung. Bitte laden Sie das Dokument herunter, füllen Sie es vollständig aus und bringen Sie es falls erforderlich zu Ihrem Termin mit. ";?>
+
+                                            <br><br><br>
+                                            <a href="<?php echo "https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/downloads/Abrechungsbogen.pdf";?>"
+                                                class="btn btn-icon btn-outline-primary btn-icon-left btn-capsule">
+                                                <span class="icon-File-Download">
+                                                </span><?php echo lang('Download');?>
+                                            </a>
+                                            <br>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                 </div>

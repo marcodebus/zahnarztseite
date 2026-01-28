@@ -513,7 +513,7 @@ Die Implantatprothetik erhalten Sie dann von uns.',
 		'MEUeber2' => '',
         'MeText2' => '<p>Weiterhin wird in unserer Praxis mit Lupenbrille , elektronischer Längenbestimmung des Wurzelkanals  und 						speziellen Ultraschallgeräten bei der Aufbereitung gearbeitet.
 				Außerdem bieten wir auch den Austausch (Revision) von alten unvollständigen Wurzelfüllungen an. Mit all diesen 					Maßnahmen schaffen wir die optimalen Voraussetzungen, dass Sie ihren eigenen Zahn noch viele Jahre behalten können 				   .</p>',
-		'MEBild1' => 'https://zahn.debus-software.de/zahnarzt-alzenau/assets/bilder/wurzelbehandlung.jpg',
+		'MEBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/wurzelbehandlung.jpg',
         'MEBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_EndodontieZahn3-832x835.png',
 		'MEBild3' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_EndodontieZahn3-832x835.png',
         'MEBild4' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_EndodontieZahn4-836x827.png',
@@ -582,7 +582,7 @@ Mit Vollkeramik erreichen wir ein besonders natürliches Aussehen Ihrer Zähne u
 		'BU7' => 'Moderne Endodontie (Wurzelkanalbehandlung)',
         'BU8' => 'Vollkeramik',
 		'BU9' => 'Hochwertiger Zahnersatz',
-        'BU10' => 'Zahnersatz Versorgung auf Implantate',
+        'BU10' => 'Zahnersatzversorgung auf Implantate',
 		
 	
 	 

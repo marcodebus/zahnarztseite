@@ -285,9 +285,9 @@ if ($heute <= $schlussdatum): ?>
                                 <div class="  radius-secondary" align="left" style="padding-left:43px;">
 
                                     <div style="overflow-x:auto;">
-
-<p>Termine nach Vereinbarung <br> <a href="tel:0602331433">06023 / 31433 </a></p>
 <!--
+<p>Termine nach Vereinbarung <br> <a href="tel:0602331433">06023 / 31433 </a></p>
+-->
                                         <table>
 
 
@@ -329,7 +329,7 @@ if ($heute <= $schlussdatum): ?>
 
 
 
-                                        </table>-->
+                                        </table>
                                         <?php /*
 								<div class="col-lg-12  .color-9" style="background-color:#4590e7; padding-top: 20px; padding-bottom: 1px; margin-bottom: 10px; border-radius:20px;">
 									<p align="center" style="color:white;">
@@ -357,7 +357,7 @@ if ($heute <= $schlussdatum): ?>
             <br><br><img title="Zahnarzt Alzenau Dr. Bernhard Fuchs" class="radius-secondary" src="<?php
 								 										   //include("./inc/zufallsKontaktBild.php");
 								 									       //echo rotate("./assets/bilder/kontaktbilder/");
-																		echo "../zahnarzt-alzenau/assets/bilder/webbilder/info-telefon.jpg";
+																		echo "../zahnarzt-alzenau/assets/bilder/behandlungen/begruessung.jpeg";
 
 								 									?>" alt="Zahnarzt Alzenau Dr. Bernhard Fuchs Bewertung">
         </div>

@@ -47,7 +47,7 @@
                             <p class="color-white lh-4 fs--1 mb-0 fw-600"> <?php echo lang('FooterM');?> </p>
                         </div>
                         <div class="col text-sm-right mt-3 fs--1 mt-sm-0">
-                            <a class="color-white" href="https://debus-software.de/" target="_blank">  <?php echo lang('FooterR');?> </a>
+                            <a class="color-white" href="https://lippe.io/" title="Lippe.io Werbeagentur" target="_blank">  <?php echo lang('FooterR');?> </a>
                         </div>
                     </div>
                     <!--/.row-->
