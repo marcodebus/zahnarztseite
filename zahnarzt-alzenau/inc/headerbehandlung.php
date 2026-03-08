@@ -193,7 +193,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <li>
                                 <a class="d-block" href="neu-bei-uns.php"><?php echo lang('NeuMenu')?></a>
                             </li>
-
+							<li>
+                                <a class="d-block" href="https://www.doctolib.de/zahnarztpraxis/alzenau/zahnarztpraxis-bernhard-fuchs">Online Termin</a>
+                            </li>
                             <li>
                                 <a class="d-block" href="kontakt.php"><?php echo lang('KontaktMenu')?></a>
                             </li>
