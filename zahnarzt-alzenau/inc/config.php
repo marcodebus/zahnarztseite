@@ -448,7 +448,7 @@ function lang($phrase){
 
 				'AZBlockquote' => 'Wir sind Experten für schöne Zähne!',
 				'AZBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/d007-800x800-700x700-700x700.jpg',
-				'AZBild2' => 'https://zahnarzt-fuchs-alzenau.dezahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_gruppenbild-1000x562.jpeg',
+				'AZBild2' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_gruppenbild-1000x562.jpeg',
 
 
 		//Lachgas
@@ -654,4 +654,5 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
 
