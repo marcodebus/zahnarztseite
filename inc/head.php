@@ -323,4 +323,15 @@ th, td {
 }
 </script>
 
+
 </head>
+
+<style>.doctolib-widget{position:fixed;top:200px;right:0;display:block;text-align:center;background:#00264c !important;color:#00264c !important;text-decoration:none !important;font-size:16px !important;font-weight:700;font-family:'Montserrat',sans-serif;width:auto;border-radius:4px 0 0 4px;padding:5px;z-index:999;opacity:.8;box-shadow:1px 2px 4px rgba(0,0,0,.2);line-height:1.4}
+.doctolib-widget a{display:block;color:#00264c;text-decoration:none;padding:6px;margin-top:5px;background:#fff;border-radius:4px;font-weight:700;transition:.2s}
+.doctolib-widget a:hover,.doctolib-widget a:focus{opacity:.9;outline:2px solid #f5f5f5;outline-offset:2px}
+.doctolib-widget img{display:inline-block;height:18px;margin:3px 0;vertical-align:middle;width:auto}@media(max-width:600px){
+.doctolib-widget{top:auto;bottom:10px;right:0px;width:auto !important;padding:4px}
+.doctolib-widget a{text-decoration:none;font-size:16px;font-weight:700;padding:5px} }@media(prefers-reduced-motion:reduce){*{transition:none!important} }
+</style><nav class="doctolib-widget" id="doctolib-nav" aria-label="Doctolib Schnellzugriff"><a href="#maincontent" class="skip-link" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden">Zum Hauptinhalt springen</a><img src="https://www.doctolib.de/external_button/doctolib-white-transparent.png" alt="Doctolib Logo"/>
+<a href="https://www.doctolib.de/zahnarztpraxis/alzenau/zahnarztpraxis-bernhard-fuchs?utm_campaign=website-button&utm_source=online-booking&utm_medium=referral" target="_blank" rel="noopener noreferrer" aria-label="Termin Online über Doctolib buchen">Termin</a>
+<a href="https://www.doctolib.de/zahnarztpraxis/alzenau/zahnarztpraxis-bernhard-fuchs/patient-request?utm_campaign=website-button&utm_source=patient-messaging&utm_medium=referral" target="_blank" rel="noopener noreferrer" aria-label="Nachricht an Praxis über Doctolib senden">Nachricht</a></nav>
