@@ -50,7 +50,7 @@ error_reporting(0);
 
 	<link rel="canonical" href="https://zahn.debus-software.de/zahnarzt-alzenau">
 	<!--<link rel="canonical" href="https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau">-->
-<script src="https://zahnarzt-fuchs-alzenau.de/login/statistik/321%20Analytics/en/get/analytics"></script>
+<!--<script src="https://zahnarzt-fuchs-alzenau.de/login/statistik/321%20Analytics/en/get/analytics"></script>-->
 	<!--SEO STuff-->
 	<title><?php echo $Title;?></title>
 	<meta name="description" content="<?php echo $Meta;?>">
@@ -366,4 +366,5 @@ $(document).ready(function() {
 </style><nav class="doctolib-widget" id="doctolib-nav" aria-label="Doctolib Schnellzugriff"><a href="#maincontent" class="skip-link" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden">Zum Hauptinhalt springen</a><img src="https://www.doctolib.de/external_button/doctolib-white-transparent.png" alt="Doctolib Logo"/>
 <a href="https://www.doctolib.de/zahnarztpraxis/alzenau/zahnarztpraxis-bernhard-fuchs?utm_campaign=website-button&utm_source=online-booking&utm_medium=referral" target="_blank" rel="noopener noreferrer" aria-label="Termin Online über Doctolib buchen">Termin</a>
 <a href="https://www.doctolib.de/zahnarztpraxis/alzenau/zahnarztpraxis-bernhard-fuchs/patient-request?utm_campaign=website-button&utm_source=patient-messaging&utm_medium=referral" target="_blank" rel="noopener noreferrer" aria-label="Nachricht an Praxis über Doctolib senden">Nachricht</a></nav>
+
 
