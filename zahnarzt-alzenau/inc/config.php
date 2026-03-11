@@ -519,8 +519,8 @@ function lang($phrase){
               <br>Die Implantatprothetik erhalten Sie dann von uns.',
 
 
-		'IMBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/45541610_m-1600x1000-1600x1000.jpg',
-		'IMBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnimplantat-aufbau-540x349-540x348.png',
+		'IMBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/45541610_m-1600x1000-1600x1000.jpg',
+		'IMBild2' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnimplantat-aufbau-540x349-540x348.png',
 
 
 		//Kinderbehandlung
@@ -654,6 +654,7 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
 
 
 
