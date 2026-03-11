@@ -447,8 +447,8 @@ function lang($phrase){
 
 
 				'AZBlockquote' => 'Wir sind Experten für schöne Zähne!',
-				'AZBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/d007-800x800-700x700-700x700.jpg',
-				'AZBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_gruppenbild-1000x562.jpeg',
+				'AZBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/d007-800x800-700x700-700x700.jpg',
+				'AZBild2' => 'https://zahnarzt-fuchs-alzenau.dezahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_gruppenbild-1000x562.jpeg',
 
 
 		//Lachgas
@@ -456,13 +456,13 @@ function lang($phrase){
 		'LGText' => ' <!--<p>Über eine kleine Nasenmaske atmen Sie ein Gemisch aus Sauerstoff und Lachgas ein. Es wird Ihnen helfen, bei der Zahnbehandlung zu entspannen und reduziert Angstgefühle.<br>In diesem Entspannungszustand sind Sie jederzeit voll ansprechbar und Herr Ihrer Sinne. Gleichzeitig nimmt mit der Angst auch die Schmerzempfindlichkeit stark ab.<br>Die Wirkung ist nach der Behandlung innerhalb von 5 Minuten komplett aufgehoben.<br><br>Sie können die Praxis ohne Begleitperson verlassen.</p>-->',
 
 		'LGUeber2' => 'Tiefschlaf <br>',
-		'LGBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/himmel-1200x800.jpg',
+		'LGBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/himmel-1200x800.jpg',
 		'LGUeber3' =>'Tiefschlaf <br>',
         'LGText2' => '<p>(Analgosedierung, Dämmerschlaf):Medikamentöse Schmerzausschaltung bei gleichzeitiger Beruhigung und 						  Dämpfung des Bewusstseins. Im Gegensatz zur Vollnarkose atmet der Patient selbst und reagiert (schwach) auf 						äußere Reize.</p>',
 		'LGUeber3' => 'Vollnarkose',
         'LGText3' => ' <p>	Bei der Vollnarkose werden Bewusstsein und Schmerzempfindung des Patienten völlig ausgeschaltet, um  optimale Voraussetzungen für therapeutische Eingriffe zu schaffen. <br>Für Vollnarkose und Tiefschlaf kommen Narkoseärzte(Anästhesisten) zu uns in die Praxis, die Sie im Zweierteam während der gesamten Zeit betreuen und überwachen. Anschließend bleiben sie noch bei uns, bis sie sich wieder fit fühlen und werden dann von Ihrer Begleitperson nach Hause gebracht.</p>',
 
-	'LGBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/lachgas-1600x1000.jpg',
+	'LGBild2' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/lachgas-1600x1000.jpg',
 	'LGBlau' => '<b>In unserer Praxis werden nicht nur chirurgische Eingriffe in Vollnarkose durchgeführt.</b><br><br> Auch zahnerhaltende Maßnahmen, wie Füllungstherapie oder Wurzelkanalbehandlungen und Versorgungen mit Kronen und Zahnersatz können in Vollnarkose bei uns erfolgen. <br><br><strong>Darin haben wir Erfahrung seit 1997.</strong>',
 
 
@@ -654,3 +654,4 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
