@@ -221,7 +221,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <script>
-	window.onload = function(){
+/*	window.onload = function(){
 
 	if(screen.width < 800){
     	var x = "<img id=\"slide\"  style=\" position:absolute; left:0%; bottom:0;\" height=\"60%\"src=\"./assets/bilder/GRUPENBILD.png\">";
@@ -233,7 +233,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   document.getElementById("SliderBild").innerHTML = x;
     }
 
-}
+}*/
 </script>
 
 
