@@ -493,7 +493,7 @@ function lang($phrase){
 											</span> Zur Abrechnungsgesellschaft</a>',
 
 
-		'ZEBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_zahnersatz-1600x1000.jpeg',
+		'ZEBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_zahnersatz-1600x1000.jpeg',
         'ZEBild2' => '../zahnarzt-alzenau/assets/bilder/dentalBauer.png',
 
 
@@ -654,6 +654,7 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
 
 
 
