@@ -547,8 +547,8 @@ function lang($phrase){
         'MeText2' => '<p>Weiterhin wird in unserer Praxis mit Lupenbrille, elektronischer Längenbestimmung des Wurzelkanals  und 						speziellen Ultraschallgeräten bei der Aufbereitung gearbeitet.
 				Außerdem bieten wir auch den Austausch (Revision) von alten unvollständigen Wurzelfüllungen an. Mit all diesen 					Maßnahmen schaffen wir die optimalen Voraussetzungen, dass Sie ihren eigenen Zahn noch viele Jahre behalten können 				   .</p>',
 		'MEBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlungen/daumen.jpeg',
-        'MEBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_EndodontieZahn3-832x835.png',
-		'MEBild3' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_EndodontieZahn3-832x835.png',
+        'MEBild2' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_EndodontieZahn3-832x835.png',
+		'MEBild3' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_EndodontieZahn3-832x835.png',
         'MEBild4' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_EndodontieZahn4-836x827.png',
 
 
@@ -654,6 +654,7 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
 
 
 
