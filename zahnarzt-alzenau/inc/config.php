@@ -532,9 +532,9 @@ function lang($phrase){
 
           'KBText3' => 'Liebe Eltern, um für Sie und Ihre Kinder den Zahnarztbesuch so angenehm wie möglich zu gestalten haben wir für Sie einen Infobogen mit Tips zur Kinderbehandlung vorbereitet.',
 		'KBBildFuchs' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_fuchse-1000x138.png',
-        'KBBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/behandlung4zahnarzt_fuchs_alzenau-1600x1000.jpg',
+        'KBBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/behandlung4zahnarzt_fuchs_alzenau-1600x1000.jpg',
 		'KBBild2' => '',
-        'KBBild3' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/kinderbehandlung-400x400.jpeg',
+        'KBBild3' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/kinderbehandlung-400x400.jpeg',
 
 
 
@@ -654,6 +654,7 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
 
 
 
