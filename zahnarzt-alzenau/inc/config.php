@@ -573,7 +573,7 @@ function lang($phrase){
 		//Vollkeramik
     'VKUeber1' => 'Vollkeramik',
 		'VKText1' => '<p>Mit Vollkeramik lassen sich höchste ästhetische Ansprüche verwirklichen, so dass man die Kronen und Brücken kaum noch von echten Zähnen unterscheiden kann. Sie sind auch das Mittel der Wahl, sollte eine Allergie auf Metalle vorliegen.</p>',
-        'VKBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_Zahnersatz-1600x1000.jpg',
+        'VKBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_Zahnersatz-1600x1000.jpg',
 
 
 		'WFBildUnter' => 'Amalgam-Füllung v/s Kunststoff-Füllung',
@@ -654,5 +654,6 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
 
 
