@@ -580,9 +580,9 @@ function lang($phrase){
 		'WFUeber1' => 'Weiße Füllungen',
 		'WFText1' => ' <p>Die meisten Patienten möchten keine Amalgamfüllungen mehr. Zum Glück stehen heute perfekte Alternativen zur Verfügung: Zahnfarbene Füllungen aus Kunststoff oder Keramik.
                       Moderne Füllungen schneiden auch optisch besser ab und bleiben viele Jahre stabil. Kleine Zahnschäden werden mit einem Komposit aus Keramikpartikeln und Kunststoff behandelt. Bei größeren Defekten ist eine Keramikfüllung oder eine Teilkrone aus Keramik vorzuziehen.<br>Wir beraten Sie gerne, sollten Sie Fragen zur Zahnerhaltung haben. Nach einer gründlichen Diagnose erhalten Sie von uns die für Sie bestmögliche Empfehlung und Therapie.</p>',
-		'WFBild1' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_füllungen-502x313.png',
-		'WFBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/paradontologie-350x288-350x287.jpg',
-		'WFBild3' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/bleaching-291x291-291x291.jpg',
+		'WFBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_füllungen-502x313.png',
+		'WFBild2' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/paradontologie-350x288-350x287.jpg',
+		'WFBild3' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/bleaching-291x291-291x291.jpg',
 
 
 
@@ -654,6 +654,7 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
 
 
 
