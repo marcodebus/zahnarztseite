@@ -566,7 +566,7 @@ function lang($phrase){
         'PuZUeber2' => '<br>Professionelle Zahnreinigung:',
 		'PuZText2' => ' <p>Ein strahlendes Lächeln mit weißen, gepflegten Zähnen ist ein Zeichen von Gesundheit, Jugend und Vitalität. Wir bieten Ihnen Professionelle Zahnreinigung, um dieses Ziel zu erreichen. Die professionelle Zahnreinigung (PZR) ist ein Hauptbestandteil der zahnmedizinischen Prophylaxe. Man versteht darunter eine mechanische Reinigung und das Polieren der Zähne, die deutlich über das hinausgeht, was jeder Mensch selbst täglich erledigen kann. Mit der PZR werden sämtliche harten und weichen Beläge sowie Bakterien beseitigt und damit Karies und Parodontitis effektiv vorgebeugt.</p>',
         'PuZBild1' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/teamgalerie/zahnarzt_fuchs_alzenau_besprechung-768x513.jpg',
-		'PuZBild2' => 'https://zahnarzt-fuchs-alzenau.de/wp-content/uploads/2019/01/zahnarzt_fuchs_alzenau_ernaehrung-1000x666.jpg',
+		'PuZBild2' => 'https://zahnarzt-fuchs-alzenau.de/zahnarzt-alzenau/assets/bilder/zahnarzt_fuchs_alzenau_ernaehrung-1000x666.jpg',
 
 
 
@@ -654,6 +654,7 @@ function lang($phrase){
 
 //<?php echo lang('NO_PHOTO'); // No photo's available would show here
 ?>
+
 
 
 
