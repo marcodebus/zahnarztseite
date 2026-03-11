@@ -224,7 +224,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	window.onload = function(){
 
 	if(screen.width < 800){
-    	var x = "<img id=\"slide\"  style=\" position:absolute; left:0%; bottom:0;\" height=\"60%\"src=\"./assets/bilder/GRUPENBILD.png">";
+    	var x = "<img id=\"slide\"  style=\" position:absolute; left:0%; bottom:0;\" height=\"60%\"src=\"./assets/bilder/GRUPENBILD.png\">";
 
   document.getElementById("SliderBild").innerHTML = x;
     }else{
