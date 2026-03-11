@@ -93,7 +93,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicons/favicon.ico">
-    <link rel="manifest" href="assets/images/favicons/manifest.json">
+    <!--<link rel="manifest" href="assets/images/favicons/manifest.json">-->
     <link rel="mask-icon" href="assets/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileImage" content="assets/images/favicons/mstile-150x150.png">
     <meta name="theme-color" content="#ffffff">
@@ -366,3 +366,4 @@ $(document).ready(function() {
 </style><nav class="doctolib-widget" id="doctolib-nav" aria-label="Doctolib Schnellzugriff"><a href="#maincontent" class="skip-link" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden">Zum Hauptinhalt springen</a><img src="https://www.doctolib.de/external_button/doctolib-white-transparent.png" alt="Doctolib Logo"/>
 <a href="https://www.doctolib.de/zahnarztpraxis/alzenau/zahnarztpraxis-bernhard-fuchs?utm_campaign=website-button&utm_source=online-booking&utm_medium=referral" target="_blank" rel="noopener noreferrer" aria-label="Termin Online über Doctolib buchen">Termin</a>
 <a href="https://www.doctolib.de/zahnarztpraxis/alzenau/zahnarztpraxis-bernhard-fuchs/patient-request?utm_campaign=website-button&utm_source=patient-messaging&utm_medium=referral" target="_blank" rel="noopener noreferrer" aria-label="Nachricht an Praxis über Doctolib senden">Nachricht</a></nav>
+
