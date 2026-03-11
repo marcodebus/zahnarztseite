@@ -227,7 +227,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   document.getElementById("SliderBild").innerHTML = x;
     }else{
     
-   		var x = "<img id=\"slide\"  style=\" position:absolute; left:40%; bottom:0;\" height=\"400px\"src=\"./assets/bilder/GRUPENBILD.png\">";
+   		var x = "<img id=\"slide\"  style=\" position:absolute; left:40%; bottom:0;\" height=\"400px\"src=\"./assets/bilder/GRUPENBILD.png">";
   document.getElementById("SliderBild").innerHTML = x;
     }
   
